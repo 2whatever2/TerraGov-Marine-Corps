@@ -1,0 +1,40 @@
+[2020-12-12 22:45:36.931] Starting up round ID .
+ - -------------------------
+[2020-12-12 22:45:36.959] Running /tg/ revision: 2020-11-28
+ - origin/master: 4a87d3f9fbc1d4166b42d11c98e1bafc333e8a94
+ - HEAD: fed5c273aeb2631f1091947ff1487512bb87863e
+[2020-12-12 22:45:37.967] Initialized Database subsystem within 0 seconds!
+[2020-12-12 22:45:37.970] Initialized Server Tasks subsystem within 0 seconds!
+[2020-12-12 22:45:37.971] Initialized Input subsystem within 0 seconds!
+[2020-12-12 22:45:38.016] Initialized Codex subsystem within 0.1 seconds!
+[2020-12-12 22:45:38.024] Initialized Events subsystem within 0 seconds!
+[2020-12-12 22:45:38.037] Initialized Jobs subsystem within 0 seconds!
+[2020-12-12 22:45:38.040] Initialized Ticker subsystem within 0 seconds!
+[2020-12-12 22:45:38.043] Loading LV624...
+[2020-12-12 22:45:42.094] Loaded LV624 in 4s!
+[2020-12-12 22:45:42.112] Loading Debugdalus...
+[2020-12-12 22:45:42.493] Loaded Debugdalus in 0.3s!
+[2020-12-12 22:45:43.692] Initialized Mapping subsystem within 5.6 seconds!
+[2020-12-12 22:46:01.932] Initialized Atoms subsystem within 18.3 seconds!
+[2020-12-12 22:46:01.955] Initialized Machines subsystem within 0 seconds!
+[2020-12-12 22:46:01.957] Initialized Nodes subsystem within 0 seconds!
+[2020-12-12 22:46:01.959] Initialized Blackbox subsystem within 0 seconds!
+[2020-12-12 22:46:01.960] Initialized Direction subsystem within 0 seconds!
+[2020-12-12 22:46:01.968] Initialized Points subsystem within 0 seconds!
+[2020-12-12 22:46:01.971] Initialized Weather subsystem within 0 seconds!
+[2020-12-12 22:46:01.972] Initialized Weed subsystem within 0 seconds!
+[2020-12-12 22:46:01.974] Initialized Weed Decay subsystem within 0 seconds!
+[2020-12-12 22:46:02.033] Initialized Atmospherics subsystem within 0.1 seconds!
+[2020-12-12 22:46:02.364] Initialized Assets subsystem within 0.3 seconds!
+[2020-12-12 22:46:03.238] Initialized Overlay subsystem within 0.9 seconds!
+[2020-12-12 22:46:03.250] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-12-12 22:46:05.272] Initialized Lighting subsystem within 2 seconds!
+[2020-12-12 22:46:05.624] Initialized Shuttle subsystem within 0.4 seconds!
+[2020-12-12 22:46:05.627] Initialized Pathfinder subsystem within 0 seconds!
+[2020-12-12 22:46:05.630] Initialized Chat subsystem within 0 seconds!
+[2020-12-12 22:46:05.633] Initializations complete within 27.7 seconds!
+[2020-12-12 22:49:34.103] Game start took 0s
+[2020-12-12 22:55:09.374] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/weapon/gun/rifle/chambered ammo=high caliber rifle bullet => high explosive rocket
+[2020-12-12 22:57:19.505] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/weapon/gun/rifle/chambered ammo_per_shot=1 => 0
+[2020-12-12 22:57:30.430] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/weapon/gun/rifle/chambered ammo=high caliber rifle bullet => high explosive rocket
+[2020-12-12 22:57:55.301] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/rifle/chamberedrifle current_rounds=1 => 1111

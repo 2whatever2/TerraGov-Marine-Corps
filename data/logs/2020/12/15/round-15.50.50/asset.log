@@ -1,0 +1,257 @@
+[2020-12-15 07:50:57.414] ASSET: Sending asset `padlock.png` to client `Zack24` as `padlock.png`
+[2020-12-15 07:50:57.414] ASSET: Sending asset `common.css` to client `Zack24` as `asset.2c1817def9a9ea3700c8a4c63b022070.css`
+[2020-12-15 07:50:57.419] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 07:51:04.256] ASSET: DEBUG: Skipping send of `jquery.min.js` (as `jquery.min.js`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:51:04.257] ASSET: Sending asset `browserOutput.css` to client `Zack24` as `browserOutput.css`
+[2020-12-15 07:51:04.257] ASSET: Sending asset `browserOutput.js` to client `Zack24` as `browserOutput.js`
+[2020-12-15 07:51:04.257] ASSET: Sending asset `browserOutput_white.css` to client `Zack24` as `browserOutput_white.css`
+[2020-12-15 07:51:04.257] ASSET: Sending asset `fontawesome-webfont.eot` to client `Zack24` as `fontawesome-webfont.eot`
+[2020-12-15 07:51:04.257] ASSET: Sending asset `fontawesome-webfont.svg` to client `Zack24` as `fontawesome-webfont.svg`
+[2020-12-15 07:51:04.257] ASSET: Sending asset `fontawesome-webfont.ttf` to client `Zack24` as `fontawesome-webfont.ttf`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `fontawesome-webfont.woff` to client `Zack24` as `fontawesome-webfont.woff`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `goonchatfont-awesome.css` to client `Zack24` as `goonchatfont-awesome.css`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `json2.min.js` to client `Zack24` as `json2.min.js`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `spritesheet_chat.css` to client `Zack24` as `asset.9b2c5fc6395f3214454b5d0cf0c5403f.css`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `chat_16x16.png` to client `Zack24` as `asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `fa-regular-400.eot` to client `Zack24` as `fa-regular-400.eot`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `fa-regular-400.woff` to client `Zack24` as `fa-regular-400.woff`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `fa-solid-900.eot` to client `Zack24` as `fa-solid-900.eot`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `fa-solid-900.woff` to client `Zack24` as `fa-solid-900.woff`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `font-awesome.css` to client `Zack24` as `font-awesome.css`
+[2020-12-15 07:51:04.258] ASSET: Sending asset `v4shim.css` to client `Zack24` as `v4shim.css`
+[2020-12-15 07:51:24.433] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:51:24.433] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:51:42.071] ASSET: Sending asset `asset.ff026df6e25d1b002ba6ae3d639db94c.png` to client `Zack24` as `asset.ff026df6e25d1b002ba6ae3d639db94c.png`
+[2020-12-15 07:51:43.829] ASSET: DEBUG: Skipping send of `asset.ff026df6e25d1b002ba6ae3d639db94c.png` (as `asset.ff026df6e25d1b002ba6ae3d639db94c.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:51:47.352] ASSET: Sending asset `asset.5aaef5b9cf2f89f09ef01fb100534081.png` to client `Zack24` as `asset.5aaef5b9cf2f89f09ef01fb100534081.png`
+[2020-12-15 07:51:48.351] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:51:48.351] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:52:09.064] ASSET: Sending asset `asset.a1c0588d95cdd8c2e11a1fd7718d9f57.png` to client `Zack24` as `asset.a1c0588d95cdd8c2e11a1fd7718d9f57.png`
+[2020-12-15 07:52:11.484] ASSET: DEBUG: Skipping send of `asset.a1c0588d95cdd8c2e11a1fd7718d9f57.png` (as `asset.a1c0588d95cdd8c2e11a1fd7718d9f57.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:52:28.046] ASSET: Sending asset `asset.9168506cbfd14b57b0fb782cf8c36d33.png` to client `Zack24` as `asset.9168506cbfd14b57b0fb782cf8c36d33.png`
+[2020-12-15 07:52:53.377] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:52:53.377] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:53:37.217] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:53:37.217] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:53:40.357] ASSET: Sending asset `asset.5be6043c7cbc32d5f835b628589cc6c3.png` to client `Zack24` as `asset.5be6043c7cbc32d5f835b628589cc6c3.png`
+[2020-12-15 07:53:40.360] ASSET: DEBUG: Skipping send of `asset.5aaef5b9cf2f89f09ef01fb100534081.png` (as `asset.5aaef5b9cf2f89f09ef01fb100534081.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:53:40.382] ASSET: Sending asset `asset.ad0263a12cf81f24e7a705d7d2143b02.png` to client `Zack24` as `asset.ad0263a12cf81f24e7a705d7d2143b02.png`
+[2020-12-15 07:53:40.387] ASSET: Sending asset `asset.692122901316d76f499625bb92274aa7.png` to client `Zack24` as `asset.692122901316d76f499625bb92274aa7.png`
+[2020-12-15 07:53:40.391] ASSET: Sending asset `asset.09da524bd4141f582e5fb5fc21ea59da.png` to client `Zack24` as `asset.09da524bd4141f582e5fb5fc21ea59da.png`
+[2020-12-15 07:53:40.394] ASSET: Sending asset `asset.677a76762d1360a5a802916439a7ccf6.png` to client `Zack24` as `asset.677a76762d1360a5a802916439a7ccf6.png`
+[2020-12-15 07:53:44.274] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:53:44.274] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:54:37.120] ASSET: Sending asset `tgui.bundle.js` to client `Zack24` as `tgui.bundle.js`
+[2020-12-15 07:54:37.121] ASSET: Sending asset `tgui.bundle.css` to client `Zack24` as `tgui.bundle.css`
+[2020-12-15 07:54:37.121] ASSET: DEBUG: Skipping send of `fa-regular-400.eot` (as `fa-regular-400.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:54:37.121] ASSET: DEBUG: Skipping send of `fa-regular-400.woff` (as `fa-regular-400.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:54:37.121] ASSET: DEBUG: Skipping send of `fa-solid-900.eot` (as `fa-solid-900.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:54:37.121] ASSET: DEBUG: Skipping send of `fa-solid-900.woff` (as `fa-solid-900.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:54:37.121] ASSET: DEBUG: Skipping send of `font-awesome.css` (as `font-awesome.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:54:37.121] ASSET: DEBUG: Skipping send of `v4shim.css` (as `v4shim.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.355] ASSET: DEBUG: Skipping send of `tgui.bundle.js` (as `tgui.bundle.js`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.355] ASSET: DEBUG: Skipping send of `tgui.bundle.css` (as `tgui.bundle.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.355] ASSET: DEBUG: Skipping send of `fa-regular-400.eot` (as `fa-regular-400.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.355] ASSET: DEBUG: Skipping send of `fa-regular-400.woff` (as `fa-regular-400.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.356] ASSET: DEBUG: Skipping send of `fa-solid-900.eot` (as `fa-solid-900.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.356] ASSET: DEBUG: Skipping send of `fa-solid-900.woff` (as `fa-solid-900.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.356] ASSET: DEBUG: Skipping send of `font-awesome.css` (as `font-awesome.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:55:08.356] ASSET: DEBUG: Skipping send of `v4shim.css` (as `v4shim.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:57:46.671] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:57:46.671] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:03.920] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:03.920] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:06.943] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:06.943] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:11.938] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:11.938] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:13.751] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:13.751] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:14.072] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:14.073] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 07:58:22.605] ASSET: Sending asset `asset.42bcc61737b9cdd2fc1e970b3c7bb372.png` to client `Zack24` as `asset.42bcc61737b9cdd2fc1e970b3c7bb372.png`
+[2020-12-15 07:58:23.635] ASSET: Sending asset `asset.d5b6c972dc0d59b58035cf3a653f7f45.png` to client `Zack24` as `asset.d5b6c972dc0d59b58035cf3a653f7f45.png`
+[2020-12-15 08:11:22.322] ASSET: Sending asset `asset.ae98434f7a4959573d143815cb955380.png` to client `Zack24` as `asset.ae98434f7a4959573d143815cb955380.png`
+[2020-12-15 08:11:24.245] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:11:31.347] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:11:31.347] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:11:41.318] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:11:41.319] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:12:09.477] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:12:36.694] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 08:13:14.276] ASSET: DEBUG: Skipping send of `asset.5be6043c7cbc32d5f835b628589cc6c3.png` (as `asset.5be6043c7cbc32d5f835b628589cc6c3.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:14.296] ASSET: DEBUG: Skipping send of `asset.5aaef5b9cf2f89f09ef01fb100534081.png` (as `asset.5aaef5b9cf2f89f09ef01fb100534081.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:14.314] ASSET: DEBUG: Skipping send of `asset.ad0263a12cf81f24e7a705d7d2143b02.png` (as `asset.ad0263a12cf81f24e7a705d7d2143b02.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:14.319] ASSET: DEBUG: Skipping send of `asset.ff026df6e25d1b002ba6ae3d639db94c.png` (as `asset.ff026df6e25d1b002ba6ae3d639db94c.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:14.350] ASSET: Sending asset `asset.e7da9f79ea2df5f7c11f122221938a38.png` to client `Zack24` as `asset.e7da9f79ea2df5f7c11f122221938a38.png`
+[2020-12-15 08:13:14.356] ASSET: DEBUG: Skipping send of `asset.692122901316d76f499625bb92274aa7.png` (as `asset.692122901316d76f499625bb92274aa7.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:14.360] ASSET: DEBUG: Skipping send of `asset.09da524bd4141f582e5fb5fc21ea59da.png` (as `asset.09da524bd4141f582e5fb5fc21ea59da.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:14.363] ASSET: DEBUG: Skipping send of `asset.677a76762d1360a5a802916439a7ccf6.png` (as `asset.677a76762d1360a5a802916439a7ccf6.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:13:53.210] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:14:03.593] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:14:08.285] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:14:08.667] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:14:16.845] ASSET: DEBUG: Skipping send of `asset.ae98434f7a4959573d143815cb955380.png` (as `asset.ae98434f7a4959573d143815cb955380.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:15:02.460] ASSET: Sending asset `asset.2e7a002f28760890e2759bca4e007fa8.png` to client `Zack24` as `asset.2e7a002f28760890e2759bca4e007fa8.png`
+[2020-12-15 08:15:18.062] ASSET: Sending asset `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png` to client `Zack24` as `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png`
+[2020-12-15 08:15:40.941] ASSET: Sending asset `asset.c8f8b0d3fbb976b53a7b777ec8670200.png` to client `Zack24` as `asset.c8f8b0d3fbb976b53a7b777ec8670200.png`
+[2020-12-15 08:15:42.925] ASSET: DEBUG: Skipping send of `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png` (as `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:15:48.095] ASSET: DEBUG: Skipping send of `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png` (as `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:15:50.638] ASSET: DEBUG: Skipping send of `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png` (as `asset.d203a11c14c1041e7e6f0c4fe4f50efc.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:15:55.049] ASSET: Sending asset `asset.3b35bec27fbc6befce1b7cfa600542b7.png` to client `Zack24` as `asset.3b35bec27fbc6befce1b7cfa600542b7.png`
+[2020-12-15 08:15:55.869] ASSET: DEBUG: Skipping send of `asset.2e7a002f28760890e2759bca4e007fa8.png` (as `asset.2e7a002f28760890e2759bca4e007fa8.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:16:05.113] ASSET: DEBUG: Skipping send of `asset.2e7a002f28760890e2759bca4e007fa8.png` (as `asset.2e7a002f28760890e2759bca4e007fa8.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:16:10.894] ASSET: DEBUG: Skipping send of `asset.2e7a002f28760890e2759bca4e007fa8.png` (as `asset.2e7a002f28760890e2759bca4e007fa8.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:16:17.300] ASSET: Sending asset `asset.e474503535161702b583582723558721.png` to client `Zack24` as `asset.e474503535161702b583582723558721.png`
+[2020-12-15 08:16:31.239] ASSET: DEBUG: Skipping send of `asset.e474503535161702b583582723558721.png` (as `asset.e474503535161702b583582723558721.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:16:47.293] ASSET: DEBUG: Skipping send of `asset.e474503535161702b583582723558721.png` (as `asset.e474503535161702b583582723558721.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:17:00.173] ASSET: DEBUG: Skipping send of `asset.e474503535161702b583582723558721.png` (as `asset.e474503535161702b583582723558721.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:17:08.576] ASSET: DEBUG: Skipping send of `asset.e474503535161702b583582723558721.png` (as `asset.e474503535161702b583582723558721.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:17:10.305] ASSET: Sending asset `asset.b2e82c2348f346d2a40e37907c749ea7.png` to client `Zack24` as `asset.b2e82c2348f346d2a40e37907c749ea7.png`
+[2020-12-15 08:17:13.870] ASSET: DEBUG: Skipping send of `asset.2e7a002f28760890e2759bca4e007fa8.png` (as `asset.2e7a002f28760890e2759bca4e007fa8.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:17:30.934] ASSET: Sending asset `asset.0188e59fc07216fbc243a65f3a14440f.png` to client `Zack24` as `asset.0188e59fc07216fbc243a65f3a14440f.png`
+[2020-12-15 08:20:38.551] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 08:21:34.533] ASSET: Sending asset `asset.e3382848c18f8b5e8590e44ac7eb8a05.png` to client `Zack24` as `asset.e3382848c18f8b5e8590e44ac7eb8a05.png`
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `tgui.bundle.css` (as `tgui.bundle.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:28:51.678] ASSET: Sending asset `tgui.bundle.js` to client `Zack24` as `tgui.bundle.js`
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `fa-regular-400.eot` (as `fa-regular-400.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `fa-regular-400.woff` (as `fa-regular-400.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `fa-solid-900.eot` (as `fa-solid-900.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `fa-solid-900.woff` (as `fa-solid-900.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `font-awesome.css` (as `font-awesome.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:28:51.678] ASSET: DEBUG: Skipping send of `v4shim.css` (as `v4shim.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:34:14.760] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:34:14.761] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:34:22.199] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:34:22.199] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:35:17.232] ASSET: Sending asset `asset.b0dc83b9f9f25c58ded7a08dc1c0853a.png` to client `Zack24` as `asset.b0dc83b9f9f25c58ded7a08dc1c0853a.png`
+[2020-12-15 08:35:18.899] ASSET: DEBUG: Skipping send of `asset.b0dc83b9f9f25c58ded7a08dc1c0853a.png` (as `asset.b0dc83b9f9f25c58ded7a08dc1c0853a.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:36:19.473] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 08:37:49.566] ASSET: Sending asset `asset.918111b67bd8f5a400d9848ae6f30a07.png` to client `Zack24` as `asset.918111b67bd8f5a400d9848ae6f30a07.png`
+[2020-12-15 08:47:49.166] ASSET: DEBUG: Skipping send of `asset.918111b67bd8f5a400d9848ae6f30a07.png` (as `asset.918111b67bd8f5a400d9848ae6f30a07.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:51:02.919] ASSET: DEBUG: Skipping send of `asset.918111b67bd8f5a400d9848ae6f30a07.png` (as `asset.918111b67bd8f5a400d9848ae6f30a07.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.998] ASSET: DEBUG: Skipping send of `tgui.bundle.css` (as `tgui.bundle.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.998] ASSET: Sending asset `tgui.bundle.js` to client `Zack24` as `tgui.bundle.js`
+[2020-12-15 08:53:37.999] ASSET: DEBUG: Skipping send of `fa-regular-400.eot` (as `fa-regular-400.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.999] ASSET: DEBUG: Skipping send of `fa-regular-400.woff` (as `fa-regular-400.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.999] ASSET: DEBUG: Skipping send of `fa-solid-900.eot` (as `fa-solid-900.eot`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.999] ASSET: DEBUG: Skipping send of `fa-solid-900.woff` (as `fa-solid-900.woff`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.999] ASSET: DEBUG: Skipping send of `font-awesome.css` (as `font-awesome.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:53:37.999] ASSET: DEBUG: Skipping send of `v4shim.css` (as `v4shim.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:55:44.286] ASSET: DEBUG: Skipping send of `asset.e3382848c18f8b5e8590e44ac7eb8a05.png` (as `asset.e3382848c18f8b5e8590e44ac7eb8a05.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:55:52.072] ASSET: Sending asset `asset.2ac830167a5217223283145d65acd214.png` to client `Zack24` as `asset.2ac830167a5217223283145d65acd214.png`
+[2020-12-15 08:55:53.975] ASSET: DEBUG: Skipping send of `asset.2ac830167a5217223283145d65acd214.png` (as `asset.2ac830167a5217223283145d65acd214.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:56:17.364] ASSET: Sending asset `asset.ccbf6b7953e750a4750d17ad642f91ff.png` to client `Zack24` as `asset.ccbf6b7953e750a4750d17ad642f91ff.png`
+[2020-12-15 08:57:32.860] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:57:32.860] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:57:35.621] ASSET: Sending asset `asset.18da3156cdd6a600d79a2d02b353013d.png` to client `Zack24` as `asset.18da3156cdd6a600d79a2d02b353013d.png`
+[2020-12-15 08:58:37.684] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:58:37.684] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:58:44.095] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:58:44.095] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:58:50.344] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 08:59:31.674] ASSET: Sending asset `asset.7a910e1e4f9b04f7f58a3c0f8673c0a4.png` to client `Zack24` as `asset.7a910e1e4f9b04f7f58a3c0f8673c0a4.png`
+[2020-12-15 08:59:36.164] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 08:59:36.164] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:01:50.173] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:01:50.173] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:01:53.172] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:01:53.172] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:02:51.418] ASSET: Sending asset `asset.5106e55e64f401dd90988a01dbaad2fa.png` to client `Zack24` as `asset.5106e55e64f401dd90988a01dbaad2fa.png`
+[2020-12-15 09:02:54.391] ASSET: DEBUG: Skipping send of `asset.5106e55e64f401dd90988a01dbaad2fa.png` (as `asset.5106e55e64f401dd90988a01dbaad2fa.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:26.377] ASSET: DEBUG: Skipping send of `asset.5106e55e64f401dd90988a01dbaad2fa.png` (as `asset.5106e55e64f401dd90988a01dbaad2fa.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:26.398] ASSET: Sending asset `asset.18bcceb9d224d29c4388eb8fa7484a94.png` to client `Zack24` as `asset.18bcceb9d224d29c4388eb8fa7484a94.png`
+[2020-12-15 09:03:26.465] ASSET: Sending asset `asset.584b07c11e8d24f894d891c04087937b.png` to client `Zack24` as `asset.584b07c11e8d24f894d891c04087937b.png`
+[2020-12-15 09:03:26.487] ASSET: Sending asset `asset.aaf2c6a1e030e0de9dd7ece6ccfec83f.png` to client `Zack24` as `asset.aaf2c6a1e030e0de9dd7ece6ccfec83f.png`
+[2020-12-15 09:03:26.545] ASSET: Sending asset `asset.469f04e1134c843466f726a2b90e1a72.png` to client `Zack24` as `asset.469f04e1134c843466f726a2b90e1a72.png`
+[2020-12-15 09:03:26.562] ASSET: Sending asset `asset.e207a67f3040cf892ac8b099dbfe8c89.png` to client `Zack24` as `asset.e207a67f3040cf892ac8b099dbfe8c89.png`
+[2020-12-15 09:03:26.571] ASSET: Sending asset `asset.3c6777eb464e21531bc5f94f3534f6e5.png` to client `Zack24` as `asset.3c6777eb464e21531bc5f94f3534f6e5.png`
+[2020-12-15 09:03:26.574] ASSET: DEBUG: Skipping send of `asset.677a76762d1360a5a802916439a7ccf6.png` (as `asset.677a76762d1360a5a802916439a7ccf6.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:29.314] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 09:03:32.075] ASSET: DEBUG: Skipping send of `jquery.min.js` (as `jquery.min.js`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:32.075] ASSET: Sending asset `browserOutput.css` to client `Zack24` as `browserOutput.css`
+[2020-12-15 09:03:32.075] ASSET: Sending asset `browserOutput.js` to client `Zack24` as `browserOutput.js`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `browserOutput_white.css` to client `Zack24` as `browserOutput_white.css`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `fontawesome-webfont.eot` to client `Zack24` as `fontawesome-webfont.eot`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `fontawesome-webfont.svg` to client `Zack24` as `fontawesome-webfont.svg`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `fontawesome-webfont.ttf` to client `Zack24` as `fontawesome-webfont.ttf`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `fontawesome-webfont.woff` to client `Zack24` as `fontawesome-webfont.woff`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `goonchatfont-awesome.css` to client `Zack24` as `goonchatfont-awesome.css`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `json2.min.js` to client `Zack24` as `json2.min.js`
+[2020-12-15 09:03:32.076] ASSET: Sending asset `spritesheet_chat.css` to client `Zack24` as `asset.9b2c5fc6395f3214454b5d0cf0c5403f.css`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `chat_16x16.png` to client `Zack24` as `asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `fa-regular-400.eot` to client `Zack24` as `fa-regular-400.eot`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `fa-regular-400.woff` to client `Zack24` as `fa-regular-400.woff`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `fa-solid-900.eot` to client `Zack24` as `fa-solid-900.eot`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `fa-solid-900.woff` to client `Zack24` as `fa-solid-900.woff`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `font-awesome.css` to client `Zack24` as `font-awesome.css`
+[2020-12-15 09:03:32.077] ASSET: Sending asset `v4shim.css` to client `Zack24` as `v4shim.css`
+[2020-12-15 09:03:51.874] ASSET: DEBUG: Skipping send of `asset.5106e55e64f401dd90988a01dbaad2fa.png` (as `asset.5106e55e64f401dd90988a01dbaad2fa.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.877] ASSET: DEBUG: Skipping send of `asset.18bcceb9d224d29c4388eb8fa7484a94.png` (as `asset.18bcceb9d224d29c4388eb8fa7484a94.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.879] ASSET: DEBUG: Skipping send of `asset.584b07c11e8d24f894d891c04087937b.png` (as `asset.584b07c11e8d24f894d891c04087937b.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.881] ASSET: DEBUG: Skipping send of `asset.aaf2c6a1e030e0de9dd7ece6ccfec83f.png` (as `asset.aaf2c6a1e030e0de9dd7ece6ccfec83f.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.883] ASSET: DEBUG: Skipping send of `asset.469f04e1134c843466f726a2b90e1a72.png` (as `asset.469f04e1134c843466f726a2b90e1a72.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.885] ASSET: DEBUG: Skipping send of `asset.e207a67f3040cf892ac8b099dbfe8c89.png` (as `asset.e207a67f3040cf892ac8b099dbfe8c89.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.889] ASSET: DEBUG: Skipping send of `asset.3c6777eb464e21531bc5f94f3534f6e5.png` (as `asset.3c6777eb464e21531bc5f94f3534f6e5.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:51.890] ASSET: DEBUG: Skipping send of `asset.677a76762d1360a5a802916439a7ccf6.png` (as `asset.677a76762d1360a5a802916439a7ccf6.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.849] ASSET: DEBUG: Skipping send of `asset.7a910e1e4f9b04f7f58a3c0f8673c0a4.png` (as `asset.7a910e1e4f9b04f7f58a3c0f8673c0a4.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.851] ASSET: DEBUG: Skipping send of `asset.18bcceb9d224d29c4388eb8fa7484a94.png` (as `asset.18bcceb9d224d29c4388eb8fa7484a94.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.853] ASSET: DEBUG: Skipping send of `asset.584b07c11e8d24f894d891c04087937b.png` (as `asset.584b07c11e8d24f894d891c04087937b.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.855] ASSET: DEBUG: Skipping send of `asset.aaf2c6a1e030e0de9dd7ece6ccfec83f.png` (as `asset.aaf2c6a1e030e0de9dd7ece6ccfec83f.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.856] ASSET: DEBUG: Skipping send of `asset.469f04e1134c843466f726a2b90e1a72.png` (as `asset.469f04e1134c843466f726a2b90e1a72.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.859] ASSET: DEBUG: Skipping send of `asset.e207a67f3040cf892ac8b099dbfe8c89.png` (as `asset.e207a67f3040cf892ac8b099dbfe8c89.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.861] ASSET: DEBUG: Skipping send of `asset.3c6777eb464e21531bc5f94f3534f6e5.png` (as `asset.3c6777eb464e21531bc5f94f3534f6e5.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:03:59.863] ASSET: DEBUG: Skipping send of `asset.677a76762d1360a5a802916439a7ccf6.png` (as `asset.677a76762d1360a5a802916439a7ccf6.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:10.055] ASSET: Sending asset `asset.11e362682ae97691661cda1789c12358.png` to client `Zack24` as `asset.11e362682ae97691661cda1789c12358.png`
+[2020-12-15 09:04:17.295] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:17.295] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:17.295] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:17.295] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:20.779] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:20.779] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:20.779] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:20.779] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:22.624] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:22.624] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:22.624] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:22.624] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:04:40.834] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-12-15 09:05:06.579] ASSET: Sending asset `asset.2b7441106fe8f13f4c2dfd6298c48ad5.png` to client `Zack24` as `asset.2b7441106fe8f13f4c2dfd6298c48ad5.png`
+[2020-12-15 09:05:12.146] ASSET: Sending asset `asset.91ec48daecdf380ce5d414aa3b0421ef.png` to client `Zack24` as `asset.91ec48daecdf380ce5d414aa3b0421ef.png`
+[2020-12-15 09:05:12.169] ASSET: DEBUG: Skipping send of `asset.5aaef5b9cf2f89f09ef01fb100534081.png` (as `asset.5aaef5b9cf2f89f09ef01fb100534081.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.172] ASSET: DEBUG: Skipping send of `asset.ad0263a12cf81f24e7a705d7d2143b02.png` (as `asset.ad0263a12cf81f24e7a705d7d2143b02.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.175] ASSET: DEBUG: Skipping send of `asset.ff026df6e25d1b002ba6ae3d639db94c.png` (as `asset.ff026df6e25d1b002ba6ae3d639db94c.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.177] ASSET: DEBUG: Skipping send of `asset.e7da9f79ea2df5f7c11f122221938a38.png` (as `asset.e7da9f79ea2df5f7c11f122221938a38.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.183] ASSET: DEBUG: Skipping send of `asset.692122901316d76f499625bb92274aa7.png` (as `asset.692122901316d76f499625bb92274aa7.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.187] ASSET: DEBUG: Skipping send of `asset.09da524bd4141f582e5fb5fc21ea59da.png` (as `asset.09da524bd4141f582e5fb5fc21ea59da.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.189] ASSET: DEBUG: Skipping send of `asset.677a76762d1360a5a802916439a7ccf6.png` (as `asset.677a76762d1360a5a802916439a7ccf6.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.418] ASSET: DEBUG: Skipping send of `asset.91ec48daecdf380ce5d414aa3b0421ef.png` (as `asset.91ec48daecdf380ce5d414aa3b0421ef.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.420] ASSET: DEBUG: Skipping send of `asset.5aaef5b9cf2f89f09ef01fb100534081.png` (as `asset.5aaef5b9cf2f89f09ef01fb100534081.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.422] ASSET: DEBUG: Skipping send of `asset.ad0263a12cf81f24e7a705d7d2143b02.png` (as `asset.ad0263a12cf81f24e7a705d7d2143b02.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.425] ASSET: DEBUG: Skipping send of `asset.ff026df6e25d1b002ba6ae3d639db94c.png` (as `asset.ff026df6e25d1b002ba6ae3d639db94c.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.427] ASSET: DEBUG: Skipping send of `asset.e7da9f79ea2df5f7c11f122221938a38.png` (as `asset.e7da9f79ea2df5f7c11f122221938a38.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.431] ASSET: DEBUG: Skipping send of `asset.692122901316d76f499625bb92274aa7.png` (as `asset.692122901316d76f499625bb92274aa7.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.434] ASSET: DEBUG: Skipping send of `asset.09da524bd4141f582e5fb5fc21ea59da.png` (as `asset.09da524bd4141f582e5fb5fc21ea59da.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:05:12.435] ASSET: DEBUG: Skipping send of `asset.677a76762d1360a5a802916439a7ccf6.png` (as `asset.677a76762d1360a5a802916439a7ccf6.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:39.687] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:39.688] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:45.934] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:45.934] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:50.285] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:50.285] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:53.483] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:53.484] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:56.618] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:56.618] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:58.629] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:07:58.630] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:00.506] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:00.506] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:02.189] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:02.190] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:03.871] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:03.871] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:05.731] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:05.731] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:11.256] ASSET: DEBUG: Skipping send of `padlock.png` (as `padlock.png`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-12-15 09:08:11.256] ASSET: DEBUG: Skipping send of `common.css` (as `asset.2c1817def9a9ea3700c8a4c63b022070.css`) for `Zack24` because it already exists in the client's sent_assets list

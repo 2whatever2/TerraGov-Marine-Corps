@@ -1,0 +1,35 @@
+[2020-12-18 06:16:48.718] Starting up round ID .
+ - -------------------------
+[2020-12-18 06:16:48.763] Running /tg/ revision: 2020-12-18
+ - origin/master: bdd42a8738b063dd41385eb9d4128b2df374c9a4
+ - HEAD: 205c13eecd53cc07213552ad94be29ffcc27d7ad
+[2020-12-18 06:16:49.770] Initialized Database subsystem within 0 seconds!
+[2020-12-18 06:16:49.775] Initialized Server Tasks subsystem within 0 seconds!
+[2020-12-18 06:16:49.777] Initialized Input subsystem within 0 seconds!
+[2020-12-18 06:16:49.817] Initialized Codex subsystem within 0.1 seconds!
+[2020-12-18 06:16:49.825] Initialized Events subsystem within 0 seconds!
+[2020-12-18 06:16:49.839] Initialized Jobs subsystem within 0 seconds!
+[2020-12-18 06:16:49.843] Initialized Ticker subsystem within 0 seconds!
+[2020-12-18 06:16:49.847] Loading LV624...
+[2020-12-18 06:16:53.591] Loaded LV624 in 3.7s!
+[2020-12-18 06:16:53.606] Loading Debugdalus...
+[2020-12-18 06:16:53.891] Loaded Debugdalus in 0.2s!
+[2020-12-18 06:16:54.103] Initialized Mapping subsystem within 4.3 seconds!
+[2020-12-18 06:17:16.419] Initialized Atoms subsystem within 22.3 seconds!
+[2020-12-18 06:17:16.454] Initialized Machines subsystem within 0 seconds!
+[2020-12-18 06:17:16.461] Initialized Nodes subsystem within 0 seconds!
+[2020-12-18 06:17:16.464] Initialized Blackbox subsystem within 0 seconds!
+[2020-12-18 06:17:16.467] Initialized Direction subsystem within 0 seconds!
+[2020-12-18 06:17:16.477] Initialized Points subsystem within 0 seconds!
+[2020-12-18 06:17:16.483] Initialized Weather subsystem within 0 seconds!
+[2020-12-18 06:17:16.489] Initialized Weed subsystem within 0 seconds!
+[2020-12-18 06:17:16.492] Initialized Weed Decay subsystem within 0 seconds!
+[2020-12-18 06:17:16.603] Initialized Atmospherics subsystem within 0.2 seconds!
+[2020-12-18 06:17:19.155] Initialized Assets subsystem within 2.5 seconds!
+[2020-12-18 06:17:20.298] Initialized Overlay subsystem within 0.9 seconds!
+[2020-12-18 06:17:20.302] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-12-18 06:17:22.411] Initialized Lighting subsystem within 2.1 seconds!
+[2020-12-18 06:17:25.067] Initialized Shuttle subsystem within 2.6 seconds!
+[2020-12-18 06:17:25.070] Initialized Pathfinder subsystem within 0 seconds!
+[2020-12-18 06:17:25.072] Initialized Chat subsystem within 0 seconds!
+[2020-12-18 06:17:25.075] Initializations complete within 35.3 seconds!

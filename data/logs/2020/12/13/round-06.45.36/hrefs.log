@@ -1,0 +1,61 @@
+[2020-12-12 22:45:36.927] Starting up round ID .
+ - -------------------------
+[2020-12-12 22:46:58.208] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=doneLoading
+[2020-12-12 22:46:58.288] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"119.94.9.6","compid":"2571130799"},{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.14.191","compid":"2571130799"}]}
+[2020-12-12 22:47:08.314] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[mob_38];lobby_choice=observe
+[2020-12-12 22:49:02.475] HREF: Zack24 (usr:Jupiter Elder[(43,24,3)]) : zack24's admin datum (!localhost!) src=[0x21006976];admin_token=4354368153108638438638375109610676;rank=equipment;mob=[mob_41]
+[2020-12-12 22:49:28.466] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x210067fa%5D&action=tgui%3Ainitialize
+[2020-12-12 22:49:29.148] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : 
+[2020-12-12 22:49:29.149] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : 
+[2020-12-12 22:49:39.751] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x210067fa%5D&action=vend&vend=66&cat=0
+[2020-12-12 22:49:43.677] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x210067fa%5D&action=vend&vend=76&cat=0
+[2020-12-12 22:49:45.522] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x210067fa%5D&action=vend&vend=82&cat=0
+[2020-12-12 22:49:52.713] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x210067fa%5D&action=vend&vend=71&cat=0
+[2020-12-12 22:49:54.201] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x21006442%5D&action=tgui%3Ainitialize
+[2020-12-12 22:49:54.804] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : 
+[2020-12-12 22:49:54.805] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : 
+[2020-12-12 22:49:55.852] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : __keyup=17
+[2020-12-12 22:49:55.854] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : __keyup=70
+[2020-12-12 22:49:57.992] HREF: Zack24 (usr:Jupiter Elder[(41,25,3)]) : /datum/tgui src=%5B0x21006442%5D&action=vend&vend=62&cat=0
+[2020-12-12 22:50:16.317] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : Plodia Curvata (as Unknown) src=[mob_41];item=8
+[2020-12-12 22:50:40.463] HREF: Zack24 (usr:Plodia Curvata (as Unknown)[(43,24,3)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"119.94.9.6","compid":"2571130799"},{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.14.191","compid":"2571130799"}]}
+[2020-12-12 22:50:40.592] HREF: Zack24 (usr:Plodia Curvata (as Unknown)[(43,24,3)]) : asset_cache_preload_data=%7B%22padlock.png%22%3A%22fd54303923e9086cd6b61a9c4c454f12%22%2C%22asset.2c1817def9a9ea3700c8a4c63b022070.css%22%3A%222c1817def9a9ea3700c8a4c63b022070%22%2C%22jquery.min.js%22%3A%228101d596b2b8fa35fe3a634ea342d7c3%22%2C%22browserOutput.css%22%3A%222b30087926991182605e81fcfb2eb593%22%2C%22browserOutput.js%22%3A%2201938fe53c6a56cebadc7df53b14bb33%22%2C%22browserOutput_white.css%22%3A%22ef5d96586e6717ff7d9dfbcf9086c3e4%22%2C%22fontawesome-webfont.eot%22%3A%2232400f4e08932a94d8bfd2422702c446%22%2C%22fontawesome-webfont.svg%22%3A%22a96314f5ef854388a64ca3befd9942e9%22%2C%22fontawesome-webfont.ttf%22%3A%22a3de2170e4e9df77161ea5d3f31b2668%22%2C%22fontawesome-webfont.woff%22%3A%22a35720c2fed2c7f043bc7e4ffb45e073%22%2C%22goonchatfont-awesome.css%22%3A%223a15fac854d5226a26306c5226a7c01d%22%2C%22json2.min.js%22%3A%2228a0350ec50b9fd89972b78ce1e7dbd4%22%2C%22asset.9b2c5fc6395f3214454b5d0cf0c5403f.css%22%3A%229b2c5fc6395f3214454b5d0cf0c5403f%22%2C%22asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png%22%3A%22f2c9176c6a3ba7b8cdfe4457c848bd8c%22%2C%22fa-regular-400.eot%22%3A%22fc9c63c8224fb341fc933641cbdd12ef%22%2C%22fa-regular-400.woff%22%3A%22e5770f9863963fb576942e25214a226d%22%2C%22fa-solid-900.eot%22%3A%22ef3df98419d143d9617fe163bf4edc0b%22%2C%22fa-solid-900.woff%22%3A%224bced7c4c0d61d4f988629bb8ae80b8b%22%2C%22font-awesome.css%22%3A%22b7b0fc427ae028cde1fe3356abfee869%22%2C%22v4shim.css%22%3A%22e140a7d32f343530f016095df3cc2ae4%22%2C%22asset.3b35bec27fbc6befce1b7cfa600542b7.png%22%3A%223b35bec27fbc6befce1b7cfa600542b7%22%2C%22asset.32c246542ca8667d372f81e588e4d237.png%22%3A%2232c246542ca8667d372f81e588e4d237%22%2C%22asset.3083c5f1fad3e8c36edc1af96b0e1c60.png%22%3A%223083c5f1fad3e8c36edc1af96b0e1c60%22%2C%22asset.5f598ae7675527a4607251d8e7835a69.png%22%3A%225f598ae7675527a4607251d8e7835a69%22%2C%22asset.b767e347a5c4f4e1de7c1b9ec3a03da1.png%22%3A%22b767e347a5c4f4e1de7c1b9ec3a03da1%22%2C%22asset.ad0263a12cf81f24e7a705d7d2143b02.png%22%3A%22ad0263a12cf81f24e7a705d7d2143b02%22%2C%22asset.d6446b7d5287d67f1486899ba824c3f9.png%22%3A%22d6446b7d5287d67f1486899ba824c3f9%22%2C%22asset.ab5cc53c394ba964f4b08c6bde4cd13e.png%22%3A%22ab5cc53c394ba964f4b08c6bde4cd13e%22%2C%22asset.1f79e8077fe5cf98bd323010f5048669.png%22%3A%221f79e8077fe5cf98bd323010f5048669%22%2C%22asset.5863f3118423311054b42babbe341175.png%22%3A%225863f3118423311054b42babbe341175%22%2C%22asset.f471eea8aa61f7d81b5545af3cc4e97e.png%22%3A%22f471eea8aa61f7d81b5545af3cc4e97e%22%2C%22asset.9cd878b6acf8fa6457cad4af6530a2e0.png%22%3A%229cd878b6acf8fa6457cad4af6530a2e0%22%2C%22tgui.bundle.js%22%3A%22be0cfded7d4a3b7d5f07587b4d90980f%22%2C%22tgui.bundle.css%22%3A%22cbfa2ad8a24954f16cdc0ee240440b5d%22%7D
+[2020-12-12 22:51:01.906] HREF: Zack24 (usr:Jupiter Elder[(39,25,3)]) : /datum/tgui src=%5B0x21006a3f%5D&action=tgui%3Ainitialize
+[2020-12-12 22:51:02.282] HREF: Zack24 (usr:Jupiter Elder[(39,25,3)]) : 
+[2020-12-12 22:51:02.283] HREF: Zack24 (usr:Jupiter Elder[(39,25,3)]) : 
+[2020-12-12 22:51:03.876] HREF: Zack24 (usr:Jupiter Elder[(39,25,3)]) : __keyup=17
+[2020-12-12 22:51:03.877] HREF: Zack24 (usr:Jupiter Elder[(39,25,3)]) : __keyup=70
+[2020-12-12 22:51:08.215] HREF: Zack24 (usr:Jupiter Elder[(39,25,3)]) : /datum/tgui src=%5B0x21006a3f%5D&action=vend&vend=15&cat=0
+[2020-12-12 22:51:09.214] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : /datum/tgui src=%5B0x21000cf4%5D&action=tgui%3Ainitialize
+[2020-12-12 22:51:09.846] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : 
+[2020-12-12 22:51:09.849] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : 
+[2020-12-12 22:51:10.213] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : /datum/tgui src=%5B0x2100203d%5D&action=tgui%3Ainitialize
+[2020-12-12 22:51:10.571] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : 
+[2020-12-12 22:51:10.572] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : 
+[2020-12-12 22:51:12.738] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : /datum/tgui src=%5B0x2100203d%5D&action=vend&vend=14&cat=0
+[2020-12-12 22:51:16.547] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : /datum/tgui src=%5B0x2100203d%5D&action=vend&vend=14&cat=0
+[2020-12-12 22:51:16.756] HREF: Zack24 (usr:Jupiter Elder[(40,25,3)]) : /datum/tgui src=%5B0x2100203d%5D&action=vend&vend=14&cat=0
+[2020-12-12 22:51:17.609] HREF: Zack24 (usr:Jupiter Elder[(40,27,3)]) : __keydown=87
+[2020-12-12 22:51:17.613] HREF: Zack24 (usr:Jupiter Elder[(40,27,3)]) : __keyup=87
+[2020-12-12 22:51:18.012] HREF: Zack24 (usr:Jupiter Elder[(40,29,3)]) : __keydown=87
+[2020-12-12 22:51:18.040] HREF: Zack24 (usr:Jupiter Elder[(40,29,3)]) : __keyup=87
+[2020-12-12 22:51:18.968] HREF: Zack24 (usr:Jupiter Elder[(43,29,3)]) : __keydown=68
+[2020-12-12 22:51:19.038] HREF: Zack24 (usr:Jupiter Elder[(43,29,3)]) : __keyup=68
+[2020-12-12 22:51:55.771] HREF: Zack24 (usr:Jupiter Elder[(43,26,3)]) : zack24's admin datum (!localhost!) src=[0x210039f6];admin_token=1101108569982071131072227936879506;rank=equipment;mob=[mob_45]
+[2020-12-12 22:52:21.572] HREF: Zack24 (usr:Jupiter Elder[(44,28,3)]) : _src_=codex;show_examined_info=[0x2010264];show_to=[mob_40]
+[2020-12-12 22:52:28.088] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : /datum/tgui src=%5B0x2100682e%5D&action=tgui%3Ainitialize
+[2020-12-12 22:52:28.611] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : 
+[2020-12-12 22:52:28.612] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : 
+[2020-12-12 22:52:32.111] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : /datum/tgui src=%5B0x2100682e%5D&action=vend&vend=9&cat=0
+[2020-12-12 22:52:35.909] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : _src_=codex;show_examined_info=[0x2010270];show_to=[mob_40]
+[2020-12-12 22:52:36.134] HREF: Zack24 (usr:Jupiter Elder[(42,25,3)]) : _src_=codex;show_examined_info=[0x2010270];show_to=[mob_40]
+[2020-12-12 22:52:41.213] HREF: Zack24 (usr:Jupiter Elder[(43,27,3)]) : _src_=codex;show_examined_info=[0x2010264];show_to=[mob_40]
+[2020-12-12 22:54:35.844] HREF: Zack24 (usr:Jupiter Elder[(44,28,3)]) : _src_=codex;show_examined_info=[0x201016e];show_to=[mob_40]
+[2020-12-12 22:54:46.912] HREF: Zack24 (usr:Jupiter Elder[(44,28,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;vars=[0x210003f7]
+[2020-12-12 22:54:48.451] HREF: Zack24 (usr:Jupiter Elder[(44,28,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;datumedit=[0x210003f7];varnameedit=name
+[2020-12-12 22:54:55.780] HREF: Zack24 (usr:Jupiter Elder[(44,28,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;datumedit=[0x201016e];varnameedit=ammo
+[2020-12-12 22:56:43.923] HREF: Zack24 (usr:Jupiter Elder[(40,28,3)]) : _src_=codex;show_examined_info=[0x201016e];show_to=[mob_40]
+[2020-12-12 22:57:17.328] HREF: Zack24 (usr:Jupiter Elder[(40,28,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;datumedit=[0x201016e];varnameedit=ammo_per_shot
+[2020-12-12 22:57:21.081] HREF: Zack24 (usr:Jupiter Elder[(40,28,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;datumedit=[0x201016e];varnameedit=ammo
+[2020-12-12 22:57:49.780] HREF: Zack24 (usr:Jupiter Elder[(41,31,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;vars=[0x200397d]
+[2020-12-12 22:57:54.212] HREF: Zack24 (usr:Jupiter Elder[(41,31,3)]) : _src_=vars;admin_token=1101108569982071131072227936879506;datumedit=[0x200397d];varnameedit=current_rounds

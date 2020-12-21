@@ -1,0 +1,68 @@
+[2020-10-29 08:41:38.035] Starting up round ID .
+ - -------------------------
+[2020-10-29 08:42:48.958] HREF: Zack24 (usr:Zack24[(8,8,1)]) : asset_cache_preload_data=%7B%22padlock.png%22%3A%22fd54303923e9086cd6b61a9c4c454f12%22%2C%22asset.2c1817def9a9ea3700c8a4c63b022070.css%22%3A%222c1817def9a9ea3700c8a4c63b022070%22%2C%22jquery.min.js%22%3A%228101d596b2b8fa35fe3a634ea342d7c3%22%2C%22browserOutput.css%22%3A%222b30087926991182605e81fcfb2eb593%22%2C%22browserOutput.js%22%3A%2201938fe53c6a56cebadc7df53b14bb33%22%2C%22browserOutput_white.css%22%3A%22ef5d96586e6717ff7d9dfbcf9086c3e4%22%2C%22fontawesome-webfont.eot%22%3A%2232400f4e08932a94d8bfd2422702c446%22%2C%22fontawesome-webfont.svg%22%3A%22a96314f5ef854388a64ca3befd9942e9%22%2C%22fontawesome-webfont.ttf%22%3A%22a3de2170e4e9df77161ea5d3f31b2668%22%2C%22fontawesome-webfont.woff%22%3A%22a35720c2fed2c7f043bc7e4ffb45e073%22%2C%22goonchatfont-awesome.css%22%3A%223a15fac854d5226a26306c5226a7c01d%22%2C%22json2.min.js%22%3A%2228a0350ec50b9fd89972b78ce1e7dbd4%22%2C%22asset.9b2c5fc6395f3214454b5d0cf0c5403f.css%22%3A%229b2c5fc6395f3214454b5d0cf0c5403f%22%2C%22asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png%22%3A%22f2c9176c6a3ba7b8cdfe4457c848bd8c%22%2C%22fa-regular-400.eot%22%3A%22fc9c63c8224fb341fc933641cbdd12ef%22%2C%22fa-regular-400.woff%22%3A%22e5770f9863963fb576942e25214a226d%22%2C%22fa-solid-900.eot%22%3A%22ef3df98419d143d9617fe163bf4edc0b%22%2C%22fa-solid-900.woff%22%3A%224bced7c4c0d61d4f988629bb8ae80b8b%22%2C%22font-awesome.css%22%3A%22b7b0fc427ae028cde1fe3356abfee869%22%2C%22v4shim.css%22%3A%22e140a7d32f343530f016095df3cc2ae4%22%7D
+[2020-10-29 08:42:52.688] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=doneLoading
+[2020-10-29 08:42:53.315] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.20","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.158","compid":"2571130799"}]}
+[2020-10-29 08:42:53.781] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[mob_38];lobby_choice=observe
+[2020-10-29 08:43:45.090] HREF: Zack24 (usr:Geraldine Mubarak[(40,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;vars=[0x21000401]
+[2020-10-29 08:43:48.070] HREF: Zack24 (usr:Geraldine Mubarak[(40,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=ammo
+[2020-10-29 08:43:57.623] HREF: Zack24 (usr:Geraldine Mubarak[(39,24,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 08:44:02.531] HREF: Zack24 (usr:Geraldine Mubarak[(39,24,3)]) : /datum/tgui src=%5B0x210023a7%5D&action=tgui%3Ainitialize
+[2020-10-29 08:44:02.856] HREF: Zack24 (usr:Geraldine Mubarak[(39,24,3)]) : /datum/tgui src=%5B0x2100689b%5D&action=tgui%3Ainitialize
+[2020-10-29 08:44:06.139] HREF: Zack24 (usr:Geraldine Mubarak[(39,24,3)]) : 
+[2020-10-29 08:44:06.142] HREF: Zack24 (usr:Geraldine Mubarak[(39,24,3)]) : 
+[2020-10-29 08:44:07.690] HREF: Zack24 (usr:Geraldine Mubarak[(39,24,3)]) : /datum/tgui src=%5B0x210023a7%5D&action=toggle_alert
+[2020-10-29 08:52:09.151] HREF: Zack24 (usr:Ancient Empress (599)[(35,15,3)]) : /datum/tgui src=%5B0x2100679d%5D&action=tgui%3Ainitialize
+[2020-10-29 08:52:09.673] HREF: Zack24 (usr:Ancient Empress (599)[(35,15,3)]) : 
+[2020-10-29 08:52:09.735] HREF: Zack24 (usr:Ancient Empress (599)[(35,15,3)]) : 
+[2020-10-29 08:57:26.493] HREF: Zack24 (usr:Ancient Runner (412)[(40,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 08:57:34.407] HREF: Zack24 (usr:Ancient Runner (412)[(40,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 08:57:48.163] HREF: Zack24 (usr:Ancient Runner (412)[(41,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 08:57:51.277] HREF: Zack24 (usr:Ancient Runner (412)[(41,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 08:57:52.829] HREF: Zack24 (usr:Ancient Runner (412)[(41,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 08:57:57.316] HREF: Zack24 (usr:Ancient Runner (412)[(39,19,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 08:58:05.527] HREF: Zack24 (usr:Ancient Runner (412)[(35,20,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 08:58:11.277] HREF: Zack24 (usr:Ancient Runner (412)[(37,16,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 08:58:19.339] HREF: Zack24 (usr:Ancient Runner (412)[(40,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 08:58:57.145] HREF: Zack24 (usr:Ancient Runner (412)[(41,16,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=rounds
+[2020-10-29 08:59:01.582] HREF: Zack24 (usr:Ancient Runner (412)[(40,17,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=range
+[2020-10-29 08:59:37.657] HREF: Zack24 (usr:Ancient Runner (412)[(39,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=fire_delay
+[2020-10-29 08:59:55.479] HREF: Zack24 (usr:Ancient Runner (412)[(42,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 09:00:02.421] HREF: Zack24 (usr:Ancient Runner (412)[(43,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 09:00:04.775] HREF: Zack24 (usr:Ancient Runner (412)[(41,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 09:00:13.092] HREF: Zack24 (usr:Ancient Runner (412)[(39,15,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 09:00:36.213] HREF: Zack24 (usr:Ancient Runner (412)[(38,28,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;vars=[0x21000411]
+[2020-10-29 09:00:38.997] HREF: Zack24 (usr:Ancient Runner (412)[(38,28,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=ammo
+[2020-10-29 09:00:49.494] HREF: Zack24 (usr:Ancient Runner (412)[(36,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;vars=[0x21000411]
+[2020-10-29 09:00:52.624] HREF: Zack24 (usr:Ancient Runner (412)[(36,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=ammo
+[2020-10-29 09:01:05.344] HREF: Zack24 (usr:Ancient Runner (412)[(41,27,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;vars=[0x21000411]
+[2020-10-29 09:01:07.847] HREF: Zack24 (usr:Ancient Runner (412)[(39,27,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=ammo
+[2020-10-29 09:01:28.656] HREF: Zack24 (usr:Ancient Runner (412)[(48,19,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 09:01:46.810] HREF: Zack24 (usr:Ancient Runner (412)[(48,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 09:01:56.555] HREF: Zack24 (usr:Ancient Runner (412)[(48,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=fire_delay
+[2020-10-29 09:02:09.846] HREF: Zack24 (usr:Ancient Runner (412)[(48,22,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=fire_delay
+[2020-10-29 09:02:17.510] HREF: Zack24 (usr:Ancient Runner (412)[(34,21,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=fire_delay
+[2020-10-29 09:02:24.388] HREF: Zack24 (usr:Ancient Runner (412)[(32,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 09:02:32.421] HREF: Zack24 (usr:Ancient Runner (412)[(48,22,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 09:02:51.812] HREF: Zack24 (usr:Ancient Runner (412)[(41,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=rounds_max
+[2020-10-29 09:03:08.708] HREF: Zack24 (usr:Ancient Runner (412)[(44,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=fire_delay
+[2020-10-29 09:03:14.020] HREF: Zack24 (usr:Ancient Runner (412)[(42,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=fire_delay
+[2020-10-29 09:03:19.148] HREF: Zack24 (usr:Ancient Runner (412)[(42,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_delay
+[2020-10-29 09:03:21.084] HREF: Zack24 (usr:Ancient Runner (412)[(42,26,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=burst_size
+[2020-10-29 09:03:53.357] HREF: Zack24 (usr:Ancient Runner (412)[(32,18,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=max_burst
+[2020-10-29 09:04:15.505] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=tgui%3Ainitialize
+[2020-10-29 09:04:15.826] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : 
+[2020-10-29 09:04:15.835] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : 
+[2020-10-29 09:04:17.290] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=toggle_radial
+[2020-10-29 09:04:21.588] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:22.108] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:22.305] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:22.642] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:22.728] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:22.964] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:23.141] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:23.378] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : /datum/tgui src=%5B0x21002405%5D&action=burstup
+[2020-10-29 09:04:42.655] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumrefresh=[0x2002893]
+[2020-10-29 09:04:48.893] HREF: Zack24 (usr:Geraldine Mubarak[(40,24,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x2002893];varnameedit=max_burst
+[2020-10-29 09:05:04.750] HREF: Zack24 (usr:Geraldine Mubarak[(41,24,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;vars=[0x210003fb]
+[2020-10-29 09:05:13.106] HREF: Zack24 (usr:Geraldine Mubarak[(41,24,3)]) : _src_=vars;admin_token=1710984962810121010771098054581860259;datumedit=[0x210003fb];varnameedit=bonus_projectiles_amount

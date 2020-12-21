@@ -1,0 +1,117 @@
+[2020-10-29 08:41:38.030] Starting up round ID .
+ - -------------------------
+[2020-10-29 08:41:39.206] GAME: Saved mode is 'Extended'
+[2020-10-29 08:41:49.861] GAME: LV robotics dome loaded at at 31,35,2
+[2020-10-29 08:41:50.287] GAME: LV atmos dome loaded at at 46,49,2
+[2020-10-29 08:41:50.391] GAME: LV telecomms dome loaded at at 46,20,2
+[2020-10-29 08:41:51.343] GAME: LV internal affairs dome loaded at at 67,8,2
+[2020-10-29 08:41:52.442] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-10-29 08:41:53.709] GAME: LV robotics dome loaded at at 147,50,2
+[2020-10-29 08:42:07.908] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-10-29 08:42:07.909] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-10-29 08:42:11.561] GAME: Alamo loaded at at 8,8,4
+[2020-10-29 08:42:11.715] GAME: Escape Pod loaded at at 19,8,4
+[2020-10-29 08:42:11.747] GAME: Escape Pod loaded at at 23,8,4
+[2020-10-29 08:42:11.780] GAME: Supply loaded at at 27,8,4
+[2020-10-29 08:42:55.839] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-10-29 08:42:55.840] OOC: Zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Cryo Cells (35, 51, 3)
+[2020-10-29 08:43:07.084] OOC: *no key*/(Geraldine Mubarak) *no key*/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-10-29 08:43:07.085] OOC: Zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Hangar (40, 24, 3)
+[2020-10-29 08:43:07.270] ADMIN: Zack24/(Geraldine Mubarak) became a spatial agent.
+[2020-10-29 08:43:07.272] ADMIN: Zack24/(Geraldine Mubarak) stopped being a spatial agent.
+[2020-10-29 08:43:07.280] OOC: *no key*/(Geraldine Mubarak) *no key*/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/living/carbon/human). Hangar (40, 24, 3)
+[2020-10-29 08:43:07.281] OOC: Zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Hangar (40, 24, 3)
+[2020-10-29 08:43:11.318] OOC: *no key*/(Geraldine Mubarak) *no key*/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-10-29 08:43:11.319] OOC: Zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Hangar (40, 24, 3)
+[2020-10-29 08:43:11.386] ADMIN: Zack24/(Geraldine Mubarak) became a spatial agent.
+[2020-10-29 08:43:14.232] ADMIN: *no key*/(Geraldine Mubarak) spawned 1 x /obj/machinery/marine_turret/mini at  (0, 0, 0)
+[2020-10-29 08:43:24.168] ADMIN: Zack24/(Geraldine Mubarak) has started the round early.
+[2020-10-29 08:43:29.115] ADMIN: Zack24/(Geraldine Mubarak) spawned 1 x /obj/machinery/marine_turret/mini at Hangar (40, 25, 3)
+[2020-10-29 08:43:52.915] ADMIN: Zack24/(Geraldine Mubarak) modified The �UA-580 Point Defense Sentry's ammo from small caliber autocannon bullet to energy ball
+[2020-10-29 08:43:58.610] ADMIN: Zack24/(Geraldine Mubarak) modified The �UA-580 Point Defense Sentry's burst_size from 3 to 1
+[2020-10-29 08:44:17.059] ADMIN: Zack24/(Geraldine Mubarak) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 17, 3)
+[2020-10-29 08:44:22.382] OOC: *no key*/(Geraldine Mubarak) *no key*/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/living/carbon/human). Hangar (38, 17, 3)
+[2020-10-29 08:44:22.382] OOC: Zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Hangar (38, 17, 3)
+[2020-10-29 08:44:22.389] ADMIN: *no key*/(Geraldine Mubarak) gave *no key*/(Ancient Empress (759)) to *no key*/(Geraldine Mubarak).
+[2020-10-29 08:44:23.505] ADMIN: Zack24/(Geraldine Mubarak) stuffed Zack24 into Ancient Empress (759).
+[2020-10-29 08:44:23.506] OOC: *no key*/(Geraldine Mubarak) *no key*/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/dead/observer). Hangar (38, 17, 3)
+[2020-10-29 08:44:23.506] OOC: zack24/(Ancient Empress (759)) Ancient Empress (759) has logged in. Hangar (40, 17, 3)
+[2020-10-29 08:49:27.121] SAY: *no key*/(mouse) "Squeak!" Main Hallway (121, 12, 2)
+[2020-10-29 08:49:47.965] ADMIN: zack24/(Ancient Empress (599)) revived zack24/(Ancient Empress (599)).
+[2020-10-29 08:52:22.985] ADMIN: zack24/(Ancient Empress (599)) spawned 1 x /mob/living/carbon/xenomorph/runner/ancient at Hangar (37, 15, 3)
+[2020-10-29 08:52:26.848] OOC: *no key*/(Ancient Empress (599)) *no key*/(Ancient Empress (599)) has left mob Ancient Empress (599)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (35, 15, 3)
+[2020-10-29 08:52:26.850] OOC: zack24/(Ancient Empress (599)) Ancient Empress (599) has logged in. Hangar (35, 15, 3)
+[2020-10-29 08:52:26.859] ADMIN: *no key*/(Ancient Empress (599)) gave *no key*/(Ancient Empress (599)) to *no key*/(Ancient Empress (599)).
+[2020-10-29 08:52:28.200] ADMIN: zack24/(Ancient Empress (599)) stuffed zack24 into Ancient Runner (58).
+[2020-10-29 08:52:28.200] OOC: *no key*/(Ancient Empress (599)) *no key*/(Ancient Empress (599)) has left mob Ancient Empress (599)(/mob/dead/observer). Hangar (35, 15, 3)
+[2020-10-29 08:52:28.200] OOC: zack24/(Ancient Runner (58)) Ancient Runner (58) has logged in. Hangar (37, 15, 3)
+[2020-10-29 08:54:41.205] SAY: *no key*/(mouse) "Squeak!" Main Hallway (116, 13, 2)
+[2020-10-29 08:57:15.206] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-10-29 08:57:31.244] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 1 to 55
+[2020-10-29 08:57:37.886] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 5 to 5
+[2020-10-29 08:57:50.429] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 55 to 1
+[2020-10-29 08:57:54.113] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 5 to 0
+[2020-10-29 08:57:58.002] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 1 to 5
+[2020-10-29 08:58:06.770] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 0 to 1
+[2020-10-29 08:58:12.448] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 1 to 0.1
+[2020-10-29 08:58:15.206] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-10-29 08:58:21.222] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 5 to 15
+[2020-10-29 08:58:28.275] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 08:58:31.205] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-10-29 08:58:58.356] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's rounds from 134 to 1.11111e+008
+[2020-10-29 08:58:59.207] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-10-29 08:59:02.626] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's range from 7 to 11
+[2020-10-29 08:59:38.508] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's fire_delay from 3 to 1
+[2020-10-29 08:59:43.414] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 08:59:56.201] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 15 to 2
+[2020-10-29 09:00:03.374] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 0.1 to 1
+[2020-10-29 09:00:06.436] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 2 to 7
+[2020-10-29 09:00:17.003] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 7 to 30
+[2020-10-29 09:00:31.550] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:00:44.020] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's ammo from energy ball to additional buckshot
+[2020-10-29 09:00:59.206] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's ammo from additional buckshot to additional buckshot
+[2020-10-29 09:01:13.201] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's ammo from additional buckshot to irradiated smartgun bullet
+[2020-10-29 09:01:22.257] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:01:29.748] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 30 to 71
+[2020-10-29 09:01:42.029] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:01:47.881] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 1 to 1
+[2020-10-29 09:01:58.441] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's fire_delay from 1 to 0.1
+[2020-10-29 09:02:11.269] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's fire_delay from 0.1 to 10
+[2020-10-29 09:02:18.450] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's fire_delay from 10 to 1
+[2020-10-29 09:02:20.876] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:02:26.868] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 1 to 0
+[2020-10-29 09:02:33.632] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 71 to 1111
+[2020-10-29 09:02:46.050] EXPLOSION: *null* triggered a fueltank explosion at Requisitions (56, 15, 3).
+[2020-10-29 09:02:46.065] GAME: Explosion with size (, , 4, 4) in (Requisitions (56, 15, 3))
+[2020-10-29 09:02:53.149] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's rounds_max from 500 to 1.11111e+011
+[2020-10-29 09:02:56.371] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:03:03.882] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:03:09.941] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's fire_delay from 1 to 0.1
+[2020-10-29 09:03:15.177] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's fire_delay from 0.1 to 0
+[2020-10-29 09:03:20.456] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_delay from 0 to 0
+[2020-10-29 09:03:23.334] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's burst_size from 1111 to 5000
+[2020-10-29 09:03:40.570] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:03:50.822] ADMIN: zack24/(Ancient Runner (412)) revived zack24/(Ancient Runner (412)).
+[2020-10-29 09:03:56.476] ADMIN: Zack24/(Ancient Runner (412)) modified The �UA-580 Point Defense Sentry's max_burst from 5 to 10000
+[2020-10-29 09:04:05.550] ADMIN: zack24/(Ancient Runner (412)) revived *no key*/(Geraldine Mubarak).
+[2020-10-29 09:04:09.322] OOC: *no key*/(Ancient Runner (412)) *no key*/(Ancient Runner (412)) has left mob Ancient Runner (412)(/mob/living/carbon/xenomorph/runner/ancient). Hangar (43, 26, 3)
+[2020-10-29 09:04:09.322] OOC: zack24/(Ancient Runner (412)) Ancient Runner (412) has logged in. Hangar (43, 26, 3)
+[2020-10-29 09:04:09.335] ADMIN: *no key*/(Ancient Runner (412)) gave *no key*/(Ancient Runner (412)) to *no key*/(Ancient Runner (412)).
+[2020-10-29 09:04:13.494] ADMIN: zack24/(Ancient Runner (412)) stuffed zack24 into Geraldine Mubarak.
+[2020-10-29 09:04:13.495] OOC: *no key*/(Ancient Runner (412)) *no key*/(Ancient Runner (412)) has left mob Ancient Runner (412)(/mob/dead/observer). Hangar (43, 26, 3)
+[2020-10-29 09:04:13.495] OOC: zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Hangar (40, 21, 3)
+[2020-10-29 09:04:50.196] ADMIN: Zack24/(Geraldine Mubarak) modified The �UA-580 Point Defense Sentry's max_burst from 10000 to 111
+[2020-10-29 09:04:53.388] ADMIN: zack24/(Geraldine Mubarak) revived *no key*/(Ancient Runner (412)).
+[2020-10-29 09:04:54.825] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-10-29 09:05:14.040] ADMIN: Zack24/(Geraldine Mubarak) modified irradiated smartgun bullet's bonus_projectiles_amount from 0 to 3
+[2020-10-29 09:05:17.142] ADMIN: zack24/(Geraldine Mubarak) revived *no key*/(Ancient Runner (412)).
+[2020-10-29 09:05:21.762] ADMIN: zack24/(Geraldine Mubarak) revived zack24/(Geraldine Mubarak).
+[2020-10-29 09:06:23.691] SAY: *no key*/(mouse) "Squeak?" Main Hallway (118, 15, 2)
+[2020-10-29 09:06:29.846] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-10-29 09:07:38.438] OOC: *no key*/(Geraldine Mubarak) *no key*/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/living/carbon/human). Hangar (34, 21, 3)
+[2020-10-29 09:07:38.439] OOC: zack24/(Geraldine Mubarak) Geraldine Mubarak has logged in. Hangar (34, 21, 3)
+[2020-10-29 09:09:44.580] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-10-29 09:09:57.491] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (118, 15, 2)
+[2020-10-29 09:10:09.959] SAY: *no key*/(mouse) "Squeak!" Main Hallway (118, 15, 2)
+[2020-10-29 09:10:10.933] ACCESS: Logout: Zack24/(Geraldine Mubarak)
+[2020-10-29 09:10:10.936] OOC: zack24[DC]/(Geraldine Mubarak) zack24[DC]/(Geraldine Mubarak) has left mob Geraldine Mubarak(/mob/dead/observer). Space (1, 21, 3)

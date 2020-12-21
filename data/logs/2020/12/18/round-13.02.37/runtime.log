@@ -1,0 +1,51 @@
+[2020-12-18 05:02:37.250] Starting up round ID .
+ - -------------------------
+[2020-12-18 05:02:37.309] Running /tg/ revision: 2020-11-28
+ - origin/master: 4a87d3f9fbc1d4166b42d11c98e1bafc333e8a94
+ - HEAD: fed5c273aeb2631f1091947ff1487512bb87863e
+[2020-12-18 05:02:38.360] Initialized Database subsystem within 0 seconds!
+[2020-12-18 05:02:38.362] Initialized Server Tasks subsystem within 0 seconds!
+[2020-12-18 05:02:38.364] Initialized Input subsystem within 0 seconds!
+[2020-12-18 05:02:38.413] Initialized Codex subsystem within 0.1 seconds!
+[2020-12-18 05:02:38.418] Initialized Events subsystem within 0 seconds!
+[2020-12-18 05:02:38.431] Initialized Jobs subsystem within 0 seconds!
+[2020-12-18 05:02:38.434] Initialized Ticker subsystem within 0 seconds!
+[2020-12-18 05:02:38.437] Loading LV624...
+[2020-12-18 05:02:42.735] Loaded LV624 in 4.3s!
+[2020-12-18 05:02:42.751] Loading Debugdalus...
+[2020-12-18 05:02:43.193] Loaded Debugdalus in 0.4s!
+[2020-12-18 05:02:49.299] Initialized Mapping subsystem within 10.8 seconds!
+[2020-12-18 05:03:10.064] Initialized Atoms subsystem within 20.7 seconds!
+[2020-12-18 05:03:10.088] Initialized Machines subsystem within 0 seconds!
+[2020-12-18 05:03:10.091] Initialized Nodes subsystem within 0 seconds!
+[2020-12-18 05:03:10.094] Initialized Blackbox subsystem within 0 seconds!
+[2020-12-18 05:03:10.096] Initialized Direction subsystem within 0 seconds!
+[2020-12-18 05:03:10.104] Initialized Points subsystem within 0.1 seconds!
+[2020-12-18 05:03:10.107] Initialized Weather subsystem within 0 seconds!
+[2020-12-18 05:03:10.110] Initialized Weed subsystem within 0 seconds!
+[2020-12-18 05:03:10.112] Initialized Weed Decay subsystem within 0 seconds!
+[2020-12-18 05:03:10.176] Initialized Atmospherics subsystem within 0 seconds!
+[2020-12-18 05:03:10.386] Initialized Assets subsystem within 0.2 seconds!
+[2020-12-18 05:03:11.327] Initialized Overlay subsystem within 1 second!
+[2020-12-18 05:03:11.333] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-12-18 05:03:13.616] Initialized Lighting subsystem within 2.3 seconds!
+[2020-12-18 05:03:14.517] Initialized Shuttle subsystem within 0.9 seconds!
+[2020-12-18 05:03:14.520] Initialized Pathfinder subsystem within 0 seconds!
+[2020-12-18 05:03:14.521] Initialized Chat subsystem within 0 seconds!
+[2020-12-18 05:03:14.523] Initializations complete within 36.2 seconds!
+[2020-12-18 05:04:25.869] Game start took 0.5s
+[2020-12-18 05:27:07.518] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/shotgun/buckshot point_blank_range=2 => 8
+[2020-12-18 05:27:10.921] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/shotgun/buckshot damage_falloff=4 => 0
+[2020-12-18 05:27:32.950] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/weapon/gun/shotgun/double/sawn ammo_per_shot=1 => 0
+[2020-12-18 05:28:10.937] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/weapon/gun/shotgun/double/sawn ammo_per_shot=0 => -1
+[2020-12-18 05:29:16.680] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/shotgun/buckshot bonus_projectiles_amount=5 => 15
+[2020-12-18 05:30:20.145] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/handful current_rounds=0 => 555
+[2020-12-18 05:30:41.144] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/handful/buckshot current_rounds=1 => 11
+[2020-12-18 05:31:50.422] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/handful current_rounds=0 => 1.11111e+021
+[2020-12-18 05:32:07.135] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/handful current_rounds=1.11111e+021 => 5
+[2020-12-18 05:32:23.408] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/handful current_rounds=1 => 11111
+[2020-12-18 05:36:41.576] ### VarEdit by Zack24/(Jupiter Elder): /obj/item/ammo_magazine/rifle/ap current_rounds=39 => 1.11111e+011
+[2020-12-18 05:41:16.799] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/rifle/ap bonus_projectiles_scatter=8 => 3
+[2020-12-18 05:41:18.921] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/rifle/ap bonus_projectiles_amount=0 => 1111
+[2020-12-18 05:41:28.049] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/rifle/ap bonus_projectiles_amount=1111 => 3
+[2020-12-18 05:41:34.640] ### VarEdit by Zack24/(Jupiter Elder): /datum/ammo/bullet/rifle/ap bonus_projectiles_amount=3 => 10

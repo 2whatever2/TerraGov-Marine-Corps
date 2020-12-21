@@ -1,0 +1,23 @@
+[2020-11-06 19:47:05.352] ASSET: Sending asset `padlock.png` to client `Zack24` as `padlock.png`
+[2020-11-06 19:47:05.352] ASSET: Sending asset `common.css` to client `Zack24` as `asset.2c1817def9a9ea3700c8a4c63b022070.css`
+[2020-11-06 19:47:05.355] ASSET: Sending asset `jquery.min.js` to client `Zack24` as `jquery.min.js`
+[2020-11-06 19:47:12.386] ASSET: DEBUG: Skipping send of `jquery.min.js` (as `jquery.min.js`) for `Zack24` because it already exists in the client's sent_assets list
+[2020-11-06 19:47:12.386] ASSET: Sending asset `browserOutput.css` to client `Zack24` as `browserOutput.css`
+[2020-11-06 19:47:12.386] ASSET: Sending asset `browserOutput.js` to client `Zack24` as `browserOutput.js`
+[2020-11-06 19:47:12.386] ASSET: Sending asset `browserOutput_white.css` to client `Zack24` as `browserOutput_white.css`
+[2020-11-06 19:47:12.387] ASSET: Sending asset `fontawesome-webfont.eot` to client `Zack24` as `fontawesome-webfont.eot`
+[2020-11-06 19:47:12.387] ASSET: Sending asset `fontawesome-webfont.svg` to client `Zack24` as `fontawesome-webfont.svg`
+[2020-11-06 19:47:12.387] ASSET: Sending asset `fontawesome-webfont.ttf` to client `Zack24` as `fontawesome-webfont.ttf`
+[2020-11-06 19:47:12.387] ASSET: Sending asset `fontawesome-webfont.woff` to client `Zack24` as `fontawesome-webfont.woff`
+[2020-11-06 19:47:12.387] ASSET: Sending asset `goonchatfont-awesome.css` to client `Zack24` as `goonchatfont-awesome.css`
+[2020-11-06 19:47:12.387] ASSET: Sending asset `json2.min.js` to client `Zack24` as `json2.min.js`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `spritesheet_chat.css` to client `Zack24` as `asset.9b2c5fc6395f3214454b5d0cf0c5403f.css`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `chat_16x16.png` to client `Zack24` as `asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `fa-regular-400.eot` to client `Zack24` as `fa-regular-400.eot`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `fa-regular-400.woff` to client `Zack24` as `fa-regular-400.woff`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `fa-solid-900.eot` to client `Zack24` as `fa-solid-900.eot`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `fa-solid-900.woff` to client `Zack24` as `fa-solid-900.woff`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `font-awesome.css` to client `Zack24` as `font-awesome.css`
+[2020-11-06 19:47:12.388] ASSET: Sending asset `v4shim.css` to client `Zack24` as `v4shim.css`
+[2020-11-06 19:49:02.277] ASSET: Sending asset `asset.cd7d678a8c9af3e70c737276a374c87c.png` to client `Zack24` as `asset.cd7d678a8c9af3e70c737276a374c87c.png`
+[2020-11-06 19:49:03.924] ASSET: Sending asset `asset.e3382848c18f8b5e8590e44ac7eb8a05.png` to client `Zack24` as `asset.e3382848c18f8b5e8590e44ac7eb8a05.png`

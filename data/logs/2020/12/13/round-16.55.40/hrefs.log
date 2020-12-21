@@ -1,0 +1,54 @@
+[2020-12-13 08:55:40.765] Starting up round ID .
+ - -------------------------
+[2020-12-13 08:57:57.005] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=doneLoading
+[2020-12-13 08:57:57.103] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"119.94.9.6","compid":"2571130799"},{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.14.191","compid":"2571130799"}]}
+[2020-12-13 08:57:59.821] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[mob_38];lobby_choice=observe
+[2020-12-13 08:58:43.611] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x210065ed%5D&action=tgui%3Ainitialize
+[2020-12-13 08:58:44.098] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : 
+[2020-12-13 08:58:44.099] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : 
+[2020-12-13 08:59:02.496] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x210064f1%5D&action=tgui%3Ainitialize
+[2020-12-13 08:59:02.809] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : 
+[2020-12-13 08:59:02.811] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : 
+[2020-12-13 08:59:05.340] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x210064f1%5D&action=vend&vend=20&cat=0
+[2020-12-13 08:59:31.733] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x210063e7%5D&action=tgui%3Ainitialize
+[2020-12-13 08:59:32.037] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : 
+[2020-12-13 08:59:32.038] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : 
+[2020-12-13 08:59:33.657] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x210063e7%5D&action=vend&vend=20&cat=0
+[2020-12-13 08:59:42.138] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : /datum/tgui src=%5B0x2100150e%5D&action=tgui%3Ainitialize
+[2020-12-13 08:59:42.411] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 08:59:42.413] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 08:59:53.983] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=tgui%3Ainitialize
+[2020-12-13 08:59:54.286] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 08:59:54.288] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 08:59:59.508] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 08:59:59.632] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 08:59:59.784] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 08:59:59.921] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.096] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.264] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.399] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.541] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.663] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.794] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:00.903] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:01.056] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:00:01.256] HREF: Zack24 (usr:Jupiter Elder[(153,23,2)]) : /datum/tgui src=%5B0x2100667c%5D&action=vend&vend=28&cat=0
+[2020-12-13 09:03:51.532] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : /datum/tgui src=%5B0x21000bc3%5D&action=tgui%3Ainitialize
+[2020-12-13 09:03:52.299] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : 
+[2020-12-13 09:03:52.301] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : 
+[2020-12-13 09:03:53.557] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : __keyup=17
+[2020-12-13 09:03:53.558] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : __keyup=70
+[2020-12-13 09:03:55.189] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : /datum/tgui src=%5B0x21000bc3%5D&action=vend&vend=9&cat=0
+[2020-12-13 09:04:00.023] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : /datum/tgui src=%5B0x210065b9%5D&action=tgui%3Ainitialize
+[2020-12-13 09:04:00.573] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : 
+[2020-12-13 09:04:00.574] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : 
+[2020-12-13 09:04:01.131] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : __keyup=17
+[2020-12-13 09:04:01.132] HREF: Zack24 (usr:Jupiter Elder[(151,23,2)]) : __keyup=70
+[2020-12-13 09:07:00.537] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : /datum/tgui src=%5B0x2100354a%5D&action=tgui%3Ainitialize
+[2020-12-13 09:07:00.917] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 09:07:00.920] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 09:07:04.050] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : /datum/tgui src=%5B0x2100354a%5D&action=vend&vend=20&cat=0
+[2020-12-13 09:07:07.209] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : /datum/tgui src=%5B0x21006965%5D&action=tgui%3Ainitialize
+[2020-12-13 09:07:07.507] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 09:07:07.508] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : 
+[2020-12-13 09:07:12.922] HREF: Zack24 (usr:Jupiter Elder[(152,23,2)]) : /datum/tgui src=%5B0x21006965%5D&action=vend&vend=19&cat=0

@@ -1,0 +1,66 @@
+[2020-10-29 09:10:37.209] Starting up round ID .
+ - -------------------------
+[2020-10-29 09:10:38.414] GAME: Saved mode is 'Extended'
+[2020-10-29 09:11:05.675] GAME: LV internal affairs dome loaded at at 31,35,2
+[2020-10-29 09:11:06.310] GAME: LV cargo dome loaded at at 46,49,2
+[2020-10-29 09:11:06.525] GAME: LV cargo dome loaded at at 46,20,2
+[2020-10-29 09:11:08.340] GAME: LV atmos dome loaded at at 67,8,2
+[2020-10-29 09:11:09.877] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-10-29 09:11:11.378] GAME: LV atmos dome loaded at at 147,50,2
+[2020-10-29 09:11:34.767] GAME: Alamo loaded at at 8,8,4
+[2020-10-29 09:11:34.940] GAME: Escape Pod loaded at at 19,8,4
+[2020-10-29 09:11:34.979] GAME: Escape Pod loaded at at 23,8,4
+[2020-10-29 09:11:35.011] GAME: Supply loaded at at 27,8,4
+[2020-10-29 09:13:27.942] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-10-29 09:13:27.942] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-10-29 09:14:43.094] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-10-29 09:14:43.094] OOC: Zack24/(Aditya Floros) Aditya Floros has logged in. Cryo Cells (38, 51, 3)
+[2020-10-29 09:14:56.114] ADMIN: Zack24/(Aditya Floros) spawned 1 x /obj/machinery/marine_turret at Hangar (40, 29, 3)
+[2020-10-29 09:15:02.999] ADMIN: Zack24/(Aditya Floros) spawned 1 x /mob/living/carbon/xenomorph/queen/Alpha at Hangar (40, 20, 3)
+[2020-10-29 09:15:05.594] OOC: *no key*/(Aditya Floros) *no key*/(Aditya Floros) has left mob Aditya Floros(/mob/dead/observer). Hangar (38, 20, 3)
+[2020-10-29 09:15:05.595] OOC: Zack24/(Aditya Floros) Aditya Floros has logged in. Hangar (38, 20, 3)
+[2020-10-29 09:15:05.641] ADMIN: Zack24/(Aditya Floros) became a spatial agent.
+[2020-10-29 09:15:18.233] ADMIN: Zack24/(Aditya Floros) has started the round early.
+[2020-10-29 09:15:24.552] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's burst_delay from 5 to 0
+[2020-10-29 09:15:27.860] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's burst_size from 5 to 1111
+[2020-10-29 09:15:38.312] ADMIN: Zack24/(Aditya Floros) modified autocannon bullet's bonus_projectiles_amount from 0 to 3
+[2020-10-29 09:15:51.451] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's fire_delay from 3 to 0
+[2020-10-29 09:15:57.041] OOC: *no key*/(Aditya Floros) *no key*/(Aditya Floros) has left mob Aditya Floros(/mob/living/carbon/human). Hangar (42, 23, 3)
+[2020-10-29 09:15:57.041] OOC: Zack24/(Aditya Floros) Aditya Floros has logged in. Hangar (42, 23, 3)
+[2020-10-29 09:15:57.051] ADMIN: *no key*/(Aditya Floros) gave *no key*/(Alpha Queen (502)) to *no key*/(Aditya Floros).
+[2020-10-29 09:15:58.143] ADMIN: Zack24/(Aditya Floros) stuffed Zack24 into Alpha Queen (502).
+[2020-10-29 09:15:58.144] OOC: *no key*/(Aditya Floros) *no key*/(Aditya Floros) has left mob Aditya Floros(/mob/dead/observer). Hangar (42, 23, 3)
+[2020-10-29 09:15:58.144] OOC: zack24/(Alpha Queen (502)) Alpha Queen (502) has logged in. Hangar (40, 20, 3)
+[2020-10-29 09:16:08.116] ADMIN: Zack24/(Alpha Queen (431)) modified Alpha Queen (431)'s maxHealth from 425 to 11111
+[2020-10-29 09:16:21.852] ADMIN: zack24/(Alpha Queen (431)) dealt 11 amount of brute damage to zack24/(Alpha Queen (431))
+[2020-10-29 09:16:28.315] ADMIN: zack24/(Alpha Queen (431)) dealt 111 amount of brute damage to zack24/(Alpha Queen (431))
+[2020-10-29 09:16:32.268] ADMIN: zack24/(Alpha Queen (431)) dealt 1111 amount of brute damage to zack24/(Alpha Queen (431))
+[2020-10-29 09:16:33.420] SAY: *no key*/(mouse) "Squeak?" Kitchen (125, 15, 2)
+[2020-10-29 09:16:47.050] OOC: *no key*/(Alpha Queen (431)) *no key*/(Alpha Queen (431)) has left mob Alpha Queen (431)(/mob/living/carbon/xenomorph/queen/Alpha). Hangar (40, 19, 3)
+[2020-10-29 09:16:47.051] OOC: zack24/(Alpha Queen (431)) Alpha Queen (431) has logged in. Hangar (40, 19, 3)
+[2020-10-29 09:16:47.060] ADMIN: *no key*/(Alpha Queen (431)) gave *no key*/(Aditya Floros) to *no key*/(Alpha Queen (431)).
+[2020-10-29 09:16:48.255] ADMIN: zack24/(Alpha Queen (431)) stuffed zack24 into Aditya Floros.
+[2020-10-29 09:16:48.256] OOC: *no key*/(Alpha Queen (431)) *no key*/(Alpha Queen (431)) has left mob Alpha Queen (431)(/mob/dead/observer). Hangar (40, 19, 3)
+[2020-10-29 09:16:48.256] OOC: zack24/(Aditya Floros) Aditya Floros has logged in. Hangar (42, 23, 3)
+[2020-10-29 09:17:00.353] OOC: *no key*/(Aditya Floros) *no key*/(Aditya Floros) has left mob Aditya Floros(/mob/living/carbon/human). Hangar (41, 24, 3)
+[2020-10-29 09:17:00.353] OOC: zack24/(Aditya Floros) Aditya Floros has logged in. Hangar (41, 24, 3)
+[2020-10-29 09:17:00.365] ADMIN: *no key*/(Aditya Floros) gave *no key*/(Alpha Queen (431)) to *no key*/(Aditya Floros).
+[2020-10-29 09:17:01.507] ADMIN: zack24/(Aditya Floros) stuffed zack24 into Alpha Queen (431).
+[2020-10-29 09:17:01.508] OOC: *no key*/(Aditya Floros) *no key*/(Aditya Floros) has left mob Aditya Floros(/mob/dead/observer). Hangar (41, 24, 3)
+[2020-10-29 09:17:01.509] OOC: zack24/(Alpha Queen (431)) Alpha Queen (431) has logged in. Hangar (40, 19, 3)
+[2020-10-29 09:17:19.425] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-10-29 09:17:20.555] OOC: *no key*/(Alpha Queen (745)) *no key*/(Alpha Queen (745)) has left mob Alpha Queen (745)(/mob/living/carbon/xenomorph/queen/Alpha). Hangar (40, 22, 3)
+[2020-10-29 09:17:20.557] OOC: zack24/(Alpha Queen (745)) Alpha Queen (745) has logged in. Hangar (40, 22, 3)
+[2020-10-29 09:17:20.568] ADMIN: *no key*/(Alpha Queen (745)) gave *no key*/(Aditya Floros) to *no key*/(Alpha Queen (745)).
+[2020-10-29 09:17:21.557] ADMIN: zack24/(Alpha Queen (745)) stuffed zack24 into Aditya Floros.
+[2020-10-29 09:17:21.558] OOC: *no key*/(Alpha Queen (745)) *no key*/(Alpha Queen (745)) has left mob Alpha Queen (745)(/mob/dead/observer). Hangar (40, 22, 3)
+[2020-10-29 09:17:21.559] OOC: zack24/(Aditya Floros) Aditya Floros has logged in. Hangar (41, 24, 3)
+[2020-10-29 09:17:50.589] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's max_burst from 6 to 11111
+[2020-10-29 09:17:53.841] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's burst_delay from 0 to 1
+[2020-10-29 09:17:58.233] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's burst_delay from 1 to 1
+[2020-10-29 09:18:14.473] ADMIN: zack24/(Aditya Floros) deleted the �UA 571-C sentry gun(/obj/machinery/marine_turret) at Hangar (40, 29, 3).
+[2020-10-29 09:18:22.864] ADMIN: zack24/(Aditya Floros) spawned 1 x /obj/machinery/marine_turret at Hangar (40, 29, 3)
+[2020-10-29 09:18:29.463] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-10-29 09:18:50.729] ADMIN: Zack24/(Aditya Floros) modified The �UA 571-C sentry gun's max_burst from 6 to 11111
+[2020-10-29 09:19:33.701] ACCESS: Logout: Zack24/(Aditya Floros)
+[2020-10-29 09:19:33.705] OOC: zack24[DC]/(Aditya Floros) zack24[DC]/(Aditya Floros) has left mob Aditya Floros(/mob/living/carbon/human). Hangar (41, 28, 3)

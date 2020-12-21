@@ -1,0 +1,78 @@
+[2020-12-16 05:47:14.037] Starting up round ID .
+ - -------------------------
+[2020-12-16 05:47:14.103] Running /tg/ revision: 2020-11-28
+ - origin/master: 4a87d3f9fbc1d4166b42d11c98e1bafc333e8a94
+ - HEAD: fed5c273aeb2631f1091947ff1487512bb87863e
+[2020-12-16 05:47:15.130] Initialized Database subsystem within 0 seconds!
+[2020-12-16 05:47:15.132] Initialized Server Tasks subsystem within 0 seconds!
+[2020-12-16 05:47:15.134] Initialized Input subsystem within 0 seconds!
+[2020-12-16 05:47:15.180] Initialized Codex subsystem within 0 seconds!
+[2020-12-16 05:47:15.184] Initialized Events subsystem within 0 seconds!
+[2020-12-16 05:47:15.198] Initialized Jobs subsystem within 0 seconds!
+[2020-12-16 05:47:15.200] Initialized Ticker subsystem within 0 seconds!
+[2020-12-16 05:47:15.204] Loading LV624...
+[2020-12-16 05:47:18.950] Loaded LV624 in 3.7s!
+[2020-12-16 05:47:18.965] Loading Debugdalus...
+[2020-12-16 05:47:19.279] Loaded Debugdalus in 0.3s!
+[2020-12-16 05:47:19.933] Initialized Mapping subsystem within 4.7 seconds!
+[2020-12-16 05:47:36.998] Initialized Atoms subsystem within 17 seconds!
+[2020-12-16 05:47:37.024] Initialized Machines subsystem within 0 seconds!
+[2020-12-16 05:47:37.026] Initialized Nodes subsystem within 0 seconds!
+[2020-12-16 05:47:37.027] Initialized Blackbox subsystem within 0 seconds!
+[2020-12-16 05:47:37.029] Initialized Direction subsystem within 0 seconds!
+[2020-12-16 05:47:37.035] Initialized Points subsystem within 0 seconds!
+[2020-12-16 05:47:37.039] Initialized Weather subsystem within 0 seconds!
+[2020-12-16 05:47:37.042] Initialized Weed subsystem within 0 seconds!
+[2020-12-16 05:47:37.043] Initialized Weed Decay subsystem within 0 seconds!
+[2020-12-16 05:47:37.099] Initialized Atmospherics subsystem within 0 seconds!
+[2020-12-16 05:47:37.710] Initialized Assets subsystem within 0.6 seconds!
+[2020-12-16 05:47:38.561] Initialized Overlay subsystem within 0.8 seconds!
+[2020-12-16 05:47:38.569] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-12-16 05:47:40.497] Initialized Lighting subsystem within 1.9 seconds!
+[2020-12-16 05:47:40.843] Initialized Shuttle subsystem within 0.4 seconds!
+[2020-12-16 05:47:40.846] Initialized Pathfinder subsystem within 0 seconds!
+[2020-12-16 05:47:40.848] Initialized Chat subsystem within 0 seconds!
+[2020-12-16 05:47:40.850] Initializations complete within 25.7 seconds!
+[2020-12-16 05:54:30.091] ### VarEdit by Zack24/(Ancient Crusher (696)): /datum/xeno_caste/crusher/ancient plasma_max=400 => 1.11111e+030
+[2020-12-16 05:54:39.044] ### VarEdit by Zack24/(Ancient Crusher (696)): /mob/living/carbon/xenomorph/crusher/ancient plasma_stored=400 => 1.11111e+027
+[2020-12-16 05:54:46.203] Game start took 0s
+[2020-12-16 05:55:20.045] runtime error: Incorrect turf deletion
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Crusher (696) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: the wall (88,84,2) (/turf/closed/wall)
+ -   usr.loc: the grass (88,80,2) (/turf/open/floor/plating/ground/dirtgrassborder/corner2)
+ -   call stack:
+ - the wall (88,84,2) (/turf/closed/wall): stack trace("Incorrect turf deletion")
+ - the wall (88,84,2) (/turf/closed/wall): Destroy(0)
+ - qdel(the wall (88,84,2) (/turf/closed/wall), 0)
+ - Zack24 (/client): Delete(the wall (88,84,2) (/turf/closed/wall))
+ - 
+[2020-12-16 05:57:28.488] runtime error: Incorrect turf deletion
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Crusher (696) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: the heavy reinforced wall (88,61,2) (/turf/closed/wall/r_wall/prison_unmeltable)
+ -   usr.loc: the dirt (88,62,2) (/turf/open/floor/plating/ground/dirt)
+ -   call stack:
+ - the heavy reinforced wall (88,61,2) (/turf/closed/wall/r_wall/prison_unmeltable): stack trace("Incorrect turf deletion")
+ - the heavy reinforced wall (88,61,2) (/turf/closed/wall/r_wall/prison_unmeltable): Destroy(0)
+ - qdel(the heavy reinforced wall (88,61,2) (/turf/closed/wall/r_wall/prison_unmeltable), 0)
+ - Zack24 (/client): Delete(the heavy reinforced wall (88,61,2) (/turf/closed/wall/r_wall/prison_unmeltable))
+ - 
+[2020-12-16 06:11:13.859] runtime error: Cannot read null.comp_lookup
+ - proc name: UnregisterSignal (/datum/proc/UnregisterSignal)
+ -   source file: _component.dm,218
+ -   usr: null
+ -   src: /datum/chatmessage (/datum/chatmessage)
+ -   call stack:
+ - /datum/chatmessage (/datum/chatmessage): UnregisterSignal(null, null)
+ - /datum/chatmessage (/datum/chatmessage): Destroy(0)
+ - /datum/chatmessage (/datum/chatmessage): Destroy(0)
+ - qdel(/datum/chatmessage (/datum/chatmessage), 0)
+ - Runechat (/datum/controller/subsystem/runechat): fire(0)
+ - Runechat (/datum/controller/subsystem/runechat): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 

@@ -1,0 +1,44 @@
+[2020-10-29 09:10:37.258] Starting up round ID .
+ - -------------------------
+[2020-10-29 09:10:37.304] Running /tg/ revision: 2020-10-28
+ - origin/master: 1a4ec41915b666b66df905c98c7e387522772572
+[2020-10-29 09:10:38.312] Initialized Database subsystem within 0 seconds!
+[2020-10-29 09:10:38.316] Initialized Server Tasks subsystem within 0 seconds!
+[2020-10-29 09:10:38.325] Initialized Input subsystem within 0 seconds!
+[2020-10-29 09:10:38.379] Initialized Codex subsystem within 0 seconds!
+[2020-10-29 09:10:38.390] Initialized Events subsystem within 0 seconds!
+[2020-10-29 09:10:38.410] Initialized Jobs subsystem within 0.1 seconds!
+[2020-10-29 09:10:38.415] Initialized Ticker subsystem within 0 seconds!
+[2020-10-29 09:10:38.422] Loading LV624...
+[2020-10-29 09:10:45.134] Loaded LV624 in 6.7s!
+[2020-10-29 09:10:45.180] Loading Debugdalus...
+[2020-10-29 09:10:45.943] Loaded Debugdalus in 0.8s!
+[2020-10-29 09:10:47.411] Initialized Mapping subsystem within 9 seconds!
+[2020-10-29 09:11:26.667] Initialized Atoms subsystem within 39.2 seconds!
+[2020-10-29 09:11:26.711] Initialized Machines subsystem within 0.1 seconds!
+[2020-10-29 09:11:26.719] Initialized Nodes subsystem within 0 seconds!
+[2020-10-29 09:11:26.738] Initialized Blackbox subsystem within 0 seconds!
+[2020-10-29 09:11:26.747] Initialized Direction subsystem within 0 seconds!
+[2020-10-29 09:11:26.767] Initialized Points subsystem within 0 seconds!
+[2020-10-29 09:11:26.778] Initialized Weather subsystem within 0 seconds!
+[2020-10-29 09:11:26.782] Initialized Weed subsystem within 0 seconds!
+[2020-10-29 09:11:26.796] Initialized Weed Decay subsystem within 0 seconds!
+[2020-10-29 09:11:26.894] Initialized Atmospherics subsystem within 0 seconds!
+[2020-10-29 09:11:29.861] Initialized Assets subsystem within 2.9 seconds!
+[2020-10-29 09:11:31.215] Initialized Overlay subsystem within 1.4 seconds!
+[2020-10-29 09:11:31.225] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-10-29 09:11:34.540] Initialized Lighting subsystem within 3.3 seconds!
+[2020-10-29 09:11:35.037] Initialized Shuttle subsystem within 0.5 seconds!
+[2020-10-29 09:11:35.041] Initialized Pathfinder subsystem within 0 seconds!
+[2020-10-29 09:11:35.044] Initialized Chat subsystem within 0 seconds!
+[2020-10-29 09:11:35.047] Initializations complete within 56.7 seconds!
+[2020-10-29 09:15:19.469] Game start took 0s
+[2020-10-29 09:15:24.542] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret burst_delay=5 => 0
+[2020-10-29 09:15:27.846] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret burst_size=5 => 1111
+[2020-10-29 09:15:38.305] ### VarEdit by Zack24/(Aditya Floros): /datum/ammo/bullet/turret bonus_projectiles_amount=0 => 3
+[2020-10-29 09:15:51.439] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret fire_delay=3 => 0
+[2020-10-29 09:16:08.107] ### VarEdit by Zack24/(Alpha Queen (431)): /mob/living/carbon/xenomorph/queen/Alpha maxHealth=425 => 11111
+[2020-10-29 09:17:50.585] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret max_burst=6 => 11111
+[2020-10-29 09:17:53.836] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret burst_delay=0 => 1
+[2020-10-29 09:17:58.224] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret burst_delay=1 => 1
+[2020-10-29 09:18:50.714] ### VarEdit by Zack24/(Aditya Floros): /obj/machinery/marine_turret max_burst=6 => 11111

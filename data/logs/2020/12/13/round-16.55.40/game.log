@@ -1,0 +1,94 @@
+[2020-12-13 08:55:40.763] Starting up round ID .
+ - -------------------------
+[2020-12-13 08:55:41.882] GAME: Saved mode is 'Extended'
+[2020-12-13 08:55:50.715] GAME: LV atmos dome loaded at at 31,35,2
+[2020-12-13 08:55:51.079] GAME: LV cargo dome loaded at at 46,49,2
+[2020-12-13 08:55:51.397] GAME: LV internal affairs dome loaded at at 46,20,2
+[2020-12-13 08:55:51.789] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-12-13 08:55:52.704] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-13 08:55:53.733] GAME: LV robotics dome loaded at at 147,50,2
+[2020-12-13 08:56:06.354] GAME: Alamo loaded at at 8,8,4
+[2020-12-13 08:56:06.479] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-13 08:56:06.506] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-13 08:56:06.532] GAME: Supply loaded at at 27,8,4
+[2020-12-13 08:57:34.905] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-13 08:57:34.905] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-13 08:58:00.326] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-13 08:58:00.326] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (37, 52, 3)
+[2020-12-13 08:58:10.970] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Alamo Landing Zone (154, 25, 2)
+[2020-12-13 08:58:10.971] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Alamo Landing Zone (154, 25, 2)
+[2020-12-13 08:58:11.000] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-13 08:58:32.091] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_supply at Alamo Landing Zone (154, 22, 2)
+[2020-12-13 08:58:34.992] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_guns at Alamo Landing Zone (153, 22, 2)
+[2020-12-13 08:58:38.270] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_ammo at Alamo Landing Zone (152, 22, 2)
+[2020-12-13 08:58:41.510] ADMIN: Zack24/(Jupiter Elder) has started the round early.
+[2020-12-13 08:59:23.919] ADMIN: Zack24/(Jupiter Elder) stopped being a spatial agent.
+[2020-12-13 08:59:23.924] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Alamo Landing Zone (152, 23, 2)
+[2020-12-13 08:59:23.924] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Alamo Landing Zone (152, 23, 2)
+[2020-12-13 08:59:29.250] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Alamo Landing Zone (152, 23, 2)
+[2020-12-13 08:59:29.250] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Alamo Landing Zone (152, 23, 2)
+[2020-12-13 08:59:29.273] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-13 08:59:40.660] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/storage/pouch/grenade at Alamo Landing Zone (153, 23, 2)
+[2020-12-13 09:01:25.086] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (153, 25, 2).
+[2020-12-13 09:01:26.055] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (156, 31, 2))
+[2020-12-13 09:01:27.356] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (152, 28, 2).
+[2020-12-13 09:01:28.334] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (157, 35, 2))
+[2020-12-13 09:01:29.353] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (151, 35, 2).
+[2020-12-13 09:01:30.333] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (157, 41, 2))
+[2020-12-13 09:01:31.327] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (152, 39, 2).
+[2020-12-13 09:01:32.283] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (158, 43, 2))
+[2020-12-13 09:01:33.719] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (155, 34, 2).
+[2020-12-13 09:01:34.685] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (148, 41, 2))
+[2020-12-13 09:01:37.942] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (150, 30, 2).
+[2020-12-13 09:01:38.934] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (148, 31, 2))
+[2020-12-13 09:01:40.895] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M15 fragmentation grenade from a �T-81 grenade launcher at Alamo Landing Zone (151, 28, 2).
+[2020-12-13 09:01:41.884] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (148, 31, 2))
+[2020-12-13 09:01:55.434] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-13 09:03:28.280] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/reagent_containers/pill/paracetamol at Alamo Landing Zone (153, 24, 2)
+[2020-12-13 09:03:50.566] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/uniform_supply at Alamo Landing Zone (151, 22, 2)
+[2020-12-13 09:04:26.027] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/explosive/grenade/phosphorus at Alamo Landing Zone (153, 24, 2)
+[2020-12-13 09:04:29.580] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/storage/box/nade_box/phos at Alamo Landing Zone (153, 24, 2)
+[2020-12-13 09:05:01.529] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/reagent_containers/pill/paracetamol at Alamo Landing Zone (153, 25, 2)
+[2020-12-13 09:05:21.679] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (151, 27, 2).
+[2020-12-13 09:05:23.951] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (150, 33, 2).
+[2020-12-13 09:05:26.559] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (150, 36, 2).
+[2020-12-13 09:05:29.911] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (152, 28, 2).
+[2020-12-13 09:05:32.276] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (154, 24, 2).
+[2020-12-13 09:05:34.438] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (157, 22, 2).
+[2020-12-13 09:05:37.394] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (157, 21, 2).
+[2020-12-13 09:06:34.900] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (153, 37, 2).
+[2020-12-13 09:06:36.375] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (153, 37, 2).
+[2020-12-13 09:06:38.063] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (153, 35, 2).
+[2020-12-13 09:06:39.550] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (149, 35, 2).
+[2020-12-13 09:06:40.922] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (149, 35, 2).
+[2020-12-13 09:06:42.553] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (149, 35, 2).
+[2020-12-13 09:06:44.231] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from a �T-81 grenade launcher at Alamo Landing Zone (150, 35, 2).
+[2020-12-13 09:06:58.871] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/storage/box/nade_box/phos at Alamo Landing Zone (151, 24, 2)
+[2020-12-13 09:07:07.715] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (119, 15, 2)
+[2020-12-13 09:07:23.714] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-13 09:07:34.980] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (152, 36, 2).
+[2020-12-13 09:07:36.290] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (151, 36, 2).
+[2020-12-13 09:07:37.555] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (151, 36, 2).
+[2020-12-13 09:07:38.720] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (151, 36, 2).
+[2020-12-13 09:07:40.092] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (154, 36, 2).
+[2020-12-13 09:07:41.367] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (156, 35, 2).
+[2020-12-13 09:07:48.120] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (152, 35, 2).
+[2020-12-13 09:07:49.473] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (153, 37, 2).
+[2020-12-13 09:07:50.728] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (153, 34, 2).
+[2020-12-13 09:07:52.246] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (154, 31, 2).
+[2020-12-13 09:07:53.472] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (154, 30, 2).
+[2020-12-13 09:07:54.761] EXPLOSION: Zack24/(Jupiter Elder) fired a grenade the �M40 HPDP grenade from the �T-70 grenade launcher (Wielded) at Alamo Landing Zone (154, 27, 2).
+[2020-12-13 09:07:57.423] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (153, 22, 2))
+[2020-12-13 09:07:57.429] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (153, 22, 2))
+[2020-12-13 09:07:57.436] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (153, 22, 2))
+[2020-12-13 09:07:57.442] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (153, 22, 2))
+[2020-12-13 09:07:57.449] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (153, 22, 2))
+[2020-12-13 09:07:57.456] GAME: Explosion with size (, , 5, 0) in (Alamo Landing Zone (153, 22, 2))
+[2020-12-13 09:09:41.963] SAY: *no key*/(mouse) "Squeak!" Main Hallway (119, 15, 2)
+[2020-12-13 09:13:14.174] SAY: *no key*/(mouse) "Squeak!" Main Hallway (119, 15, 2)
+[2020-12-13 09:15:58.177] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-13 09:21:02.217] SAY: *no key*/(mouse) "Squeak!" Main Hallway (119, 15, 2)
+[2020-12-13 09:22:22.218] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (119, 15, 2)
+[2020-12-13 09:23:21.614] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-13 09:23:36.085] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-13 09:23:36.087] OOC: Zack24[DC]/(Jupiter Elder) Zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Alamo Landing Zone (154, 29, 2)

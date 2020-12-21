@@ -1,0 +1,728 @@
+[2020-12-15 07:50:50.191] Starting up round ID .
+ - -------------------------
+[2020-12-15 07:50:50.214] Running /tg/ revision: 2020-11-28
+ - origin/master: 4a87d3f9fbc1d4166b42d11c98e1bafc333e8a94
+ - HEAD: fed5c273aeb2631f1091947ff1487512bb87863e
+[2020-12-15 07:50:51.220] Initialized Database subsystem within 0 seconds!
+[2020-12-15 07:50:51.224] Initialized Server Tasks subsystem within 0 seconds!
+[2020-12-15 07:50:51.227] Initialized Input subsystem within 0 seconds!
+[2020-12-15 07:50:51.289] Initialized Codex subsystem within 0 seconds!
+[2020-12-15 07:50:51.297] Initialized Events subsystem within 0 seconds!
+[2020-12-15 07:50:51.319] Initialized Jobs subsystem within 0 seconds!
+[2020-12-15 07:50:51.324] Initialized Ticker subsystem within 0 seconds!
+[2020-12-15 07:50:51.327] Loading LV624...
+[2020-12-15 07:50:55.628] Loaded LV624 in 4.3s!
+[2020-12-15 07:50:55.643] Loading Debugdalus...
+[2020-12-15 07:50:55.995] Loaded Debugdalus in 0.3s!
+[2020-12-15 07:50:58.460] Initialized Mapping subsystem within 7.1 seconds!
+[2020-12-15 07:51:20.204] Initialized Atoms subsystem within 21.8 seconds!
+[2020-12-15 07:51:20.234] Initialized Machines subsystem within 0 seconds!
+[2020-12-15 07:51:20.237] Initialized Nodes subsystem within 0 seconds!
+[2020-12-15 07:51:20.238] Initialized Blackbox subsystem within 0 seconds!
+[2020-12-15 07:51:20.239] Initialized Direction subsystem within 0 seconds!
+[2020-12-15 07:51:20.246] Initialized Points subsystem within 0 seconds!
+[2020-12-15 07:51:20.251] Initialized Weather subsystem within 0 seconds!
+[2020-12-15 07:51:20.254] Initialized Weed subsystem within 0 seconds!
+[2020-12-15 07:51:20.255] Initialized Weed Decay subsystem within 0 seconds!
+[2020-12-15 07:51:20.310] Initialized Atmospherics subsystem within 0.1 seconds!
+[2020-12-15 07:51:20.380] Initialized Assets subsystem within 0 seconds!
+[2020-12-15 07:51:21.301] Initialized Overlay subsystem within 1 second!
+[2020-12-15 07:51:21.308] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-12-15 07:51:23.479] Initialized Lighting subsystem within 2.1 seconds!
+[2020-12-15 07:51:23.859] Initialized Shuttle subsystem within 0.4 seconds!
+[2020-12-15 07:51:23.862] Initialized Pathfinder subsystem within 0 seconds!
+[2020-12-15 07:51:23.864] Initialized Chat subsystem within 0 seconds!
+[2020-12-15 07:51:23.866] Initializations complete within 32.6 seconds!
+[2020-12-15 07:51:24.433] Game start took 0.2s
+[2020-12-15 08:12:05.375] ### VarEdit by Zack24/(Jupiter Elder): /datum/skills/synthetic engineer=4 => 55555
+[2020-12-15 08:13:26.138] ### VarEdit by Zack24/(Jupiter Elder): /datum/skills/spatial_agent construction=4 => 555
+[2020-12-15 08:13:47.179] ### VarEdit by Zack24/(Jupiter Elder): /datum/skills/spatial_agent engineer=4 => 555
+[2020-12-15 08:17:16.705] runtime error: attack_hand on a qdeleted atom
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Jupiter Elder (/mob/living/carbon/human)
+ -   src: FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob)
+ -   usr.loc: the floor (39,34,3) (/turf/open/floor/mainship)
+ -   src.loc: null
+ -   call stack:
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): stack trace("attack_hand on a qdeleted atom")
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): attack hand(Jupiter Elder (/mob/living/carbon/human))
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): attack hand(Jupiter Elder (/mob/living/carbon/human))
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): attack hand(Jupiter Elder (/mob/living/carbon/human))
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): attack hand(Jupiter Elder (/mob/living/carbon/human))
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): attackby(the plasma cutter (/obj/item/tool/pickaxe/plasmacutter), Jupiter Elder (/mob/living/carbon/human), "icon-x=7;icon-y=18;left=1;scre...")
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): attackby(the plasma cutter (/obj/item/tool/pickaxe/plasmacutter), Jupiter Elder (/mob/living/carbon/human), "icon-x=7;icon-y=18;left=1;scre...")
+ - the plasma cutter (/obj/item/tool/pickaxe/plasmacutter): melee attack chain(Jupiter Elder (/mob/living/carbon/human), FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob), "icon-x=7;icon-y=18;left=1;scre...")
+ - Jupiter Elder (/mob/living/carbon/human): ClickOn(FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob), the floor (40,34,3) (/turf/open/floor/mainship), "icon-x=7;icon-y=18;left=1;scre...")
+ - FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob): Click(the floor (40,34,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=7;icon-y=18;left=1;scre...")
+ - Zack24 (/client): Click(FOB Construction Drone Control (/obj/machinery/computer/camera_advanced/remote_fob), the floor (40,34,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=7;icon-y=18;left=1;scre...")
+ - 
+[2020-12-15 08:21:27.395] ### VarEdit by Zack24/(Ancient Empress (136)): /datum/action/xeno_action/activable/screech cooldown_timer=1000 => 1
+[2020-12-15 08:22:10.124] ### VarEdit by Zack24/(Ancient Empress (865)): /datum/action/xeno_action/activable/screech plasma_cost=250 => 1
+[2020-12-15 08:22:12.869] ### VarEdit by Zack24/(Ancient Empress (865)): /datum/action/xeno_action/activable/screech cooldown_timer=1000 => 1
+[2020-12-15 08:32:48.576] ### VarEdit by Zack24/(Ancient Crusher (563)): /datum/action/xeno_action/ready_charge speed_per_step=0.15 => 1.11111e+008
+[2020-12-15 08:33:30.434] ### VarEdit by Zack24/(Ancient Crusher (563)): /datum/action/xeno_action/ready_charge speed_per_step=1.11111e+008 => 0.1
+[2020-12-15 08:33:37.600] ### VarEdit by Zack24/(Ancient Crusher (563)): /datum/action/xeno_action/ready_charge speed_per_step=0.1 => 111
+[2020-12-15 08:33:42.545] ### VarEdit by Zack24/(Ancient Crusher (563)): /datum/action/xeno_action/ready_charge speed_per_step=111 => 5
+[2020-12-15 08:37:28.391] ### VarEdit by Zack24/(Ancient Crusher (206)): /mob/living/carbon/xenomorph/crusher/ancient plasma_stored=400 => 1.11111e+009
+[2020-12-15 08:37:47.846] ### VarEdit by Zack24/(Ancient Crusher (206)): /mob/living/carbon/xenomorph/crusher/ancient plasma_stored=135 => 400
+[2020-12-15 08:41:20.999] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/activable/cresttoss plasma_cost=100 => 1
+[2020-12-15 08:44:43.740] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge max_steps_buildup=14 => 1
+[2020-12-15 08:44:52.687] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge steps_for_charge=7 => 1
+[2020-12-15 08:44:57.747] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge steps_for_charge=1 => 1
+[2020-12-15 08:44:59.471] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge max_steps_buildup=1 => 2
+[2020-12-15 08:45:09.682] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge steps_for_charge=1 => 2
+[2020-12-15 08:45:12.044] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge max_steps_buildup=2 => 3
+[2020-12-15 08:45:24.700] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge speed_per_step=5 => 6
+[2020-12-15 08:45:27.443] ### VarEdit by Zack24/(Ancient Crusher (206)): /datum/action/xeno_action/ready_charge max_steps_buildup=3 => 7
+[2020-12-15 08:47:59.582] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ -   usr: Ancient Crusher (206) (/mob/dead/observer)
+ -   src: Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   usr.loc: the plating (42,29,3) (/turf/open/floor/plating)
+ -   src.loc: the plating (42,24,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient): update wounds()
+ - Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient): update icons()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): do stop momentum(1)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): charge off(1)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): remove action(Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient))
+ - Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient): Destroy(0)
+ - Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient): Destroy(0)
+ - Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient): Destroy(0)
+ - Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient): Destroy(0)
+ - qdel(Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient), 0)
+ - Zack24 (/client): Delete(Ancient Crusher (206) (/mob/living/carbon/xenomorph/crusher/ancient))
+ - 
+[2020-12-15 08:49:27.342] ### VarEdit by Zack24/(Ancient Crusher (541)): /datum/xeno_caste/crusher/ancient plasma_max=400 => 1.11111e+018
+[2020-12-15 08:49:30.324] ### VarEdit by Zack24/(Ancient Crusher (541)): /datum/xeno_caste/crusher/ancient plasma_gain=30 => 11111
+[2020-12-15 08:49:34.275] ### VarEdit by Zack24/(Ancient Crusher (541)): /datum/xeno_caste/crusher/ancient plasma_gain=11111 => 1.11111e+010
+[2020-12-15 08:50:13.936] ### VarEdit by Zack24/(Ancient Crusher (541)): /datum/xeno_caste/crusher/ancient attack_delay=8 => -0.2
+[2020-12-15 08:50:56.436] ### VarEdit by Zack24/(Ancient Crusher (541)): /mob/living/carbon/xenomorph/crusher/ancient plasma_stored=4.33333e+011 => 1.11111e+018
+[2020-12-15 08:51:20.506] ### VarEdit by Zack24/(Ancient Crusher (541)): /datum/action/xeno_action/ready_charge speed_per_step=0.15 => 111
+[2020-12-15 08:51:25.416] ### VarEdit by Zack24/(Ancient Crusher (541)): /datum/action/xeno_action/ready_charge speed_per_step=111 => 111111
+[2020-12-15 08:52:55.091] ### VarEdit by Zack24/(Ancient Crusher (556)): /datum/action/xeno_action/ready_charge charge_dir=8 => 1.11111e+011
+[2020-12-15 08:53:20.117] ### VarEdit by Zack24/(Ancient Crusher (556)): /datum/action/xeno_action/ready_charge steps_for_charge=7 => 3
+[2020-12-15 08:53:21.591] ### VarEdit by Zack24/(Ancient Crusher (556)): /datum/action/xeno_action/ready_charge max_steps_buildup=14 => 5
+[2020-12-15 08:55:41.445] runtime error: pick() from empty list
+ - proc name: late initialize (/datum/ai_behavior/proc/late_initialize)
+ -   source file: ai_behavior.dm,28
+ -   usr: Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai)
+ -   src: /datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno)
+ -   usr.loc: the floor (58,28,1) (/turf/open/floor/mainship/mono)
+ -   call stack:
+ - /datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno): late initialize()
+ - /datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno): late initialize()
+ - /datum/component/ai_controller (/datum/component/ai_controller): Initialize(/datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno))
+ - /datum/component/ai_controller (/datum/component/ai_controller): New(/list (/list))
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai):  AddComponent(/list (/list))
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): Initialize(0)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai), /list (/list))
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): New(0)
+ - Zack24 (/client): Spawn("ai")
+ - 
+[2020-12-15 08:56:16.100] runtime error: pick() from empty list
+ - proc name: late initialize (/datum/ai_behavior/proc/late_initialize)
+ -   source file: ai_behavior.dm,28
+ -   usr: Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai)
+ -   src: /datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno)
+ -   usr.loc: the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor)
+ -   call stack:
+ - /datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno): late initialize()
+ - /datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno): late initialize()
+ - /datum/component/ai_controller (/datum/component/ai_controller): Initialize(/datum/ai_behavior/carbon/xeno (/datum/ai_behavior/carbon/xeno))
+ - /datum/component/ai_controller (/datum/component/ai_controller): New(/list (/list))
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai):  AddComponent(/list (/list))
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): Initialize(0)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai), /list (/list))
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): New(0)
+ - Zack24 (/client): Spawn("ai")
+ - 
+[2020-12-15 08:56:48.767] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ -   usr: Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai)
+ -   usr.loc: the plating (61,31,1) (/turf/open/floor/plating/asteroidwarning)
+ -   src.loc: null
+ -   call stack:
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): update wounds()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): update icons()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): on death()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): on death()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): on death()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): set stat(2)
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): set stat(2)
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): set stat(2)
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): death(null, "lets out a waning guttural scr...", null)
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): death(null, "lets out a waning guttural scr...", null)
+ - ...
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_prebump_movable", /list (/list))
+ - the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor): Enter(Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient), the plating (61,31,1) (/turf/open/floor/plating/asteroidwarning))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:56:48.816] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ -   usr: Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai)
+ -   usr.loc: the plating (61,31,1) (/turf/open/floor/plating/asteroidwarning)
+ -   src.loc: null
+ -   call stack:
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): update wounds()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): updatehealth()
+ - Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai): apply damage(1.11111e+007, "brute", "chest", 0, 0, 0, 1)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): do crush(Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient), Admeme Young Sentinel (231) (/mob/living/carbon/xenomorph/sentinel/ai))
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/do_crush), /list (/list))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_prebump_movable", /list (/list))
+ - the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor): Enter(Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient), the plating (61,31,1) (/turf/open/floor/plating/asteroidwarning))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8)
+ - Zack24 (/client): Move(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 8)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:56:50.376] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ -   usr: Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai)
+ -   usr.loc: the floor (58,29,1) (/turf/open/floor/stairs/rampbottom)
+ -   src.loc: null
+ -   call stack:
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): update wounds()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): update icons()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): on death()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): on death()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): on death()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): set stat(2)
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): set stat(2)
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): set stat(2)
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): death(1, "lets out a waning guttural scr...", null)
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): death(1, "lets out a waning guttural scr...", null)
+ - ...
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/do_crush), /list (/list))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_prebump_movable", /list (/list))
+ - the floor (58,28,1) (/turf/open/floor/mainship/mono): Enter(Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient), the floor (58,29,1) (/turf/open/floor/stairs/rampbottom))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:56:50.419] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ -   usr: Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai)
+ -   usr.loc: the floor (58,29,1) (/turf/open/floor/stairs/rampbottom)
+ -   src.loc: null
+ -   call stack:
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): update wounds()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): updatehealth()
+ - Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai): apply damage(1.11111e+007, "brute", "chest", 0, 0, 0, 1)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): do crush(Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient), Admeme Queen (597) (/mob/living/carbon/xenomorph/queen/ai))
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/do_crush), /list (/list))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_prebump_movable", /list (/list))
+ - the floor (58,28,1) (/turf/open/floor/mainship/mono): Enter(Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient), the floor (58,29,1) (/turf/open/floor/stairs/rampbottom))
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2, null)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2)
+ - Zack24 (/client): Move(the floor (58,28,1) (/turf/open/floor/mainship/mono), 2)
+ - Ancient Crusher (828) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:57:40.498] runtime error: cannot read from list
+ - proc name: play simplestep (/datum/component/footstep/proc/play_simplestep)
+ -   source file: footstep.dm,75
+ -   usr: the neaera (198) (/mob/living/carbon/monkey/skrell)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (58,34,1) (/turf/open/floor/plating/asteroidfloor)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play simplestep(the neaera (198) (/mob/living/carbon/monkey/skrell), the plating (58,33,1) (/turf/open/floor/plating/asteroidfloor), 1, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_simplestep), /list (/list))
+ - the neaera (198) (/mob/living/carbon/monkey/skrell):  SendSignal("movable_moved", /list (/list))
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the plating (58,33,1) (/turf/open/floor/plating/asteroidfloor), 1, 0)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the plating (58,33,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the plating (58,33,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (58,34,1) (/turf/open/floor/plating/asteroidfloor), 1, null)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (58,34,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (58,34,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Life(0.5, 7940)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:57:44.506] runtime error: cannot read from list
+ - proc name: play simplestep (/datum/component/footstep/proc/play_simplestep)
+ -   source file: footstep.dm,75
+ -   usr: the neaera (198) (/mob/living/carbon/monkey/skrell)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play simplestep(the neaera (198) (/mob/living/carbon/monkey/skrell), the plating (57,34,1) (/turf/open/floor/plating/asteroidwarning), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_simplestep), /list (/list))
+ - the neaera (198) (/mob/living/carbon/monkey/skrell):  SendSignal("movable_moved", /list (/list))
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the plating (57,34,1) (/turf/open/floor/plating/asteroidwarning), 2, 0)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the plating (57,34,1) (/turf/open/floor/plating/asteroidwarning), 2)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the plating (57,34,1) (/turf/open/floor/plating/asteroidwarning), 2)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning), 2, null)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning), 2)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning), 2)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Life(0.5, 7948)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:57:52.079] ### VarEdit by Zack24/(Ancient Crusher (828)): /mob/living/carbon/monkey/skrell maxHealth=100 => 1.11111e+031
+[2020-12-15 08:57:52.506] runtime error: cannot read from list
+ - proc name: play simplestep (/datum/component/footstep/proc/play_simplestep)
+ -   source file: footstep.dm,75
+ -   usr: the neaera (198) (/mob/living/carbon/monkey/skrell)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play simplestep(the neaera (198) (/mob/living/carbon/monkey/skrell), the dirt (56,33,1) (/turf/open/floor/plating/ground/dirt), 4, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_simplestep), /list (/list))
+ - the neaera (198) (/mob/living/carbon/monkey/skrell):  SendSignal("movable_moved", /list (/list))
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the dirt (56,33,1) (/turf/open/floor/plating/ground/dirt), 4, 0)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the dirt (56,33,1) (/turf/open/floor/plating/ground/dirt), 4)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Moved(the dirt (56,33,1) (/turf/open/floor/plating/ground/dirt), 4)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning), 4, null)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning), 4)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Move(the plating (57,33,1) (/turf/open/floor/plating/asteroidwarning), 4)
+ - the neaera (198) (/mob/living/carbon/monkey/skrell): Life(0.5, 7964)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:57:55.901] ### VarEdit by Zack24/(Ancient Crusher (828)): /mob/living/carbon/monkey/skrell health=1.11111e+031 => 1.11111e+035
+[2020-12-15 08:58:12.213] ### VarEdit by Zack24/(Ancient Crusher (828)): /datum/action/xeno_action/activable/stomp cooldown_timer=200 => 1
+[2020-12-15 08:58:14.421] ### VarEdit by Zack24/(Ancient Crusher (828)): /datum/action/xeno_action/activable/stomp plasma_cost=100 => 1
+[2020-12-15 08:58:49.800] runtime error: Cannot read null.comp_lookup
+ - proc name: UnregisterSignal (/datum/proc/UnregisterSignal)
+ -   source file: _component.dm,218
+ -   usr: null
+ -   src: /datum/chatmessage (/datum/chatmessage)
+ -   call stack:
+ - /datum/chatmessage (/datum/chatmessage): UnregisterSignal(null, null)
+ - /datum/chatmessage (/datum/chatmessage): Destroy(0)
+ - /datum/chatmessage (/datum/chatmessage): Destroy(0)
+ - qdel(/datum/chatmessage (/datum/chatmessage), 0)
+ - Runechat (/datum/controller/subsystem/runechat): fire(0)
+ - Runechat (/datum/controller/subsystem/runechat): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:58:51.899] runtime error: Cannot read null.comp_lookup
+ - proc name: UnregisterSignal (/datum/proc/UnregisterSignal)
+ -   source file: _component.dm,218
+ -   usr: null
+ -   src: /datum/chatmessage (/datum/chatmessage)
+ -   call stack:
+ - /datum/chatmessage (/datum/chatmessage): UnregisterSignal(null, null)
+ - /datum/chatmessage (/datum/chatmessage): Destroy(0)
+ - /datum/chatmessage (/datum/chatmessage): Destroy(0)
+ - qdel(/datum/chatmessage (/datum/chatmessage), 0)
+ - Runechat (/datum/controller/subsystem/runechat): fire(0)
+ - Runechat (/datum/controller/subsystem/runechat): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:59:09.238] ### VarEdit by Zack24/(Ancient Crusher (88)): /mob/living/carbon/human maxHealth=100 => 1.11111e+028
+[2020-12-15 08:59:17.046] ### VarEdit by Zack24/(Ancient Crusher (88)): /mob/living/carbon/human health=100 => 1.11111e+027
+[2020-12-15 08:59:18.076] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ -   usr: Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar)
+ -   usr.loc: the river (68,34,1) (/turf/open/ground/river)
+ -   call stack:
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): emote("roar", null, null, 0)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): handle momentum()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): update charging(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), the river (67,34,1) (/turf/open/ground/river), 4, 0)
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/update_charging), /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_moved", /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the river (67,34,1) (/turf/open/ground/river), 4, 0)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the river (67,34,1) (/turf/open/ground/river), 4)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the river (67,34,1) (/turf/open/ground/river), 4)
+ - ...
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the river (68,34,1) (/turf/open/ground/river), 4)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the river (68,34,1) (/turf/open/ground/river), 4)
+ - Zack24 (/client): Move(the river (68,34,1) (/turf/open/ground/river), 4)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 08:59:19.049] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ -   usr: Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar)
+ -   usr.loc: the coastline (64,34,1) (/turf/open/ground/coast/corner)
+ -   call stack:
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): emote("roar", null, null, 0)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): handle momentum()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): update charging(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), the coastline (65,34,1) (/turf/open/ground/coast), 8, 0)
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/update_charging), /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_moved", /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the coastline (65,34,1) (/turf/open/ground/coast), 8, 0)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the coastline (65,34,1) (/turf/open/ground/coast), 8)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the coastline (65,34,1) (/turf/open/ground/coast), 8)
+ - ...
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the coastline (64,34,1) (/turf/open/ground/coast/corner), 8)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the coastline (64,34,1) (/turf/open/ground/coast/corner), 8)
+ - Zack24 (/client): Move(the coastline (64,34,1) (/turf/open/ground/coast/corner), 8)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 09:00:21.413] ### VarEdit by Zack24/(Ancient Crusher (88)): /mob/living/carbon/human health=100 => 1.11111e+017
+[2020-12-15 09:00:49.588] ### VarEdit by Zack24/(Ancient Crusher (88)): /datum/armor melee=0 => 99
+[2020-12-15 09:00:52.656] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ -   usr: Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar)
+ -   usr.loc: the plating (60,30,1) (/turf/open/floor/plating/asteroidfloor)
+ -   call stack:
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): emote("roar", null, null, 0)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): handle momentum()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): update charging(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 2, 0)
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/update_charging), /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_moved", /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 2, 0)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 2)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (60,31,1) (/turf/open/floor/plating/asteroidfloor), 2)
+ - ...
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,30,1) (/turf/open/floor/plating/asteroidfloor), 2)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,30,1) (/turf/open/floor/plating/asteroidfloor), 2)
+ - Zack24 (/client): Move(the plating (60,30,1) (/turf/open/floor/plating/asteroidfloor), 2)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 09:00:53.015] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ -   usr: Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar)
+ -   usr.loc: the plating (60,35,1) (/turf/open/floor/plating/asteroidfloor)
+ -   call stack:
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): emote("roar", null, null, 0)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): handle momentum()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): update charging(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), the plating (60,34,1) (/turf/open/floor/plating/asteroidfloor), 1, 0)
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/update_charging), /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_moved", /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (60,34,1) (/turf/open/floor/plating/asteroidfloor), 1, 0)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (60,34,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (60,34,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - ...
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,35,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (60,35,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - Zack24 (/client): Move(the plating (60,35,1) (/turf/open/floor/plating/asteroidfloor), 1)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 09:01:18.115] ### VarEdit by Zack24/(Ancient Crusher (88)): /datum/armor melee=0 => 99
+[2020-12-15 09:01:21.120] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ -   usr: Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar)
+ -   usr.loc: the plating (61,35,1) (/turf/open/floor/plating/asteroidwarning)
+ -   call stack:
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): emote("roar", null, null, 0)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): handle momentum()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): update charging(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), the plating (61,34,1) (/turf/open/floor/plating/asteroidwarning), 1, 0)
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/update_charging), /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_moved", /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (61,34,1) (/turf/open/floor/plating/asteroidwarning), 1, 0)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (61,34,1) (/turf/open/floor/plating/asteroidwarning), 1)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the plating (61,34,1) (/turf/open/floor/plating/asteroidwarning), 1)
+ - ...
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (61,35,1) (/turf/open/floor/plating/asteroidwarning), 1)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the plating (61,35,1) (/turf/open/floor/plating/asteroidwarning), 1)
+ - Zack24 (/client): Move(the plating (61,35,1) (/turf/open/floor/plating/asteroidwarning), 1)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 09:01:41.391] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ -   usr: Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient)
+ -   src: /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar)
+ -   usr.loc: the floor (54,39,1) (/turf/open/floor/freezer)
+ -   call stack:
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - /datum/emote/living/carbon/xen... (/datum/emote/living/carbon/xenomorph/roar): run emote(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), null, null, 0, null)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): emote("roar", null, null, 0)
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): handle momentum()
+ - Toggle Charging (/datum/action/xeno_action/ready_charge): update charging(Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient), the floor (55,39,1) (/turf/open/floor/freezer), 8, 0)
+ - CallAsync(Toggle Charging (/datum/action/xeno_action/ready_charge), /datum/action/xeno_action/read... (/datum/action/xeno_action/ready_charge/proc/update_charging), /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient):  SendSignal("movable_moved", /list (/list))
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the floor (55,39,1) (/turf/open/floor/freezer), 8, 0)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the floor (55,39,1) (/turf/open/floor/freezer), 8)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Moved(the floor (55,39,1) (/turf/open/floor/freezer), 8)
+ - ...
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (54,39,1) (/turf/open/floor/freezer), 8)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): Move(the floor (54,39,1) (/turf/open/floor/freezer), 8)
+ - Zack24 (/client): Move(the floor (54,39,1) (/turf/open/floor/freezer), 8)
+ - Ancient Crusher (88) (/mob/living/carbon/xenomorph/crusher/ancient): keyLoop(Zack24 (/client))
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-12-15 09:01:42.071] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:01:44.387] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:01:44.951] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:01:54.544] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:01:54.895] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:01:55.845] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:01:56.253] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:04.591] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:04.893] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:05.244] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:05.595] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:05.995] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:06.401] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:06.695] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:07.092] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:07.443] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:07.840] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:08.196] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:08.543] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:08.893] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:09.192] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:09.591] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:09.890] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:10.190] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:10.541] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:10.990] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:11.342] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:11.694] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:12.095] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:12.692] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:13.274] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:13.635] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:14.275] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:14.725] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:17.623] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:17.627] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:33.147] ### VarEdit by Zack24/(Ancient Crusher (88)): /mob/living/carbon/human health_threshold_dead=-100 => -1.#INF
+[2020-12-15 09:02:36.875] ### VarEdit by Zack24/(Ancient Crusher (88)): /mob/living/carbon/human health_threshold_crit=-50 => -11111
+[2020-12-15 09:02:39.311] ### VarEdit by Zack24/(Ancient Crusher (88)): /mob/living/carbon/human health=100 => 1.11111e+011
+[2020-12-15 09:02:40.917] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:41.263] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:42.905] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:43.311] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:43.702] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:43.903] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:44.403] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:44.854] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:45.305] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:45.901] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:46.401] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 
+[2020-12-15 09:02:47.060] runtime error: Cannot read null.client
+ - proc name: run emote (/datum/emote/proc/run_emote)
+ -   source file: emotes.dm,72
+ - 

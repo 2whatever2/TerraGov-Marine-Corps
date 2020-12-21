@@ -1,0 +1,352 @@
+[2020-12-15 07:50:50.185] Starting up round ID .
+ - -------------------------
+[2020-12-15 07:50:51.323] GAME: Saved mode is 'Extended'
+[2020-12-15 07:50:57.382] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 07:50:57.383] OOC: Zack24/(Zack24) Zack24 has logged in.  (0, 0, 0)
+[2020-12-15 07:51:05.807] GAME: LV robotics dome loaded at at 31,35,2
+[2020-12-15 07:51:06.305] GAME: LV telecomms dome loaded at at 46,49,2
+[2020-12-15 07:51:06.457] GAME: LV robotics dome loaded at at 46,20,2
+[2020-12-15 07:51:07.365] GAME: LV robotics dome loaded at at 67,8,2
+[2020-12-15 07:51:08.617] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-15 07:51:10.034] GAME: LV internal affairs dome loaded at at 147,50,2
+[2020-12-15 07:51:19.269] ADMIN: Zack24/(Zack24) has started the round early. The round is still setting up, but the round will be started as soon as possible. You may abort this by trying to start early again.
+[2020-12-15 07:51:23.644] GAME: Alamo loaded at at 8,8,4
+[2020-12-15 07:51:23.778] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-15 07:51:23.809] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-15 07:51:23.839] GAME: Supply loaded at at 27,8,4
+[2020-12-15 07:51:30.811] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-15 07:51:30.811] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (41, 49, 3)
+[2020-12-15 07:51:36.993] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (41, 23, 3)
+[2020-12-15 07:51:36.994] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (41, 23, 3)
+[2020-12-15 07:51:37.027] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 07:52:08.237] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/rcd at Requisitions (51, 21, 3)
+[2020-12-15 07:52:25.132] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/door/airlock/multi_tile/medical at Requisitions (51, 21, 3)
+[2020-12-15 07:52:36.753] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/door/airlock/multi_tile/engineering at Requisitions (51, 25, 3)
+[2020-12-15 07:52:51.067] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (107, 19, 2)
+[2020-12-15 07:53:37.218] ADMIN: Zack24/(Jupiter Elder) updated the skills from Spatial Agent to Civilian of Zack24/(Jupiter Elder).
+[2020-12-15 07:54:10.002] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/effect/landmark/itemspawner/butler at Requisitions (51, 23, 3)
+[2020-12-15 08:02:05.185] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:09:13.186] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:10:21.186] SAY: *no key*/(mouse) "Squeak!" Kitchen (129, 24, 2)
+[2020-12-15 08:10:57.196] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:11:04.320] ADMIN: Zack24/(Jupiter Elder) deleted the �Evacuation Airlock(/obj/machinery/door/airlock/evacuation) at Escape Pod (38, 34, 3).
+[2020-12-15 08:11:21.489] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /turf/closed/wall/prison at Escape Pod (38, 34, 3)
+[2020-12-15 08:11:41.319] ADMIN: Zack24/(Jupiter Elder) updated the skills from Civilian to Synthetic of Zack24/(Jupiter Elder).
+[2020-12-15 08:12:05.381] ADMIN: Zack24/(Jupiter Elder) modified Synthetic's engineer from 4 to 55555
+[2020-12-15 08:12:35.030] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-15 08:12:35.031] OOC: Zack24[DC]/(Jupiter Elder) Zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Escape Pod (37, 34, 3)
+[2020-12-15 08:12:36.690] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 08:12:36.690] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Escape Pod (37, 34, 3)
+[2020-12-15 08:12:51.156] ADMINPRIVATE: Zack24/(Jupiter Elder) clicked an href with a bad authorization key! _src_=vars;admin_token=00896110007108241059271939530637820;datumedit=[skills-5-0-0-1-0-0-0-0--4--2-4-4-0-4-4-1-2-4-1];varnameedit=construction
+[2020-12-15 08:12:54.840] ADMINPRIVATE: Zack24/(Jupiter Elder) clicked an href with a bad authorization key! _src_=vars;admin_token=00896110007108241059271939530637820;datumchange=[skills-5-0-0-1-0-0-0-0--4--2-4-4-0-4-4-1-2-4-1];varnamechange=construction
+[2020-12-15 08:12:55.634] ADMINPRIVATE: Zack24/(Jupiter Elder) clicked an href with a bad authorization key! _src_=vars;admin_token=00896110007108241059271939530637820;datumedit=[skills-5-0-0-1-0-0-0-0--4--2-4-4-0-4-4-1-2-4-1];varnameedit=engineer
+[2020-12-15 08:13:11.583] ADMIN: Zack24/(Jupiter Elder) stopped being a spatial agent.
+[2020-12-15 08:13:11.587] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Escape Pod (37, 34, 3)
+[2020-12-15 08:13:11.588] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Escape Pod (37, 34, 3)
+[2020-12-15 08:13:13.491] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Escape Pod (37, 34, 3)
+[2020-12-15 08:13:13.491] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Escape Pod (37, 34, 3)
+[2020-12-15 08:13:13.516] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 08:13:26.143] ADMIN: Zack24/(Jupiter Elder) modified Spatial Agent's construction from 4 to 555
+[2020-12-15 08:13:47.188] ADMIN: Zack24/(Jupiter Elder) modified Spatial Agent's engineer from 4 to 555
+[2020-12-15 08:13:58.138] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:14:31.174] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/tool/pickaxe/plasmacutter at Escape Pod (37, 34, 3)
+[2020-12-15 08:15:01.204] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /turf/closed/wall/r_wall/prison at Escape Pod (38, 34, 3)
+[2020-12-15 08:15:26.728] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/stack/sheet/metal/large_stack at Escape Pod (37, 35, 3)
+[2020-12-15 08:15:30.372] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/stack/sheet/plasteel at Escape Pod (37, 33, 3)
+[2020-12-15 08:15:35.791] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/stack/sheet/plasteel/large_stack at Escape Pod (37, 33, 3)
+[2020-12-15 08:17:22.409] SAY: *no key*/(mouse) "Squeak!" Canteen (130, 26, 2)
+[2020-12-15 08:17:50.896] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/cell/infinite at Hangar (43, 26, 3)
+[2020-12-15 08:18:10.298] SAY: Zack24/(Jupiter Elder) "oh no" Requisitions (47, 14, 3)
+[2020-12-15 08:18:12.393] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Unknown (as Jupiter Elder)(/mob/living/carbon/human). Space (49, 13, 3)
+[2020-12-15 08:18:12.394] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Space (49, 13, 3)
+[2020-12-15 08:18:21.893] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 08:20:08.191] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (39, 24, 3)
+[2020-12-15 08:20:14.127] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (41, 24, 3)
+[2020-12-15 08:20:18.924] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (42, 24, 3)
+[2020-12-15 08:20:22.235] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (43, 24, 3)
+[2020-12-15 08:20:26.178] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (44, 24, 3)
+[2020-12-15 08:20:29.816] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Empress (118).
+[2020-12-15 08:20:29.820] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-12-15 08:20:29.821] OOC: zack24/(Ancient Empress (118)) Ancient Empress (118) has logged in. Hangar (39, 24, 3)
+[2020-12-15 08:20:36.977] ACCESS: Logout: Zack24/(Ancient Empress (371))
+[2020-12-15 08:20:36.978] OOC: zack24[DC]/(Ancient Empress (371)) zack24[DC]/(Ancient Empress (371)) has left mob Ancient Empress (371)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (43, 25, 3)
+[2020-12-15 08:20:38.543] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 08:20:38.543] OOC: Zack24/(Ancient Empress (371)) Ancient Empress (371) has logged in. Hangar (43, 25, 3)
+[2020-12-15 08:21:27.402] ADMIN: Zack24/(Ancient Empress (136)) modified Screech (250)'s cooldown_timer from 1000 to 1
+[2020-12-15 08:21:33.030] ADMIN: Zack24/(Ancient Empress (136)) revived Zack24/(Ancient Empress (136)).
+[2020-12-15 08:21:44.371] ADMIN: Zack24/(Ancient Empress (136)) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 23, 3)
+[2020-12-15 08:21:48.062] ADMIN: Zack24/(Ancient Empress (136)) deleted Ancient Empress (136)(/mob/living/carbon/xenomorph/queen/ancient) at Hangar (42, 23, 3).
+[2020-12-15 08:21:48.066] OOC: *no key*/(Ancient Empress (136)) *no key*/(Ancient Empress (136)) has left mob Ancient Empress (136)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (42, 23, 3)
+[2020-12-15 08:21:48.070] OOC: Zack24/(Ancient Empress (136)) Ancient Empress (136) has logged in. Hangar (42, 23, 3)
+[2020-12-15 08:21:48.926] ADMIN: Zack24/(Ancient Empress (136)) stuffed Zack24 into Ancient Empress (873).
+[2020-12-15 08:21:48.927] OOC: *no key*/(Ancient Empress (136)) *no key*/(Ancient Empress (136)) has left mob Ancient Empress (136)(/mob/dead/observer). Hangar (42, 23, 3)
+[2020-12-15 08:21:48.928] OOC: zack24/(Ancient Empress (873)) Ancient Empress (873) has logged in. Hangar (40, 23, 3)
+[2020-12-15 08:22:10.140] ADMIN: Zack24/(Ancient Empress (865)) modified Screech (250)'s plasma_cost from 250 to 1
+[2020-12-15 08:22:12.878] ADMIN: Zack24/(Ancient Empress (865)) modified Screech (250)'s cooldown_timer from 1000 to 1
+[2020-12-15 08:24:16.550] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 08:24:21.100] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (126, 25, 2)
+[2020-12-15 08:25:39.100] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:26:25.101] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:27:21.101] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:29:26.341] ADMIN: zack24/(Ancient Empress (865)) spawned 1 x /mob/living/carbon/xenomorph/sentinel/ancient at Hangar (42, 22, 3)
+[2020-12-15 08:29:32.672] OOC: *no key*/(Ancient Empress (865)) *no key*/(Ancient Empress (865)) has left mob Ancient Empress (865)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (40, 23, 3)
+[2020-12-15 08:29:32.672] OOC: zack24/(Ancient Empress (865)) Ancient Empress (865) has logged in. Hangar (40, 23, 3)
+[2020-12-15 08:29:32.687] ADMIN: zack24/(Ancient Empress (865)) admin ghosted at Hangar (40, 23, 3).
+[2020-12-15 08:29:33.941] ADMIN: zack24/(Ancient Empress (865)) stuffed zack24 into Ancient Sentinel (67).
+[2020-12-15 08:29:33.942] OOC: *no key*/(Ancient Empress (865)) *no key*/(Ancient Empress (865)) has left mob Ancient Empress (865)(/mob/dead/observer). Hangar (42, 23, 3)
+[2020-12-15 08:29:33.942] OOC: zack24/(Ancient Sentinel (67)) Ancient Sentinel (67) has logged in. Hangar (42, 22, 3)
+[2020-12-15 08:30:31.133] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:30:59.132] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 08:31:50.505] OOC: *no key*/(Ancient Sentinel (820)) *no key*/(Ancient Sentinel (820)) has left mob Ancient Sentinel (820)(/mob/living/carbon/xenomorph/sentinel/ancient). Hangar (41, 23, 3)
+[2020-12-15 08:31:50.505] OOC: zack24/(Ancient Sentinel (820)) Ancient Sentinel (820) has logged in. Hangar (41, 23, 3)
+[2020-12-15 08:31:50.519] ADMIN: zack24/(Ancient Sentinel (820)) admin ghosted at Hangar (41, 23, 3).
+[2020-12-15 08:32:08.725] ADMIN: zack24/(Ancient Sentinel (820)) spawned 1 x /mob/living/carbon/xenomorph/crusher/ancient at Hangar (42, 20, 3)
+[2020-12-15 08:32:11.831] ADMIN: zack24/(Ancient Sentinel (820)) stuffed zack24 into Ancient Crusher (561).
+[2020-12-15 08:32:11.831] OOC: *no key*/(Ancient Sentinel (820)) *no key*/(Ancient Sentinel (820)) has left mob Ancient Sentinel (820)(/mob/dead/observer). Hangar (45, 20, 3)
+[2020-12-15 08:32:11.832] OOC: zack24/(Ancient Crusher (561)) Ancient Crusher (561) has logged in. Hangar (42, 20, 3)
+[2020-12-15 08:32:48.585] ADMIN: Zack24/(Ancient Crusher (563)) modified Toggle Charging's speed_per_step from 0.15 to 1.11111e+008
+[2020-12-15 08:33:30.441] ADMIN: Zack24/(Ancient Crusher (563)) modified Toggle Charging's speed_per_step from 1.11111e+008 to 0.1
+[2020-12-15 08:33:37.604] ADMIN: Zack24/(Ancient Crusher (563)) modified Toggle Charging's speed_per_step from 0.1 to 111
+[2020-12-15 08:33:42.549] ADMIN: Zack24/(Ancient Crusher (563)) modified Toggle Charging's speed_per_step from 111 to 5
+[2020-12-15 08:34:17.197] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 08:34:22.200] ADMIN: zack24/(Ancient Crusher (563)) updated the rank to Deathsquad Leader of *no key*/(Hypomartyria Pyrausta).
+[2020-12-15 08:34:45.026] ADMIN: zack24/(Ancient Crusher (563)) revived *no key*/(Hypomartyria Pyrausta).
+[2020-12-15 08:35:40.654] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 08:35:49.206] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:36:18.102] ACCESS: Logout: Zack24/(Ancient Crusher (563))
+[2020-12-15 08:36:18.103] OOC: zack24[DC]/(Ancient Crusher (563)) zack24[DC]/(Ancient Crusher (563)) has left mob Ancient Crusher (563)(/mob/living/carbon/xenomorph/crusher/ancient). Hangar (44, 23, 3)
+[2020-12-15 08:36:19.467] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 08:36:19.468] OOC: Zack24/(Ancient Crusher (563)) Ancient Crusher (563) has logged in. Hangar (44, 23, 3)
+[2020-12-15 08:36:37.461] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:37:13.678] ADMINPRIVATE: Zack24/(Ancient Crusher (206)) clicked an href with a bad authorization key! _src_=vars;admin_token=1348288710257510732425410104803530105;datumedit=[mob_54];varnameedit=plasma_stored
+[2020-12-15 08:37:14.805] ADMINPRIVATE: Zack24/(Ancient Crusher (206)) clicked an href with a bad authorization key! _src_=vars;admin_token=1348288710257510732425410104803530105;datumedit=[mob_54];varnameedit=plasma_stored
+[2020-12-15 08:37:16.480] ADMINPRIVATE: Zack24/(Ancient Crusher (206)) clicked an href with a bad authorization key! _src_=vars;admin_token=1348288710257510732425410104803530105;datumchange=[mob_54];varnamechange=plasma_stored
+[2020-12-15 08:37:17.287] ADMINPRIVATE: Zack24/(Ancient Crusher (206)) clicked an href with a bad authorization key! _src_=vars;admin_token=1348288710257510732425410104803530105;datumrefresh=[mob_54]
+[2020-12-15 08:37:18.228] ADMINPRIVATE: Zack24/(Ancient Crusher (206)) clicked an href with a bad authorization key! _src_=vars;admin_token=1348288710257510732425410104803530105;datumedit=[mob_54];varnameedit=plasma_stored
+[2020-12-15 08:37:28.399] ADMIN: Zack24/(Ancient Crusher (206)) modified Ancient Crusher (206)'s plasma_stored from 400 to 1.11111e+009
+[2020-12-15 08:37:47.851] ADMIN: Zack24/(Ancient Crusher (206)) modified Ancient Crusher (206)'s plasma_stored from 135 to 400
+[2020-12-15 08:39:07.726] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:39:35.726] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:40:49.726] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 08:41:21.008] ADMIN: Zack24/(Ancient Crusher (206)) modified Crest Toss (100)'s plasma_cost from 100 to 1
+[2020-12-15 08:44:43.762] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's max_steps_buildup from 14 to 1
+[2020-12-15 08:44:52.691] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's steps_for_charge from 7 to 1
+[2020-12-15 08:44:57.752] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's steps_for_charge from 1 to 1
+[2020-12-15 08:44:59.478] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's max_steps_buildup from 1 to 2
+[2020-12-15 08:45:09.690] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's steps_for_charge from 1 to 2
+[2020-12-15 08:45:12.053] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's max_steps_buildup from 2 to 3
+[2020-12-15 08:45:24.710] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's speed_per_step from 5 to 6
+[2020-12-15 08:45:27.453] ADMIN: Zack24/(Ancient Crusher (206)) modified Toggle Charging's max_steps_buildup from 3 to 7
+[2020-12-15 08:45:47.258] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 08:46:55.895] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:46:57.293] ADMIN: Zack24/(Ancient Crusher (206)) has used Scale transformation on Ancient Crusher (206).
+[2020-12-15 08:47:05.753] ADMIN: Zack24/(Ancient Crusher (206)) has used Scale transformation on Ancient Crusher (206).
+[2020-12-15 08:47:18.867] ADMIN: Zack24/(Ancient Crusher (206)) has used Scale transformation on Ancient Crusher (206).
+[2020-12-15 08:47:32.435] ADMIN: Zack24/(Ancient Crusher (206)) has used Translate transformation on Ancient Crusher (206).
+[2020-12-15 08:47:35.896] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:47:40.333] OOC: *no key*/(Ancient Crusher (206)) *no key*/(Ancient Crusher (206)) has left mob Ancient Crusher (206)(/mob/living/carbon/xenomorph/crusher/ancient). Hangar (42, 24, 3)
+[2020-12-15 08:47:40.334] OOC: Zack24/(Ancient Crusher (206)) Ancient Crusher (206) has logged in. Hangar (42, 24, 3)
+[2020-12-15 08:47:40.351] ADMIN: Zack24/(Ancient Crusher (206)) admin ghosted at Hangar (42, 24, 3).
+[2020-12-15 08:47:59.531] ADMIN: Zack24/(Ancient Crusher (206)) deleted Ancient Crusher (206)(/mob/living/carbon/xenomorph/crusher/ancient) at Hangar (42, 24, 3).
+[2020-12-15 08:48:09.896] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:49:08.751] ADMIN: Zack24/(Ancient Crusher (206)) spawned 1 x /mob/living/carbon/xenomorph/crusher/ancient at Hangar (42, 23, 3)
+[2020-12-15 08:49:09.865] ADMIN: Zack24/(Ancient Crusher (206)) stuffed Zack24 into Ancient Crusher (5).
+[2020-12-15 08:49:09.866] OOC: *no key*/(Ancient Crusher (206)) *no key*/(Ancient Crusher (206)) has left mob Ancient Crusher (206)(/mob/dead/observer). Hangar (42, 24, 3)
+[2020-12-15 08:49:09.866] OOC: zack24/(Ancient Crusher (5)) Ancient Crusher (5) has logged in. Hangar (42, 23, 3)
+[2020-12-15 08:49:27.348] ADMIN: Zack24/(Ancient Crusher (541)) modified /datum/xeno_caste/crusher/ancient's plasma_max from 400 to 1.11111e+018
+[2020-12-15 08:49:29.974] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 08:49:30.331] ADMIN: Zack24/(Ancient Crusher (541)) modified /datum/xeno_caste/crusher/ancient's plasma_gain from 30 to 11111
+[2020-12-15 08:49:34.287] ADMIN: Zack24/(Ancient Crusher (541)) modified /datum/xeno_caste/crusher/ancient's plasma_gain from 11111 to 1.11111e+010
+[2020-12-15 08:50:13.945] ADMIN: Zack24/(Ancient Crusher (541)) modified /datum/xeno_caste/crusher/ancient's attack_delay from 8 to -0.2
+[2020-12-15 08:50:29.974] SAY: *no key*/(mouse) "Squeak?" Kitchen (126, 20, 2)
+[2020-12-15 08:50:56.445] ADMIN: Zack24/(Ancient Crusher (541)) modified Ancient Crusher (541)'s plasma_stored from 4.33333e+011 to 1.11111e+018
+[2020-12-15 08:51:20.519] ADMIN: Zack24/(Ancient Crusher (541)) modified Toggle Charging's speed_per_step from 0.15 to 111
+[2020-12-15 08:51:21.436] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 08:51:25.425] ADMIN: Zack24/(Ancient Crusher (541)) modified Toggle Charging's speed_per_step from 111 to 111111
+[2020-12-15 08:51:30.138] OOC: *no key*/(Ancient Crusher (541)) *no key*/(Ancient Crusher (541)) has left mob Ancient Crusher (541)(/mob/living/carbon/xenomorph/crusher/ancient). Space (16, 15, 3)
+[2020-12-15 08:51:30.138] OOC: zack24/(Ancient Crusher (541)) Ancient Crusher (541) has logged in. Space (16, 15, 3)
+[2020-12-15 08:51:33.338] ADMIN: zack24/(Ancient Crusher (541)) revived *no key*/(Ancient Crusher (541)).
+[2020-12-15 08:51:34.082] ADMIN: zack24/(Ancient Crusher (541)) stuffed zack24 into Ancient Crusher (541).
+[2020-12-15 08:51:34.084] OOC: *no key*/(Ancient Crusher (541)) *no key*/(Ancient Crusher (541)) has left mob Ancient Crusher (541)(/mob/dead/observer). Weapon Control Room (18, 15, 3)
+[2020-12-15 08:51:34.084] OOC: zack24/(Ancient Crusher (541)) Ancient Crusher (541) has logged in. Space (16, 15, 3)
+[2020-12-15 08:52:55.100] ADMIN: Zack24/(Ancient Crusher (556)) modified Toggle Charging's charge_dir from 8 to 1.11111e+011
+[2020-12-15 08:53:20.122] ADMIN: Zack24/(Ancient Crusher (556)) modified Toggle Charging's steps_for_charge from 7 to 3
+[2020-12-15 08:53:21.598] ADMIN: Zack24/(Ancient Crusher (556)) modified Toggle Charging's max_steps_buildup from 14 to 5
+[2020-12-15 08:53:24.071] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 08:53:35.039] OOC: *no key*/(Ancient Crusher (556)) *no key*/(Ancient Crusher (556)) has left mob Ancient Crusher (556)(/mob/living/carbon/xenomorph/crusher/ancient). Hangar (42, 24, 3)
+[2020-12-15 08:53:35.040] OOC: zack24/(Ancient Crusher (556)) Ancient Crusher (556) has logged in. Hangar (42, 24, 3)
+[2020-12-15 08:53:35.054] ADMIN: zack24/(Ancient Crusher (556)) admin ghosted at Hangar (42, 24, 3).
+[2020-12-15 08:53:44.003] ADMIN: zack24/(Ancient Crusher (556)) has sent atom Ancient Crusher (556) to themselves.
+[2020-12-15 08:53:47.576] ADMIN: zack24/(Ancient Crusher (556)) stuffed zack24 into Ancient Crusher (556).
+[2020-12-15 08:53:47.577] OOC: *no key*/(Ancient Crusher (556)) *no key*/(Ancient Crusher (556)) has left mob Ancient Crusher (556)(/mob/dead/observer). Main Hallway (121, 30, 2)
+[2020-12-15 08:53:47.577] OOC: zack24/(Ancient Crusher (556)) Ancient Crusher (556) has logged in. Main Hallway (121, 30, 2)
+[2020-12-15 08:54:00.197] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 08:54:47.889] OOC: *no key*/(Ancient Crusher (998)) *no key*/(Ancient Crusher (998)) has left mob Ancient Crusher (998)(/mob/living/carbon/xenomorph/crusher/ancient). Central Barrens (97, 111, 2)
+[2020-12-15 08:54:47.890] OOC: zack24/(Ancient Crusher (998)) Ancient Crusher (998) has logged in. Central Barrens (97, 111, 2)
+[2020-12-15 08:54:47.904] ADMIN: zack24/(Ancient Crusher (998)) admin ghosted at Central Barrens (97, 111, 2).
+[2020-12-15 08:55:03.578] ADMIN: zack24/(Ancient Crusher (998)) has sent atom Ancient Crusher (998) to themselves.
+[2020-12-15 08:55:06.199] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 08:55:18.287] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /obj/effect/ai_node/debug at End of Round Deathmatch Arena (58, 28, 1)
+[2020-12-15 08:55:25.694] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /obj/effect/ai_node/debug at End of Round Deathmatch Arena (65, 28, 1)
+[2020-12-15 08:55:32.451] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /obj/effect/ai_node/debug at End of Round Deathmatch Arena (70, 28, 1)
+[2020-12-15 08:55:41.445] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /mob/living/carbon/xenomorph/queen/ai at End of Round Deathmatch Arena (58, 28, 1)
+[2020-12-15 08:55:50.707] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /mob/living/carbon/human/species/vox at End of Round Deathmatch Arena (61, 30, 1)
+[2020-12-15 08:55:58.927] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /obj/effect/ai_node/debug at End of Round Deathmatch Arena (60, 31, 1)
+[2020-12-15 08:56:02.841] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /obj/effect/ai_node/debug at End of Round Deathmatch Arena (64, 31, 1)
+[2020-12-15 08:56:16.101] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /mob/living/carbon/xenomorph/sentinel/ai at End of Round Deathmatch Arena (63, 34, 1)
+[2020-12-15 08:56:41.662] ADMIN: zack24/(Ancient Crusher (998)) spawned 1 x /obj/machinery/door/poddoor/timed_late/containment/landing_zone at End of Round Deathmatch Arena (60, 29, 1)
+[2020-12-15 08:56:43.339] ADMIN: zack24/(Ancient Crusher (998)) stuffed zack24 into Ancient Crusher (998).
+[2020-12-15 08:56:43.339] OOC: *no key*/(Ancient Crusher (998)) *no key*/(Ancient Crusher (998)) has left mob Ancient Crusher (998)(/mob/dead/observer). End of Round Deathmatch Arena (62, 29, 1)
+[2020-12-15 08:56:43.340] OOC: zack24/(Ancient Crusher (998)) Ancient Crusher (998) has logged in. End of Round Deathmatch Arena (63, 30, 1)
+[2020-12-15 08:57:32.858] ADMIN: zack24/(Ancient Crusher (828)) spawned 1 x /mob/living/carbon/monkey/skrell at End of Round Deathmatch Arena (58, 32, 1)
+[2020-12-15 08:57:52.085] ADMIN: Zack24/(Ancient Crusher (828)) modified The neaera (198)'s maxHealth from 100 to 1.11111e+031
+[2020-12-15 08:57:55.905] ADMIN: Zack24/(Ancient Crusher (828)) modified The neaera (198)'s health from 1.11111e+031 to 1.11111e+035
+[2020-12-15 08:58:12.221] ADMIN: Zack24/(Ancient Crusher (828)) modified Stomp (100)'s cooldown_timer from 200 to 1
+[2020-12-15 08:58:14.431] ADMIN: Zack24/(Ancient Crusher (828)) modified Stomp (100)'s plasma_cost from 100 to 1
+[2020-12-15 08:58:37.684] ADMIN: zack24/(Ancient Crusher (828)) opened the player panel of *no key*/(neaera (198)).
+[2020-12-15 08:58:44.095] ADMIN: zack24/(Ancient Crusher (828)) opened the player panel of *no key*/(Somsak Welsh).
+[2020-12-15 08:58:44.096] ADMIN: zack24/(Ancient Crusher (828)) has transformed *no key*/(Somsak Welsh) into human. Old mob deleted. Teleported to End of Round Deathmatch Arena (62, 33, 1)
+[2020-12-15 08:58:48.863] ACCESS: Logout: Zack24/(Ancient Crusher (828))
+[2020-12-15 08:58:48.864] OOC: zack24[DC]/(Ancient Crusher (828)) zack24[DC]/(Ancient Crusher (828)) has left mob Ancient Crusher (828)(/mob/living/carbon/xenomorph/crusher/ancient). End of Round Deathmatch Arena (63, 33, 1)
+[2020-12-15 08:58:50.339] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 08:58:50.340] OOC: Zack24/(Ancient Crusher (828)) Ancient Crusher (828) has logged in. End of Round Deathmatch Arena (63, 33, 1)
+[2020-12-15 08:58:58.640] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 08:59:09.246] ADMIN: Zack24/(Ancient Crusher (88)) modified Somsak Welsh's maxHealth from 100 to 1.11111e+028
+[2020-12-15 08:59:17.051] ADMIN: Zack24/(Ancient Crusher (88)) modified Somsak Welsh's health from 100 to 1.11111e+027
+[2020-12-15 08:59:28.608] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 08:59:33.910] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 08:59:36.164] ADMIN: Zack24/(Ancient Crusher (88)) opened the player panel of *no key*/(Somsak Welsh).
+[2020-12-15 08:59:39.265] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 08:59:53.463] ADMIN: *no key*/(Somsak Welsh) got their cookie, spawned by Zack24/(Ancient Crusher (88))
+[2020-12-15 08:59:59.671] ADMIN: *no key*/(Somsak Welsh) got their fortune cookie, spawned by Zack24/(Ancient Crusher (88))
+[2020-12-15 08:59:59.911] ADMIN: *no key*/(Somsak Welsh) got their fortune cookie, spawned by Zack24/(Ancient Crusher (88))
+[2020-12-15 09:00:21.417] ADMIN: Zack24/(Ancient Crusher (88)) modified Somsak Welsh's health from 100 to 1.11111e+017
+[2020-12-15 09:00:31.592] ADMIN: Zack24/(Ancient Crusher (88)) revived Zack24/(Ancient Crusher (88)).
+[2020-12-15 09:00:36.688] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 09:00:49.594] ADMIN: Zack24/(Ancient Crusher (88)) modified /datum/armor's melee from 0 to 99
+[2020-12-15 09:00:58.189] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 09:01:18.123] ADMIN: Zack24/(Ancient Crusher (88)) modified /datum/armor's melee from 0 to 99
+[2020-12-15 09:01:22.447] SAY: *no key*/(mouse) "Squeak?" Kitchen (126, 20, 2)
+[2020-12-15 09:01:28.143] ADMIN: Zack24/(Ancient Crusher (88)) revived Zack24/(Ancient Crusher (88)).
+[2020-12-15 09:01:32.952] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 09:01:47.899] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 09:01:53.172] ADMIN: Zack24/(Ancient Crusher (88)) updated the equipment to Deathsquad Leader of *no key*/(Somsak Welsh).
+[2020-12-15 09:01:59.972] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 09:02:17.709] ADMIN: Zack24/(Ancient Crusher (88)) revived *no key*/(Somsak Welsh).
+[2020-12-15 09:02:33.155] ADMIN: Zack24/(Ancient Crusher (88)) modified Unknown's health_threshold_dead from -100 to -1.#INF
+[2020-12-15 09:02:36.881] ADMIN: Zack24/(Ancient Crusher (88)) modified Unknown's health_threshold_crit from -50 to -11111
+[2020-12-15 09:02:39.324] ADMIN: Zack24/(Ancient Crusher (88)) modified Unknown's health from 100 to 1.11111e+011
+[2020-12-15 09:02:58.831] OOC: *no key*/(Ancient Crusher (88)) *no key*/(Ancient Crusher (88)) has left mob Ancient Crusher (88)(/mob/living/carbon/xenomorph/crusher/ancient). End of Round Deathmatch Arena (61, 39, 1)
+[2020-12-15 09:02:58.832] OOC: Zack24/(Ancient Crusher (88)) Ancient Crusher (88) has logged in. End of Round Deathmatch Arena (61, 39, 1)
+[2020-12-15 09:02:58.852] ADMIN: Zack24/(Ancient Crusher (88)) admin ghosted at End of Round Deathmatch Arena (61, 39, 1).
+[2020-12-15 09:03:00.186] ADMIN: Zack24/(Ancient Crusher (88)) stuffed Zack24 into Unknown.
+[2020-12-15 09:03:00.186] OOC: *no key*/(Ancient Crusher (88)) *no key*/(Ancient Crusher (88)) has left mob Ancient Crusher (88)(/mob/dead/observer). End of Round Deathmatch Arena (60, 39, 1)
+[2020-12-15 09:03:00.187] OOC: zack24/(Somsak Welsh) Unknown has logged in. End of Round Deathmatch Arena (59, 39, 1)
+[2020-12-15 09:03:03.797] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Unknown(/mob/living/carbon/human). End of Round Deathmatch Arena (59, 39, 1)
+[2020-12-15 09:03:03.798] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (59, 39, 1)
+[2020-12-15 09:03:03.825] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (59, 39, 1).
+[2020-12-15 09:03:16.505] OOC: zack24/(Somsak Welsh) "xyco" End of Round Deathmatch Arena (58, 39, 1)
+[2020-12-15 09:03:22.732] ADMIN: zack24/(Somsak Welsh) spawned 1 x /obj/item/reagent_containers/hypospray/autoinjector/oxycodone at End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:03:23.718] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (59, 38, 1)
+[2020-12-15 09:03:23.719] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (59, 38, 1)
+[2020-12-15 09:03:23.739] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:03:28.175] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-15 09:03:28.176] OOC: zack24[DC]/(Jupiter Elder) zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:03:29.309] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 09:03:29.309] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:03:42.954] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/reagent_containers/hypospray/autoinjector/tramadol at End of Round Deathmatch Arena (59, 38, 1)
+[2020-12-15 09:03:47.610] ADMIN: Zack24/(Jupiter Elder) stopped being a spatial agent.
+[2020-12-15 09:03:47.619] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:03:47.620] OOC: Zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:03:48.772] ADMIN: Zack24/(Somsak Welsh) stuffed Zack24 into Unknown.
+[2020-12-15 09:03:48.772] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:03:48.773] OOC: zack24/(Somsak Welsh) Unknown has logged in. End of Round Deathmatch Arena (59, 39, 1)
+[2020-12-15 09:03:59.229] ADMIN: zack24/(Somsak Welsh) revived zack24/(Somsak Welsh).
+[2020-12-15 09:04:06.724] ADMIN: zack24/(Somsak Welsh) spawned 1 x /obj/item/reagent_containers/hypospray/advanced/oxycodone at End of Round Deathmatch Arena (58, 39, 1)
+[2020-12-15 09:04:30.059] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Unknown(/mob/living/carbon/human). End of Round Deathmatch Arena (58, 39, 1)
+[2020-12-15 09:04:30.060] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (58, 39, 1)
+[2020-12-15 09:04:30.074] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (58, 39, 1).
+[2020-12-15 09:04:31.713] ADMIN: zack24/(Somsak Welsh) stuffed zack24 into Ancient Crusher (88).
+[2020-12-15 09:04:31.714] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (58, 39, 1)
+[2020-12-15 09:04:31.714] OOC: zack24/(Ancient Crusher (88)) Ancient Crusher (88) has logged in. End of Round Deathmatch Arena (61, 39, 1)
+[2020-12-15 09:04:39.816] ACCESS: Logout: Zack24/(Ancient Crusher (301))
+[2020-12-15 09:04:39.818] OOC: zack24[DC]/(Ancient Crusher (301)) zack24[DC]/(Ancient Crusher (301)) has left mob Ancient Crusher (301)(/mob/living/carbon/xenomorph/crusher/ancient). End of Round Deathmatch Arena (61, 39, 1)
+[2020-12-15 09:04:40.829] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 09:04:40.829] OOC: Zack24/(Ancient Crusher (301)) Ancient Crusher (301) has logged in. End of Round Deathmatch Arena (61, 39, 1)
+[2020-12-15 09:04:58.881] OOC: *no key*/(Ancient Crusher (855)) *no key*/(Ancient Crusher (855)) has left mob Ancient Crusher (855)(/mob/living/carbon/xenomorph/crusher/ancient). End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:04:58.882] OOC: Zack24/(Ancient Crusher (855)) Ancient Crusher (855) has logged in. End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:04:58.898] ADMIN: Zack24/(Ancient Crusher (855)) admin ghosted at End of Round Deathmatch Arena (60, 38, 1).
+[2020-12-15 09:05:00.106] ADMIN: Zack24/(Ancient Crusher (855)) stuffed Zack24 into Unknown.
+[2020-12-15 09:05:00.106] OOC: *no key*/(Ancient Crusher (855)) *no key*/(Ancient Crusher (855)) has left mob Ancient Crusher (855)(/mob/dead/observer). End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:05:00.106] OOC: zack24/(Somsak Welsh) Unknown has logged in. End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:04.277] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Unknown(/mob/living/carbon/human). End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:04.277] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:04.344] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:15.895] ADMIN: zack24/(Jupiter Elder) stopped being a spatial agent.
+[2020-12-15 09:05:15.902] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:15.903] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:17.987] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (57, 38, 1)
+[2020-12-15 09:05:17.988] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (57, 38, 1)
+[2020-12-15 09:05:18.015] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:18.833] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (57, 38, 1)
+[2020-12-15 09:05:18.834] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (57, 38, 1)
+[2020-12-15 09:05:18.847] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (57, 38, 1).
+[2020-12-15 09:05:21.233] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:05:21.233] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:05:21.254] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:22.497] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:05:22.498] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (58, 38, 1)
+[2020-12-15 09:05:22.513] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (58, 38, 1).
+[2020-12-15 09:05:25.248] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:25.249] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:25.269] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:27.179] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:27.179] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (56, 38, 1)
+[2020-12-15 09:05:27.191] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (56, 38, 1).
+[2020-12-15 09:05:28.282] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:28.282] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:28.303] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:28.304] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 09:05:29.230] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:29.230] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:29.245] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (55, 38, 1).
+[2020-12-15 09:05:30.279] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (54, 38, 1)
+[2020-12-15 09:05:30.280] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (54, 38, 1)
+[2020-12-15 09:05:30.298] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:31.450] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (54, 38, 1)
+[2020-12-15 09:05:31.450] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (54, 38, 1)
+[2020-12-15 09:05:31.464] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (54, 38, 1).
+[2020-12-15 09:05:34.341] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (53, 38, 1)
+[2020-12-15 09:05:34.342] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. End of Round Deathmatch Arena (53, 38, 1)
+[2020-12-15 09:05:34.360] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 09:05:39.292] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). End of Round Deathmatch Arena (53, 38, 1)
+[2020-12-15 09:05:39.292] OOC: zack24/(Somsak Welsh) Somsak Welsh has logged in. End of Round Deathmatch Arena (53, 38, 1)
+[2020-12-15 09:05:39.309] ADMIN: zack24/(Somsak Welsh) admin ghosted at End of Round Deathmatch Arena (53, 38, 1).
+[2020-12-15 09:05:41.332] ADMIN: zack24/(Somsak Welsh) stuffed zack24 into Ancient Crusher (855).
+[2020-12-15 09:05:41.332] OOC: *no key*/(Somsak Welsh) *no key*/(Somsak Welsh) has left mob Somsak Welsh(/mob/dead/observer). End of Round Deathmatch Arena (55, 38, 1)
+[2020-12-15 09:05:41.333] OOC: zack24/(Ancient Crusher (855)) Ancient Crusher (855) has logged in. End of Round Deathmatch Arena (60, 38, 1)
+[2020-12-15 09:07:45.933] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Jupiter Elder).
+[2020-12-15 09:07:50.285] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (51)).
+[2020-12-15 09:07:50.286] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (51)) into queen. Old mob deleted.
+[2020-12-15 09:07:53.483] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (392)).
+[2020-12-15 09:07:53.484] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (392)) into queen. Teleported to End of Round Deathmatch Arena (56, 39, 1)
+[2020-12-15 09:07:56.618] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (398)).
+[2020-12-15 09:07:56.623] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (398)) into queen. Teleported to End of Round Deathmatch Arena (57, 39, 1)
+[2020-12-15 09:07:58.628] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (225)).
+[2020-12-15 09:07:58.636] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (225)) into queen. Teleported to End of Round Deathmatch Arena (58, 39, 1)
+[2020-12-15 09:08:00.506] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (438)).
+[2020-12-15 09:08:00.507] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (438)) into queen. Teleported to End of Round Deathmatch Arena (59, 39, 1)
+[2020-12-15 09:08:02.189] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (329)).
+[2020-12-15 09:08:02.190] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (329)) into queen. Teleported to End of Round Deathmatch Arena (60, 39, 1)
+[2020-12-15 09:08:03.871] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (61)).
+[2020-12-15 09:08:03.872] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (61)) into queen. Teleported to End of Round Deathmatch Arena (61, 39, 1)
+[2020-12-15 09:08:05.729] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (917)).
+[2020-12-15 09:08:05.733] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (917)) into queen. Teleported to End of Round Deathmatch Arena (62, 39, 1)
+[2020-12-15 09:08:11.256] ADMIN: zack24/(Ancient Crusher (99)) opened the player panel of *no key*/(Admeme Queen (140)).
+[2020-12-15 09:08:11.259] ADMIN: zack24/(Ancient Crusher (99)) has transformed *no key*/(Admeme Queen (140)) into queen. Teleported to End of Round Deathmatch Arena (63, 39, 1)
+[2020-12-15 09:08:49.228] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 09:09:05.227] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 20, 2)
+[2020-12-15 09:09:15.226] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 09:09:39.226] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (126, 20, 2)
+[2020-12-15 09:10:08.940] ACCESS: Logout: Zack24/(Ancient Crusher (99))
+[2020-12-15 09:10:08.945] OOC: zack24[DC]/(Ancient Crusher (99)) zack24[DC]/(Ancient Crusher (99)) has left mob Ancient Crusher (99)(/mob/living/carbon/xenomorph/crusher/ancient). End of Round Deathmatch Arena (68, 39, 1)

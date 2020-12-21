@@ -1,0 +1,306 @@
+[2020-11-11 13:41:03.894] Starting up round ID .
+ - -------------------------
+[2020-11-11 13:41:03.922] Running /tg/ revision: 2020-10-29
+ - origin/master: 1a4ec41915b666b66df905c98c7e387522772572
+ - HEAD: f67571240fee0f291871221082aac6a5d475b554
+[2020-11-11 13:41:04.937] Initialized Database subsystem within 0 seconds!
+[2020-11-11 13:41:04.939] Initialized Server Tasks subsystem within 0 seconds!
+[2020-11-11 13:41:04.940] Initialized Input subsystem within 0 seconds!
+[2020-11-11 13:41:04.999] Initialized Codex subsystem within 0 seconds!
+[2020-11-11 13:41:05.044] Initialized Events subsystem within 0 seconds!
+[2020-11-11 13:41:05.056] Initialized Jobs subsystem within 0 seconds!
+[2020-11-11 13:41:05.058] Initialized Ticker subsystem within 0 seconds!
+[2020-11-11 13:41:05.062] Loading LV624...
+[2020-11-11 13:41:08.688] Loaded LV624 in 3.6s!
+[2020-11-11 13:41:08.704] Loading Debugdalus...
+[2020-11-11 13:41:09.099] Loaded Debugdalus in 0.3s!
+[2020-11-11 13:41:10.244] Initialized Mapping subsystem within 5.2 seconds!
+[2020-11-11 13:41:32.594] Initialized Atoms subsystem within 22.3 seconds!
+[2020-11-11 13:41:32.630] Initialized Machines subsystem within 0 seconds!
+[2020-11-11 13:41:32.632] Initialized Nodes subsystem within 0 seconds!
+[2020-11-11 13:41:32.633] Initialized Blackbox subsystem within 0 seconds!
+[2020-11-11 13:41:32.634] Initialized Direction subsystem within 0 seconds!
+[2020-11-11 13:41:32.642] Initialized Points subsystem within 0 seconds!
+[2020-11-11 13:41:32.645] Initialized Weather subsystem within 0 seconds!
+[2020-11-11 13:41:32.648] Initialized Weed subsystem within 0 seconds!
+[2020-11-11 13:41:32.651] Initialized Weed Decay subsystem within 0 seconds!
+[2020-11-11 13:41:32.723] Initialized Atmospherics subsystem within 0.1 seconds!
+[2020-11-11 13:41:34.153] Initialized Assets subsystem within 1.4 seconds!
+[2020-11-11 13:41:35.083] Initialized Overlay subsystem within 0.9 seconds!
+[2020-11-11 13:41:35.092] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-11-11 13:41:37.173] Initialized Lighting subsystem within 2.1 seconds!
+[2020-11-11 13:41:37.532] Initialized Shuttle subsystem within 0.4 seconds!
+[2020-11-11 13:41:37.535] Initialized Pathfinder subsystem within 0 seconds!
+[2020-11-11 13:41:37.536] Initialized Chat subsystem within 0 seconds!
+[2020-11-11 13:41:37.538] Initializations complete within 32.6 seconds!
+[2020-11-11 13:43:59.377] Game start took 0s
+[2020-11-11 13:45:45.906] runtime error: xeno_obj_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (42,25,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_obj_throw_hit overridden....")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_obj_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/obj_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (42,23,3) (/turf/open/floor/plating), "icon-x=17;icon-y=18;vis-x=19;v...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (42,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=17;icon-y=18;vis-x=19;v...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (42,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=17;icon-y=18;vis-x=19;v...")
+ - 
+[2020-11-11 13:45:45.928] runtime error: xeno_none_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (42,25,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_none_throw_hit overridden...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_none_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/charge_complete), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (42,23,3) (/turf/open/floor/plating), "icon-x=17;icon-y=18;vis-x=19;v...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (42,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=17;icon-y=18;vis-x=19;v...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (42,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=17;icon-y=18;vis-x=19;v...")
+ - 
+[2020-11-11 13:45:45.957] runtime error: xeno_living_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (42,25,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_living_throw_hit overridd...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_living_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/mob_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (42,23,3) (/turf/open/floor/plating), "icon-x=17;icon-y=18;vis-x=19;v...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (42,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=17;icon-y=18;vis-x=19;v...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (42,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=17;icon-y=18;vis-x=19;v...")
+ - 
+[2020-11-11 13:45:58.864] runtime error: xeno_obj_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (41,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_obj_throw_hit overridden....")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_obj_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/obj_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(the weeds (/obj/effect/alien/weeds))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(the weeds (/obj/effect/alien/weeds))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(the weeds (/obj/effect/alien/weeds), the plating (44,23,3) (/turf/open/floor/plating), "icon-x=20;icon-y=9;middle=1;sc...")
+ - the weeds (/obj/effect/alien/weeds): Click(the plating (44,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=20;icon-y=9;middle=1;sc...")
+ - Zack24 (/client): Click(the weeds (/obj/effect/alien/weeds), the plating (44,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=20;icon-y=9;middle=1;sc...")
+ - 
+[2020-11-11 13:45:58.894] runtime error: xeno_none_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (41,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_none_throw_hit overridden...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_none_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/charge_complete), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(the weeds (/obj/effect/alien/weeds))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(the weeds (/obj/effect/alien/weeds))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(the weeds (/obj/effect/alien/weeds), the plating (44,23,3) (/turf/open/floor/plating), "icon-x=20;icon-y=9;middle=1;sc...")
+ - the weeds (/obj/effect/alien/weeds): Click(the plating (44,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=20;icon-y=9;middle=1;sc...")
+ - Zack24 (/client): Click(the weeds (/obj/effect/alien/weeds), the plating (44,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=20;icon-y=9;middle=1;sc...")
+ - 
+[2020-11-11 13:45:58.929] runtime error: xeno_living_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (41,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_living_throw_hit overridd...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_living_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/mob_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(the weeds (/obj/effect/alien/weeds))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(the weeds (/obj/effect/alien/weeds))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(the weeds (/obj/effect/alien/weeds), the plating (44,23,3) (/turf/open/floor/plating), "icon-x=20;icon-y=9;middle=1;sc...")
+ - the weeds (/obj/effect/alien/weeds): Click(the plating (44,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=20;icon-y=9;middle=1;sc...")
+ - Zack24 (/client): Click(the weeds (/obj/effect/alien/weeds), the plating (44,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=20;icon-y=9;middle=1;sc...")
+ - 
+[2020-11-11 13:46:09.685] runtime error: xeno_obj_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (41,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_obj_throw_hit overridden....")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_obj_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/obj_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "icon-x=15;icon-y=19;vis-x=20;v...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=15;icon-y=19;vis-x=20;v...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=15;icon-y=19;vis-x=20;v...")
+ - 
+[2020-11-11 13:46:09.713] runtime error: xeno_none_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (41,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_none_throw_hit overridden...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_none_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/charge_complete), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "icon-x=15;icon-y=19;vis-x=20;v...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=15;icon-y=19;vis-x=20;v...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=15;icon-y=19;vis-x=20;v...")
+ - 
+[2020-11-11 13:46:09.742] runtime error: xeno_living_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (41,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_living_throw_hit overridd...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_living_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/mob_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "icon-x=15;icon-y=19;vis-x=20;v...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=15;icon-y=19;vis-x=20;v...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=15;icon-y=19;vis-x=20;v...")
+ - 
+[2020-11-11 13:46:31.825] runtime error: xeno_obj_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (40,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_obj_throw_hit overridden....")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_obj_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/obj_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "icon-x=16;icon-y=20;middle=1;s...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=16;icon-y=20;middle=1;s...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=16;icon-y=20;middle=1;s...")
+ - 
+[2020-11-11 13:46:31.866] runtime error: xeno_none_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (40,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_none_throw_hit overridden...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_none_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/charge_complete), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "icon-x=16;icon-y=20;middle=1;s...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=16;icon-y=20;middle=1;s...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=16;icon-y=20;middle=1;s...")
+ - 
+[2020-11-11 13:46:31.894] runtime error: xeno_living_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (40,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_living_throw_hit overridd...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_living_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/mob_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "icon-x=16;icon-y=20;middle=1;s...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=16;icon-y=20;middle=1;s...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (40,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=16;icon-y=20;middle=1;s...")
+ - 
+[2020-11-11 13:47:10.086] runtime error: xeno_obj_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (40,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_obj_throw_hit overridden....")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_obj_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/obj_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (39,23,3) (/turf/open/floor/plating), "icon-x=9;icon-y=12;middle=1;sc...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (39,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=9;icon-y=12;middle=1;sc...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (39,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=9;icon-y=12;middle=1;sc...")
+ - 
+[2020-11-11 13:47:10.122] runtime error: xeno_none_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (40,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_none_throw_hit overridden...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_none_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/charge_complete), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (39,23,3) (/turf/open/floor/plating), "icon-x=9;icon-y=12;middle=1;sc...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (39,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=9;icon-y=12;middle=1;sc...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (39,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=9;icon-y=12;middle=1;sc...")
+ - 
+[2020-11-11 13:47:10.148] runtime error: xeno_living_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (40,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_living_throw_hit overridd...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_living_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/mob_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (39,23,3) (/turf/open/floor/plating), "icon-x=9;icon-y=12;middle=1;sc...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (39,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=9;icon-y=12;middle=1;sc...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (39,23,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=9;icon-y=12;middle=1;sc...")
+ - 
+[2020-11-11 13:48:34.324] runtime error: xeno_obj_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (42,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_obj_throw_hit overridden....")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_obj_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/obj_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (43,22,3) (/turf/open/floor/plating), "icon-x=18;icon-y=14;middle=1;s...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (43,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=18;icon-y=14;middle=1;s...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (43,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=18;icon-y=14;middle=1;s...")
+ - 
+[2020-11-11 13:48:34.360] runtime error: xeno_none_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (42,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_none_throw_hit overridden...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_none_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/charge_complete), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (43,22,3) (/turf/open/floor/plating), "icon-x=18;icon-y=14;middle=1;s...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (43,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=18;icon-y=14;middle=1;s...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (43,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=18;icon-y=14;middle=1;s...")
+ - 
+[2020-11-11 13:48:34.392] runtime error: xeno_living_throw_hit overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient)
+ -   src: Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge)
+ -   usr.loc: the plating (42,23,3) (/turf/open/floor/plating)
+ -   call stack:
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): stack trace("xeno_living_throw_hit overridd...")
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): RegisterSignal(Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient), "xeno_living_throw_hit", /datum/action/xeno_action/acti... (/datum/action/xeno_action/activable/charge/proc/mob_hit), 0)
+ - Eviscerating Charge (300) (/datum/action/xeno_action/activable/charge): use ability(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): MiddleClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth))
+ - Ancient Ravager (495) (/mob/living/carbon/xenomorph/ravager/ancient): ClickOn(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (43,22,3) (/turf/open/floor/plating), "icon-x=18;icon-y=14;middle=1;s...")
+ - Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth): Click(the plating (43,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=18;icon-y=14;middle=1;s...")
+ - Zack24 (/client): Click(Socioplana Radiata (as Unknown... (/mob/living/carbon/human/species/moth), the plating (43,22,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=18;icon-y=14;middle=1;s...")
+ - 

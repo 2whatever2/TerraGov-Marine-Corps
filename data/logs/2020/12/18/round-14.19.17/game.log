@@ -1,0 +1,23 @@
+[2020-12-18 06:19:17.606] Starting up round ID .
+ - -------------------------
+[2020-12-18 06:19:18.901] GAME: Saved mode is 'Extended'
+[2020-12-18 06:19:28.240] GAME: LV robotics dome loaded at at 31,35,2
+[2020-12-18 06:19:28.595] GAME: LV atmos dome loaded at at 46,49,2
+[2020-12-18 06:19:28.718] GAME: LV robotics dome loaded at at 46,20,2
+[2020-12-18 06:19:29.009] GAME: LV cargo dome loaded at at 67,8,2
+[2020-12-18 06:19:29.959] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-18 06:19:31.037] GAME: LV atmos dome loaded at at 147,50,2
+[2020-12-18 06:19:44.084] GAME: Alamo loaded at at 8,8,4
+[2020-12-18 06:19:44.202] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-18 06:19:44.229] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-18 06:19:44.256] GAME: Supply loaded at at 27,8,4
+[2020-12-18 06:22:54.723] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-18 06:22:54.724] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-18 06:23:12.007] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-18 06:23:12.007] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (36, 52, 3)
+[2020-12-18 06:23:25.229] ADMIN: Zack24/(Jupiter Elder) disabled new player joining.
+[2020-12-18 06:23:25.891] ADMIN: Zack24/(Jupiter Elder) enabled new player joining.
+[2020-12-18 06:23:43.930] ADMIN: Zack24/(Jupiter Elder) set the pre-game delay to 1 minute and 58 seconds.
+[2020-12-18 06:23:47.860] ADMIN: Zack24/(Jupiter Elder) delayed the round start.
+[2020-12-18 06:24:01.028] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-18 06:24:01.039] OOC: Zack24[DC]/(Jupiter Elder) Zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Space (93, 13, 3)

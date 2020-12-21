@@ -1,0 +1,128 @@
+[2020-10-29 08:15:28.954] Starting up round ID .
+ - -------------------------
+[2020-10-29 08:15:30.262] GAME: Saved mode is 'Extended'
+[2020-10-29 08:15:41.218] GAME: LV atmos dome loaded at at 31,35,2
+[2020-10-29 08:15:41.641] GAME: LV cargo dome loaded at at 46,49,2
+[2020-10-29 08:15:41.765] GAME: LV robotics dome loaded at at 46,20,2
+[2020-10-29 08:15:42.461] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-10-29 08:15:43.531] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-10-29 08:15:44.739] GAME: LV robotics dome loaded at at 147,50,2
+[2020-10-29 08:15:59.035] GAME: Alamo loaded at at 8,8,4
+[2020-10-29 08:15:59.167] GAME: Escape Pod loaded at at 19,8,4
+[2020-10-29 08:15:59.199] GAME: Escape Pod loaded at at 23,8,4
+[2020-10-29 08:15:59.228] GAME: Supply loaded at at 27,8,4
+[2020-10-29 08:17:13.005] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-10-29 08:17:13.006] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-10-29 08:17:56.216] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-10-29 08:17:56.216] OOC: Zack24/(Arleen Laverty) Arleen Laverty has logged in. Cryo Cells (40, 52, 3)
+[2020-10-29 08:18:02.205] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (39, 28, 3)
+[2020-10-29 08:18:02.205] OOC: Zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (39, 28, 3)
+[2020-10-29 08:18:02.237] ADMIN: Zack24/(Arleen Laverty) became a spatial agent.
+[2020-10-29 08:18:10.817] ADMIN: Zack24/(Arleen Laverty) spawned 1 x /obj/item/weapon/gun/energy/lasgun/tesla at Hangar (40, 27, 3)
+[2020-10-29 08:18:19.154] ADMIN: Zack24/(Arleen Laverty) has started the round early.
+[2020-10-29 08:18:25.031] ADMIN: Zack24/(Arleen Laverty) spawned 1 x /obj/machinery/marine_turret/mini at Hangar (41, 28, 3)
+[2020-10-29 08:18:52.544] SAY: *no key*/(mouse) "Squeak?" Kitchen (125, 15, 2)
+[2020-10-29 08:19:15.098] ADMIN: Zack24/(Arleen Laverty) modified The �UA-580 Point Defense Sentry's ammo from small caliber autocannon bullet to energy ball
+[2020-10-29 08:19:40.826] ADMIN: Zack24/(Arleen Laverty) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 24, 3)
+[2020-10-29 08:19:44.767] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (104, 20, 2)
+[2020-10-29 08:19:45.135] GAME: Zack24/(Arleen Laverty) has ghosted.
+[2020-10-29 08:19:45.137] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/living/carbon/human). Hangar (38, 23, 3)
+[2020-10-29 08:19:45.138] OOC: Zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (38, 23, 3)
+[2020-10-29 08:19:46.303] ADMIN: Zack24/(Arleen Laverty) stuffed Zack24 into Ancient Empress (531).
+[2020-10-29 08:19:46.303] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (38, 23, 3)
+[2020-10-29 08:19:46.303] OOC: zack24/(Ancient Empress (531)) Ancient Empress (531) has logged in. Hangar (41, 24, 3)
+[2020-10-29 08:20:02.768] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-10-29 08:20:08.778] ADMIN: zack24/(Ancient Empress (518)) revived zack24/(Ancient Empress (518)).
+[2020-10-29 08:20:35.193] OOC: *no key*/(Ancient Empress (518)) *no key*/(Ancient Empress (518)) has left mob Ancient Empress (518)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (33, 18, 3)
+[2020-10-29 08:20:35.194] OOC: zack24/(Ancient Empress (518)) Ancient Empress (518) has logged in. Hangar (33, 18, 3)
+[2020-10-29 08:20:35.199] ADMIN: *no key*/(Ancient Empress (518)) gave *no key*/(Arleen Laverty) to *no key*/(Ancient Empress (518)).
+[2020-10-29 08:20:37.049] ADMIN: zack24/(Ancient Empress (518)) stuffed zack24 into Arleen Laverty.
+[2020-10-29 08:20:37.050] OOC: *no key*/(Ancient Empress (518)) *no key*/(Ancient Empress (518)) has left mob Ancient Empress (518)(/mob/dead/observer). Hangar (33, 18, 3)
+[2020-10-29 08:20:37.050] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (38, 23, 3)
+[2020-10-29 08:20:57.617] ADMIN: Zack24/(Arleen Laverty) modified The �UA-580 Point Defense Sentry's burst_size from 2 to 1
+[2020-10-29 08:20:59.343] ADMIN: Zack24/(Arleen Laverty) modified The �UA-580 Point Defense Sentry's min_burst from 2 to 1
+[2020-10-29 08:21:16.433] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/living/carbon/human). Hangar (38, 21, 3)
+[2020-10-29 08:21:16.433] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (38, 21, 3)
+[2020-10-29 08:21:16.439] ADMIN: *no key*/(Arleen Laverty) gave *no key*/(Ancient Empress (518)) to *no key*/(Arleen Laverty).
+[2020-10-29 08:21:17.451] ADMIN: zack24/(Arleen Laverty) stuffed zack24 into Ancient Empress (518).
+[2020-10-29 08:21:17.453] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (38, 21, 3)
+[2020-10-29 08:21:17.453] OOC: zack24/(Ancient Empress (518)) Ancient Empress (518) has logged in. Hangar (33, 18, 3)
+[2020-10-29 08:22:02.664] SAY: zack24/(Ancient Empress (722)) "uhh" Hangar (39, 17, 3)
+[2020-10-29 08:22:03.463] SAY: zack24/(Ancient Empress (722)) "tivi" Hangar (39, 17, 3)
+[2020-10-29 08:22:05.906] SAY: zack24/(Ancient Empress (722)) "that&#39;s not 1/4 of a second" Hangar (39, 17, 3)
+[2020-10-29 08:22:13.938] SAY: zack24/(Ancient Empress (722)) "THATS NOT 1/4 OF A SECOND" Hangar (36, 17, 3)
+[2020-10-29 08:24:49.415] ADMIN: zack24/(Ancient Empress (722)) revived zack24/(Ancient Empress (722)).
+[2020-10-29 08:24:52.939] OOC: *no key*/(Ancient Empress (722)) *no key*/(Ancient Empress (722)) has left mob Ancient Empress (722)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (34, 15, 3)
+[2020-10-29 08:24:52.939] OOC: zack24/(Ancient Empress (722)) Ancient Empress (722) has logged in. Hangar (34, 15, 3)
+[2020-10-29 08:24:52.950] ADMIN: *no key*/(Ancient Empress (722)) gave *no key*/(Arleen Laverty) to *no key*/(Ancient Empress (722)).
+[2020-10-29 08:24:55.850] ADMIN: zack24/(Ancient Empress (722)) stuffed zack24 into Arleen Laverty.
+[2020-10-29 08:24:55.851] OOC: *no key*/(Ancient Empress (722)) *no key*/(Ancient Empress (722)) has left mob Ancient Empress (722)(/mob/dead/observer). Hangar (38, 22, 3)
+[2020-10-29 08:24:55.851] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (38, 21, 3)
+[2020-10-29 08:25:02.779] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (124, 13, 2)
+[2020-10-29 08:25:47.211] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/living/carbon/human). Hangar (38, 17, 3)
+[2020-10-29 08:25:47.211] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (38, 17, 3)
+[2020-10-29 08:25:47.223] ADMIN: *no key*/(Arleen Laverty) gave *no key*/(Arleen Laverty) to *no key*/(Arleen Laverty).
+[2020-10-29 08:25:48.731] ADMIN: zack24/(Arleen Laverty) stuffed zack24 into Ancient Empress (722).
+[2020-10-29 08:25:48.732] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (38, 17, 3)
+[2020-10-29 08:25:48.732] OOC: zack24/(Ancient Empress (722)) Ancient Empress (722) has logged in. Hangar (34, 15, 3)
+[2020-10-29 08:26:04.776] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (105, 17, 2)
+[2020-10-29 08:26:19.437] ADMIN: zack24/(Ancient Empress (477)) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (44, 20, 3)
+[2020-10-29 08:26:23.114] ADMIN: zack24/(Ancient Empress (477)) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (43, 20, 3)
+[2020-10-29 08:26:26.519] ADMIN: zack24/(Ancient Empress (477)) spawned 1 x /mob/living/carbon/xenomorph/queen/elder at Hangar (42, 20, 3)
+[2020-10-29 08:26:29.977] ADMIN: zack24/(Ancient Empress (477)) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 20, 3)
+[2020-10-29 08:26:32.597] ADMIN: zack24/(Ancient Empress (477)) revived zack24/(Ancient Empress (477)).
+[2020-10-29 08:26:58.579] OOC: *no key*/(Ancient Empress (477)) *no key*/(Ancient Empress (477)) has left mob Ancient Empress (477)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (46, 19, 3)
+[2020-10-29 08:26:58.580] OOC: zack24/(Ancient Empress (477)) Ancient Empress (477) has logged in. Hangar (46, 19, 3)
+[2020-10-29 08:26:58.588] ADMIN: *no key*/(Ancient Empress (477)) gave *no key*/(Ancient Empress (477)) to *no key*/(Ancient Empress (477)).
+[2020-10-29 08:27:00.879] ADMIN: zack24/(Ancient Empress (477)) stuffed zack24 into Ancient Empress (541).
+[2020-10-29 08:27:00.880] OOC: *no key*/(Ancient Empress (477)) *no key*/(Ancient Empress (477)) has left mob Ancient Empress (477)(/mob/dead/observer). Hangar (46, 19, 3)
+[2020-10-29 08:27:00.880] OOC: zack24/(Ancient Empress (541)) Ancient Empress (541) has logged in. Hangar (44, 20, 3)
+[2020-10-29 08:27:20.364] OOC: *no key*/(Ancient Empress (88)) *no key*/(Ancient Empress (88)) has left mob Ancient Empress (88)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (42, 19, 3)
+[2020-10-29 08:27:20.364] OOC: zack24/(Ancient Empress (88)) Ancient Empress (88) has logged in. Hangar (42, 19, 3)
+[2020-10-29 08:27:20.370] ADMIN: *no key*/(Ancient Empress (88)) gave *no key*/(Arleen Laverty) to *no key*/(Ancient Empress (88)).
+[2020-10-29 08:27:21.561] ADMIN: zack24/(Ancient Empress (88)) stuffed zack24 into Arleen Laverty.
+[2020-10-29 08:27:21.561] OOC: *no key*/(Ancient Empress (88)) *no key*/(Ancient Empress (88)) has left mob Ancient Empress (88)(/mob/dead/observer). Hangar (42, 19, 3)
+[2020-10-29 08:27:21.561] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (38, 17, 3)
+[2020-10-29 08:27:26.971] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (105, 17, 2)
+[2020-10-29 08:27:33.433] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/living/carbon/human). Hangar (40, 22, 3)
+[2020-10-29 08:27:33.433] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (40, 22, 3)
+[2020-10-29 08:27:33.442] ADMIN: *no key*/(Arleen Laverty) gave *no key*/(Ancient Empress (700)) to *no key*/(Arleen Laverty).
+[2020-10-29 08:27:34.757] ADMIN: zack24/(Arleen Laverty) stuffed zack24 into Ancient Empress (700).
+[2020-10-29 08:27:34.757] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (40, 22, 3)
+[2020-10-29 08:27:34.758] OOC: zack24/(Ancient Empress (700)) Ancient Empress (700) has logged in. Hangar (43, 20, 3)
+[2020-10-29 08:27:48.452] ADMIN: zack24/(Ancient Empress (520)) revived zack24/(Ancient Empress (520)).
+[2020-10-29 08:27:59.262] ADMIN: zack24/(Ancient Empress (520)) revived *no key*/(Ancient Empress (88)).
+[2020-10-29 08:28:01.399] ADMIN: zack24/(Ancient Empress (520)) revived *no key*/(Elder Empress (65)).
+[2020-10-29 08:28:05.227] OOC: *no key*/(Ancient Empress (520)) *no key*/(Ancient Empress (520)) has left mob Ancient Empress (520)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (44, 16, 3)
+[2020-10-29 08:28:05.227] OOC: zack24/(Ancient Empress (520)) Ancient Empress (520) has logged in. Hangar (44, 16, 3)
+[2020-10-29 08:28:05.235] ADMIN: *no key*/(Ancient Empress (520)) gave *no key*/(Arleen Laverty) to *no key*/(Ancient Empress (520)).
+[2020-10-29 08:28:07.067] ADMIN: zack24/(Ancient Empress (520)) stuffed zack24 into Arleen Laverty.
+[2020-10-29 08:28:07.067] OOC: *no key*/(Ancient Empress (520)) *no key*/(Ancient Empress (520)) has left mob Ancient Empress (520)(/mob/dead/observer). Hangar (44, 16, 3)
+[2020-10-29 08:28:07.067] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (40, 21, 3)
+[2020-10-29 08:28:15.479] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/living/carbon/human). Hangar (39, 21, 3)
+[2020-10-29 08:28:15.479] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (39, 21, 3)
+[2020-10-29 08:28:15.487] ADMIN: *no key*/(Arleen Laverty) gave *no key*/(Ancient Empress (88)) to *no key*/(Arleen Laverty).
+[2020-10-29 08:28:16.576] ADMIN: zack24/(Arleen Laverty) stuffed zack24 into Ancient Empress (88).
+[2020-10-29 08:28:16.577] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (39, 21, 3)
+[2020-10-29 08:28:16.577] OOC: zack24/(Ancient Empress (88)) Ancient Empress (88) has logged in. Hangar (42, 19, 3)
+[2020-10-29 08:29:20.970] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-10-29 08:30:18.971] OOC: *no key*/(Ancient Empress (887)) *no key*/(Ancient Empress (887)) has left mob Ancient Empress (887)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (42, 18, 3)
+[2020-10-29 08:30:18.971] OOC: zack24/(Ancient Empress (887)) Ancient Empress (887) has logged in. Hangar (42, 18, 3)
+[2020-10-29 08:30:18.982] ADMIN: *no key*/(Ancient Empress (887)) gave *no key*/(Ancient Empress (887)) to *no key*/(Ancient Empress (887)).
+[2020-10-29 08:30:20.338] ADMIN: zack24/(Ancient Empress (887)) stuffed zack24 into Arleen Laverty.
+[2020-10-29 08:30:20.339] OOC: *no key*/(Ancient Empress (887)) *no key*/(Ancient Empress (887)) has left mob Ancient Empress (887)(/mob/dead/observer). Hangar (42, 18, 3)
+[2020-10-29 08:30:20.339] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (39, 21, 3)
+[2020-10-29 08:30:47.746] ADMIN: Zack24/(Arleen Laverty) modified The �UA-580 Point Defense Sentry's ammo from small caliber autocannon bullet to energy ball
+[2020-10-29 08:30:58.663] ADMIN: Zack24/(Arleen Laverty) modified The �UA-580 Point Defense Sentry's burst_size from 3 to 1
+[2020-10-29 08:31:08.817] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/living/carbon/human). Hangar (42, 24, 3)
+[2020-10-29 08:31:08.818] OOC: zack24/(Arleen Laverty) Arleen Laverty has logged in. Hangar (42, 24, 3)
+[2020-10-29 08:31:08.827] ADMIN: *no key*/(Arleen Laverty) gave *no key*/(Ancient Empress (477)) to *no key*/(Arleen Laverty).
+[2020-10-29 08:31:09.765] ADMIN: zack24/(Arleen Laverty) stuffed zack24 into Ancient Empress (477).
+[2020-10-29 08:31:09.766] OOC: *no key*/(Arleen Laverty) *no key*/(Arleen Laverty) has left mob Arleen Laverty(/mob/dead/observer). Hangar (42, 24, 3)
+[2020-10-29 08:31:09.766] OOC: zack24/(Ancient Empress (477)) Ancient Empress (477) has logged in. Hangar (46, 19, 3)
+[2020-10-29 08:31:22.931] ADMIN: zack24/(Ancient Empress (509)) revived zack24/(Ancient Empress (509)).
+[2020-10-29 08:31:33.963] ADMIN: zack24/(Ancient Empress (509)) revived zack24/(Ancient Empress (509)).
+[2020-10-29 08:31:39.202] ADMIN: zack24/(Ancient Empress (509)) revived zack24/(Ancient Empress (509)).
+[2020-10-29 08:32:39.818] ADMIN: zack24/(Ancient Empress (509)) revived zack24/(Ancient Empress (509)).
+[2020-10-29 08:34:57.137] ACCESS: Logout: Zack24/(Ancient Empress (509))
+[2020-10-29 08:34:57.143] OOC: zack24[DC]/(Ancient Empress (509)) zack24[DC]/(Ancient Empress (509)) has left mob Ancient Empress (509)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (37, 15, 3)

@@ -1,0 +1,79 @@
+[2020-10-30 19:55:36.997] Starting up round ID .
+ - -------------------------
+[2020-10-30 19:58:16.132] HREF: Zack24 (usr:Zack24[(8,8,1)]) : asset_cache_preload_data=%7B%22padlock.png%22%3A%22fd54303923e9086cd6b61a9c4c454f12%22%2C%22asset.2c1817def9a9ea3700c8a4c63b022070.css%22%3A%222c1817def9a9ea3700c8a4c63b022070%22%2C%22jquery.min.js%22%3A%228101d596b2b8fa35fe3a634ea342d7c3%22%2C%22browserOutput.css%22%3A%222b30087926991182605e81fcfb2eb593%22%2C%22browserOutput.js%22%3A%2201938fe53c6a56cebadc7df53b14bb33%22%2C%22browserOutput_white.css%22%3A%22ef5d96586e6717ff7d9dfbcf9086c3e4%22%2C%22fontawesome-webfont.eot%22%3A%2232400f4e08932a94d8bfd2422702c446%22%2C%22fontawesome-webfont.svg%22%3A%22a96314f5ef854388a64ca3befd9942e9%22%2C%22fontawesome-webfont.ttf%22%3A%22a3de2170e4e9df77161ea5d3f31b2668%22%2C%22fontawesome-webfont.woff%22%3A%22a35720c2fed2c7f043bc7e4ffb45e073%22%2C%22goonchatfont-awesome.css%22%3A%223a15fac854d5226a26306c5226a7c01d%22%2C%22json2.min.js%22%3A%2228a0350ec50b9fd89972b78ce1e7dbd4%22%2C%22asset.9b2c5fc6395f3214454b5d0cf0c5403f.css%22%3A%229b2c5fc6395f3214454b5d0cf0c5403f%22%2C%22asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png%22%3A%22f2c9176c6a3ba7b8cdfe4457c848bd8c%22%2C%22fa-regular-400.eot%22%3A%22fc9c63c8224fb341fc933641cbdd12ef%22%2C%22fa-regular-400.woff%22%3A%22e5770f9863963fb576942e25214a226d%22%2C%22fa-solid-900.eot%22%3A%22ef3df98419d143d9617fe163bf4edc0b%22%2C%22fa-solid-900.woff%22%3A%224bced7c4c0d61d4f988629bb8ae80b8b%22%2C%22font-awesome.css%22%3A%22b7b0fc427ae028cde1fe3356abfee869%22%2C%22v4shim.css%22%3A%22e140a7d32f343530f016095df3cc2ae4%22%7D
+[2020-10-30 19:58:18.077] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=doneLoading
+[2020-10-30 19:58:18.609] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.20","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.158","compid":"2571130799"}]}
+[2020-10-30 19:58:32.545] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[mob_38];lobby_choice=observe
+[2020-10-30 19:59:11.667] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : _src_=codex;show_examined_info=[0x20029b7];show_to=[mob_40]
+[2020-10-30 19:59:23.445] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : _src_=vars;admin_token=3047225610182542925610933859403666;vars=[0x210003dd]
+[2020-10-30 19:59:31.185] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : _src_=vars;admin_token=3047225610182542925610933859403666;datumedit=[0x210003dd];varnameedit=shrapnel_chance
+[2020-10-30 19:59:37.166] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : _src_=vars;admin_token=3047225610182542925610933859403666;datumchange=[0x210003dd];varnamechange=accuracy
+[2020-10-30 20:00:18.405] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : _src_=vars;admin_token=3047225610182542925610933859403666;datumedit=[0x20029b7];varnameedit=ammo_per_shot
+[2020-10-30 20:00:35.635] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : /datum/tgui src=%5B0x210015bf%5D&action=tgui%3Ainitialize
+[2020-10-30 20:00:36.866] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : 
+[2020-10-30 20:00:36.869] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : 
+[2020-10-30 20:00:39.463] HREF: Zack24 (usr:Sofiya Justus[(39,29,3)]) : /datum/tgui src=%5B0x210015bf%5D&action=vend&vend=2&cat=0
+[2020-10-30 20:00:46.216] HREF: Zack24 (usr:Sofiya Justus[(40,29,3)]) : __keyup=17
+[2020-10-30 20:00:46.217] HREF: Zack24 (usr:Sofiya Justus[(40,29,3)]) : __keyup=70
+[2020-10-30 20:00:47.953] HREF: Zack24 (usr:Sofiya Justus[(40,29,3)]) : /datum/tgui src=%5B0x210015bf%5D&action=vend&vend=7&cat=0
+[2020-10-30 20:00:50.342] HREF: Zack24 (usr:Sofiya Justus[(40,29,3)]) : /datum/tgui src=%5B0x21006847%5D&action=tgui%3Ainitialize
+[2020-10-30 20:00:50.770] HREF: Zack24 (usr:Sofiya Justus[(40,29,3)]) : 
+[2020-10-30 20:00:50.822] HREF: Zack24 (usr:Sofiya Justus[(40,29,3)]) : 
+[2020-10-30 20:02:10.375] HREF: Zack24 (usr:Sofiya Justus[(38,17,3)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.20","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.158","compid":"2571130799"}]}
+[2020-10-30 20:02:10.499] HREF: Zack24 (usr:Sofiya Justus[(38,17,3)]) : asset_cache_preload_data=%7B%22padlock.png%22%3A%22fd54303923e9086cd6b61a9c4c454f12%22%2C%22asset.2c1817def9a9ea3700c8a4c63b022070.css%22%3A%222c1817def9a9ea3700c8a4c63b022070%22%2C%22jquery.min.js%22%3A%228101d596b2b8fa35fe3a634ea342d7c3%22%2C%22browserOutput.css%22%3A%222b30087926991182605e81fcfb2eb593%22%2C%22browserOutput.js%22%3A%2201938fe53c6a56cebadc7df53b14bb33%22%2C%22browserOutput_white.css%22%3A%22ef5d96586e6717ff7d9dfbcf9086c3e4%22%2C%22fontawesome-webfont.eot%22%3A%2232400f4e08932a94d8bfd2422702c446%22%2C%22fontawesome-webfont.svg%22%3A%22a96314f5ef854388a64ca3befd9942e9%22%2C%22fontawesome-webfont.ttf%22%3A%22a3de2170e4e9df77161ea5d3f31b2668%22%2C%22fontawesome-webfont.woff%22%3A%22a35720c2fed2c7f043bc7e4ffb45e073%22%2C%22goonchatfont-awesome.css%22%3A%223a15fac854d5226a26306c5226a7c01d%22%2C%22json2.min.js%22%3A%2228a0350ec50b9fd89972b78ce1e7dbd4%22%2C%22asset.9b2c5fc6395f3214454b5d0cf0c5403f.css%22%3A%229b2c5fc6395f3214454b5d0cf0c5403f%22%2C%22asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png%22%3A%22f2c9176c6a3ba7b8cdfe4457c848bd8c%22%2C%22fa-regular-400.eot%22%3A%22fc9c63c8224fb341fc933641cbdd12ef%22%2C%22fa-regular-400.woff%22%3A%22e5770f9863963fb576942e25214a226d%22%2C%22fa-solid-900.eot%22%3A%22ef3df98419d143d9617fe163bf4edc0b%22%2C%22fa-solid-900.woff%22%3A%224bced7c4c0d61d4f988629bb8ae80b8b%22%2C%22font-awesome.css%22%3A%22b7b0fc427ae028cde1fe3356abfee869%22%2C%22v4shim.css%22%3A%22e140a7d32f343530f016095df3cc2ae4%22%2C%22asset.ba235dd4a65b53a08548b6a95d42d1a0.png%22%3A%22ba235dd4a65b53a08548b6a95d42d1a0%22%2C%22asset.e74249594e4c4878917e2bce3898b242.png%22%3A%22e74249594e4c4878917e2bce3898b242%22%2C%22tgui.bundle.js%22%3A%22be0cfded7d4a3b7d5f07587b4d90980f%22%2C%22tgui.bundle.css%22%3A%22cbfa2ad8a24954f16cdc0ee240440b5d%22%2C%22asset.3b35bec27fbc6befce1b7cfa600542b7.png%22%3A%223b35bec27fbc6befce1b7cfa600542b7%22%2C%22asset.732e90a1fc3f7f68855093e58491625c.png%22%3A%22732e90a1fc3f7f68855093e58491625c%22%2C%22asset.2dad51a03b9100323ed20ff7e4e87dcb.png%22%3A%222dad51a03b9100323ed20ff7e4e87dcb%22%7D
+[2020-10-30 20:05:48.453] HREF: Zack24 (usr:Sofiya Justus[(31,12,3)]) : Asota Modesta src=[mob_43];splints=1
+[2020-10-30 20:05:49.109] HREF: Zack24 (usr:Sofiya Justus[(31,12,3)]) : Asota Modesta src=[mob_43];splints=1
+[2020-10-30 20:08:27.744] HREF: Zack24 (usr:Sofiya Justus[(29,8,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[mob_40];varnameedit=skills
+[2020-10-30 20:08:29.252] HREF: Zack24 (usr:Sofiya Justus[(29,8,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;vars=[skills-5-2-2-1-1-1-1-1-0-1-4-4-4-5-4-1-2-4-1]
+[2020-10-30 20:08:34.302] HREF: Zack24 (usr:Sofiya Justus[(28,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[skills-5-2-2-1-1-1-1-1-0-1-4-4-4-5-4-1-2-4-1];varnameedit=surgery
+[2020-10-30 20:10:02.293] HREF: Zack24 (usr:Asota Modesta[(32,6,3)]) : zack24's admin datum (!localhost!) src=[0x21001667];admin_token=574100101000101076480003489042101110902;rank=skills;mob=[mob_43]
+[2020-10-30 20:10:10.261] HREF: Zack24 (usr:Asota Modesta[(31,6,3)]) : zack24's admin datum (!localhost!) src=[0x21001667];admin_token=574100101000101076480003489042101110902;rank=equipment;mob=[mob_43]
+[2020-10-30 20:11:50.086] HREF: Zack24 (usr:Sofiya Justus[(29,13,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[0x2010627];varnameedit=current_rounds
+[2020-10-30 20:12:12.785] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : /datum/tgui src=%5B0x21006373%5D&action=tgui%3Ainitialize
+[2020-10-30 20:12:12.976] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : 
+[2020-10-30 20:12:12.977] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : 
+[2020-10-30 20:12:13.918] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : /datum/tgui src=%5B0x21006373%5D&action=power
+[2020-10-30 20:12:53.083] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : /datum/tgui src=%5B0x21006373%5D&action=eject
+[2020-10-30 20:13:07.499] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=18
+[2020-10-30 20:13:07.591] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=18
+[2020-10-30 20:13:08.402] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=18
+[2020-10-30 20:13:08.460] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=18
+[2020-10-30 20:13:10.369] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=18
+[2020-10-30 20:13:10.421] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=18
+[2020-10-30 20:13:12.546] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=18
+[2020-10-30 20:13:12.604] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=18
+[2020-10-30 20:13:14.872] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : /datum/tgui src=%5B0x21006373%5D&action=eject
+[2020-10-30 20:15:02.125] HREF: Zack24 (usr:Sofiya Justus[(30,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[0x201029b];varnameedit=amount
+[2020-10-30 20:15:08.514] HREF: Zack24 (usr:Sofiya Justus[(30,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[0x201029b];varnameedit=heal_brute
+[2020-10-30 20:16:42.363] HREF: Zack24 (usr:Sofiya Justus[(28,5,3)]) : /datum/tgui src=%5B0x2100242f%5D&action=tgui%3Ainitialize
+[2020-10-30 20:16:42.672] HREF: Zack24 (usr:Sofiya Justus[(28,5,3)]) : 
+[2020-10-30 20:16:42.674] HREF: Zack24 (usr:Sofiya Justus[(28,5,3)]) : 
+[2020-10-30 20:16:49.096] HREF: Zack24 (usr:Sofiya Justus[(30,9,3)]) : __keydown=68
+[2020-10-30 20:16:49.141] HREF: Zack24 (usr:Sofiya Justus[(30,9,3)]) : __keyup=68
+[2020-10-30 20:16:53.513] HREF: Zack24 (usr:Sofiya Justus[(30,10,3)]) : Asota Modesta (as Unknown) src=[mob_43];item=8
+[2020-10-30 20:17:53.709] HREF: Zack24 (usr:Sofiya Justus[(30,12,3)]) : Asota Modesta (as Unknown) src=[mob_43];item=8
+[2020-10-30 20:18:44.222] HREF: Zack24 (usr:Sofiya Justus[(30,12,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;mobToDamage=[mob_43];adjustDamage=brute
+[2020-10-30 20:19:01.280] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : /datum/tgui src=%5B0x2100665f%5D&action=tgui%3Ainitialize
+[2020-10-30 20:19:01.457] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : 
+[2020-10-30 20:19:01.458] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : 
+[2020-10-30 20:19:03.642] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=18
+[2020-10-30 20:19:03.698] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=18
+[2020-10-30 20:19:06.030] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : /datum/tgui src=%5B0x2100665f%5D&action=eject
+[2020-10-30 20:19:06.186] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=65
+[2020-10-30 20:19:06.259] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keydown=18
+[2020-10-30 20:19:06.764] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=18
+[2020-10-30 20:19:06.923] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : __keyup=65
+[2020-10-30 20:20:00.456] HREF: Zack24 (usr:Sofiya Justus[(34,8,3)]) : /datum/tgui src=%5B0x2100247e%5D&action=tgui%3Ainitialize
+[2020-10-30 20:20:00.618] HREF: Zack24 (usr:Sofiya Justus[(34,8,3)]) : 
+[2020-10-30 20:20:00.619] HREF: Zack24 (usr:Sofiya Justus[(34,8,3)]) : 
+[2020-10-30 20:20:07.520] HREF: Zack24 (usr:Sofiya Justus[(34,8,3)]) : /datum/tgui src=%5B0x2100247e%5D&action=eject
+[2020-10-30 20:20:08.425] HREF: Zack24 (usr:Sofiya Justus[(34,8,3)]) : __keydown=18
+[2020-10-30 20:20:08.530] HREF: Zack24 (usr:Sofiya Justus[(34,8,3)]) : __keyup=18
+[2020-10-30 20:20:43.156] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;vars=[0x210065c1]
+[2020-10-30 20:20:52.560] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;vars=[0xf0316e0]
+[2020-10-30 20:20:55.805] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;listedit=[0xf0316e0];index=1
+[2020-10-30 20:21:03.860] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumchange=[0x2010637];varnamechange=list_reagents
+[2020-10-30 20:21:05.876] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[0x2010637];varnameedit=list_reagents
+[2020-10-30 20:21:10.201] HREF: Zack24 (usr:Sofiya Justus[(33,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[0x2010637];varnameedit=list_reagents
+[2020-10-30 20:21:31.444] HREF: Zack24 (usr:Sofiya Justus[(32,9,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;datumedit=[0x2010637];varnameedit=volume
+[2020-10-30 20:21:56.236] HREF: Zack24 (usr:Sofiya Justus[(32,8,3)]) : _src_=vars;admin_token=574100101000101076480003489042101110902;vars=[0xf035b68]

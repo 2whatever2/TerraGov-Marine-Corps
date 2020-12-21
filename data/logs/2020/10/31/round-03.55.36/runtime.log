@@ -1,0 +1,343 @@
+[2020-10-30 19:55:36.999] Starting up round ID .
+ - -------------------------
+[2020-10-30 19:55:37.071] Running /tg/ revision: 2020-10-29
+ - origin/master: 1a4ec41915b666b66df905c98c7e387522772572
+ - HEAD: f67571240fee0f291871221082aac6a5d475b554
+[2020-10-30 19:55:38.076] Initialized Database subsystem within 0 seconds!
+[2020-10-30 19:55:38.082] Initialized Server Tasks subsystem within 0 seconds!
+[2020-10-30 19:55:38.088] Initialized Input subsystem within 0 seconds!
+[2020-10-30 19:55:38.181] Initialized Codex subsystem within 0.1 seconds!
+[2020-10-30 19:55:38.187] Initialized Events subsystem within 0 seconds!
+[2020-10-30 19:55:38.198] Initialized Jobs subsystem within 0 seconds!
+[2020-10-30 19:55:38.200] Initialized Ticker subsystem within 0 seconds!
+[2020-10-30 19:55:38.204] Loading LV624...
+[2020-10-30 19:55:41.768] Loaded LV624 in 3.5s!
+[2020-10-30 19:55:41.781] Loading Debugdalus...
+[2020-10-30 19:55:42.093] Loaded Debugdalus in 0.3s!
+[2020-10-30 19:55:43.109] Initialized Mapping subsystem within 4.9 seconds!
+[2020-10-30 19:55:58.773] Initialized Atoms subsystem within 15.6 seconds!
+[2020-10-30 19:55:58.796] Initialized Machines subsystem within 0 seconds!
+[2020-10-30 19:55:58.798] Initialized Nodes subsystem within 0 seconds!
+[2020-10-30 19:55:58.799] Initialized Blackbox subsystem within 0 seconds!
+[2020-10-30 19:55:58.801] Initialized Direction subsystem within 0 seconds!
+[2020-10-30 19:55:58.807] Initialized Points subsystem within 0 seconds!
+[2020-10-30 19:55:58.809] Initialized Weather subsystem within 0 seconds!
+[2020-10-30 19:55:58.811] Initialized Weed subsystem within 0 seconds!
+[2020-10-30 19:55:58.813] Initialized Weed Decay subsystem within 0 seconds!
+[2020-10-30 19:55:58.867] Initialized Atmospherics subsystem within 0 seconds!
+[2020-10-30 19:55:59.211] Initialized Assets subsystem within 0.4 seconds!
+[2020-10-30 19:56:00.069] Initialized Overlay subsystem within 0.8 seconds!
+[2020-10-30 19:56:00.076] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-10-30 19:56:02.067] Initialized Lighting subsystem within 2 seconds!
+[2020-10-30 19:56:02.399] Initialized Shuttle subsystem within 0.3 seconds!
+[2020-10-30 19:56:02.404] Initialized Pathfinder subsystem within 0 seconds!
+[2020-10-30 19:56:02.407] Initialized Chat subsystem within 0 seconds!
+[2020-10-30 19:56:02.409] Initializations complete within 24.4 seconds!
+[2020-10-30 19:58:54.515] Game start took 0.2s
+[2020-10-30 19:59:32.542] ### VarEdit by Zack24/(Sofiya Justus): /datum/ammo/bullet/rifle shrapnel_chance=10 => 100
+[2020-10-30 20:00:19.926] ### VarEdit by Zack24/(Sofiya Justus): /obj/item/weapon/gun/rifle/standard_carbine ammo_per_shot=1 => 0
+[2020-10-30 20:01:27.751] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,27,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Philomusaea Siamensis (/mob/living/carbon/human/species/moth), the plating (41,28,3) (/turf/open/floor/plating), null, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Moved(the plating (41,28,3) (/turf/open/floor/plating), null, 0)
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Moved(the plating (41,28,3) (/turf/open/floor/plating), null)
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Moved(the plating (41,28,3) (/turf/open/floor/plating), null)
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Moved(the plating (41,28,3) (/turf/open/floor/plating), null)
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Move(the plating (41,27,3) (/turf/open/floor/plating), null, null)
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Move(the plating (41,27,3) (/turf/open/floor/plating), null)
+ - Philomusaea Siamensis (/mob/living/carbon/human/species/moth): Move(the plating (41,27,3) (/turf/open/floor/plating), null)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,28,3) (/turf/open/floor/plating), 1, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,28,3) (/turf/open/floor/plating), 1, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,28,3) (/turf/open/floor/plating), 1)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,28,3) (/turf/open/floor/plating), 1)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,28,3) (/turf/open/floor/plating), 1)
+ - Zack24 (/client): Move(the plating (41,28,3) (/turf/open/floor/plating), 1)
+ - Zack24 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:04:07.564] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,28,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Asota Modesta (/mob/living/carbon/human/species/moth), the plating (41,27,3) (/turf/open/floor/plating), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,27,3) (/turf/open/floor/plating), 2, 0)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,27,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,27,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,27,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,26,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,26,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,26,3) (/turf/open/floor/plating), 2, 6.4)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,27,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,27,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,27,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,27,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,27,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:04:08.789] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,26,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Asota Modesta (/mob/living/carbon/human/species/moth), the plating (41,25,3) (/turf/open/floor/plating), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,25,3) (/turf/open/floor/plating), 2, 0)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,25,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,25,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,25,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,24,3) (/turf/open/floor/plating), 2, 4.3)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,24,3) (/turf/open/floor/plating), 2, 4.3)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,24,3) (/turf/open/floor/plating), 2, 4.3)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,25,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,25,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,25,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,25,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,25,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:04:09.678] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,24,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Asota Modesta (/mob/living/carbon/human/species/moth), the plating (41,23,3) (/turf/open/floor/plating), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,23,3) (/turf/open/floor/plating), 2, 0)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,23,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,23,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,23,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,22,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,22,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,22,3) (/turf/open/floor/plating), 2, 6.4)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,23,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,23,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,23,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,23,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,23,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:04:15.485] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,22,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Asota Modesta (/mob/living/carbon/human/species/moth), the plating (41,21,3) (/turf/open/floor/plating), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,21,3) (/turf/open/floor/plating), 2, 0)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,21,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,21,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,21,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,20,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,20,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,20,3) (/turf/open/floor/plating), 2, 6.4)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,21,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,21,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,21,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,21,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,21,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:04:16.309] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,20,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Asota Modesta (/mob/living/carbon/human/species/moth), the plating (41,19,3) (/turf/open/floor/plating), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,19,3) (/turf/open/floor/plating), 2, 0)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,19,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,19,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,19,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,18,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,18,3) (/turf/open/floor/plating), 2, 6.4)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,18,3) (/turf/open/floor/plating), 2, 6.4)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,19,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,19,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,19,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,19,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,19,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:04:17.302] runtime error: cannot read from list
+ - proc name: play humanstep (/datum/component/footstep/proc/play_humanstep)
+ -   source file: footstep.dm,96
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: /datum/component/footstep (/datum/component/footstep)
+ -   usr.loc: the plating (41,18,3) (/turf/open/floor/plating)
+ -   call stack:
+ - /datum/component/footstep (/datum/component/footstep): play humanstep(Asota Modesta (/mob/living/carbon/human/species/moth), the plating (41,17,3) (/turf/open/floor/plating), 2, 0)
+ - CallAsync(/datum/component/footstep (/datum/component/footstep), /datum/component/footstep/proc... (/datum/component/footstep/proc/play_humanstep), /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth):  SendSignal("movable_moved", /list (/list))
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,17,3) (/turf/open/floor/plating), 2, 0)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,17,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,17,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Moved(the plating (41,17,3) (/turf/open/floor/plating), 2)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,16,3) (/turf/open/floor/plating), 2, 4.3)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,16,3) (/turf/open/floor/plating), 2, 4.3)
+ - Asota Modesta (/mob/living/carbon/human/species/moth): Move(the plating (41,16,3) (/turf/open/floor/plating), 2, 4.3)
+ - ...
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,17,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,17,3) (/turf/open/floor/plating), 2, null)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,17,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,17,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): Move(the plating (41,17,3) (/turf/open/floor/plating), 2)
+ - Sofiya Justus (/mob/living/carbon/human): keyLoop(Zack24 (/client))
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-30 20:08:35.219] ### VarEdit by Zack24/(Sofiya Justus): /datum/skills/spatial_agent surgery=4 => 111
+[2020-10-30 20:11:51.369] ### VarEdit by Zack24/(Sofiya Justus): /obj/item/ammo_magazine/rifle/standard_carbine current_rounds=32 => 1.11111e+013
+[2020-10-30 20:15:03.001] ### VarEdit by Zack24/(Sofiya Justus): /obj/item/stack/medical/advanced/bruise_pack amount=6 => 111
+[2020-10-30 20:15:09.777] ### VarEdit by Zack24/(Sofiya Justus): /obj/item/stack/medical/advanced/bruise_pack heal_brute=12 => 1.11111e+008
+[2020-10-30 20:15:13.243] runtime error: The advanced trauma kit tried to update_weight() with 110 amount and 10 max_amount.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack)
+ -   usr.loc: the floor (30,11,3) (/turf/open/floor/mainship)
+ -   src.loc: Sofiya Justus (/mob/living/carbon/human)
+ -   call stack:
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): stack trace("The advanced trauma kit tried ...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): update weight()
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): use(1)
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): attack(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), Sofiya Justus (/mob/living/carbon/human))
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): attackby(the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack), Sofiya Justus (/mob/living/carbon/human), "icon-x=22;icon-y=16;left=1;scr...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): melee attack chain(Sofiya Justus (/mob/living/carbon/human), Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), "icon-x=22;icon-y=16;left=1;scr...")
+ - Sofiya Justus (/mob/living/carbon/human): ClickOn(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), the floor (31,11,3) (/turf/open/floor/mainship), "icon-x=22;icon-y=16;left=1;scr...")
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): Click(the floor (31,11,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=22;icon-y=16;left=1;scr...")
+ - 
+[2020-10-30 20:15:31.699] runtime error: The advanced trauma kit tried to update_weight() with 109 amount and 10 max_amount.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack)
+ -   usr.loc: the floor (30,13,3) (/turf/open/floor/mainship)
+ -   src.loc: Sofiya Justus (/mob/living/carbon/human)
+ -   call stack:
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): stack trace("The advanced trauma kit tried ...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): update weight()
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): use(1)
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): attack(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), Sofiya Justus (/mob/living/carbon/human))
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): attackby(the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack), Sofiya Justus (/mob/living/carbon/human), "icon-x=17;icon-y=13;vis-x=-11;...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): melee attack chain(Sofiya Justus (/mob/living/carbon/human), Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), "icon-x=17;icon-y=13;vis-x=-11;...")
+ - Sofiya Justus (/mob/living/carbon/human): ClickOn(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), the floor (30,12,3) (/turf/open/floor/mainship), "icon-x=17;icon-y=13;vis-x=-11;...")
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): Click(the floor (30,12,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=17;icon-y=13;vis-x=-11;...")
+ - 
+[2020-10-30 20:18:08.732] runtime error: The advanced trauma kit tried to update_weight() with 108 amount and 10 max_amount.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack)
+ -   usr.loc: the floor (30,11,3) (/turf/open/floor/mainship)
+ -   src.loc: Sofiya Justus (/mob/living/carbon/human)
+ -   call stack:
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): stack trace("The advanced trauma kit tried ...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): update weight()
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): use(1)
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): attack(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), Sofiya Justus (/mob/living/carbon/human))
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): attackby(the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack), Sofiya Justus (/mob/living/carbon/human), "icon-x=21;icon-y=12;left=1;scr...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): melee attack chain(Sofiya Justus (/mob/living/carbon/human), Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), "icon-x=21;icon-y=12;left=1;scr...")
+ - Sofiya Justus (/mob/living/carbon/human): ClickOn(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), the floor (31,12,3) (/turf/open/floor/mainship), "icon-x=21;icon-y=12;left=1;scr...")
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): Click(the floor (31,12,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=21;icon-y=12;left=1;scr...")
+ - 
+[2020-10-30 20:18:16.420] runtime error: The advanced trauma kit tried to update_weight() with 107 amount and 10 max_amount.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack)
+ -   usr.loc: the floor (30,12,3) (/turf/open/floor/mainship)
+ -   src.loc: Sofiya Justus (/mob/living/carbon/human)
+ -   call stack:
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): stack trace("The advanced trauma kit tried ...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): update weight()
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): use(1)
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): attack(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), Sofiya Justus (/mob/living/carbon/human))
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): attackby(the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack), Sofiya Justus (/mob/living/carbon/human), "icon-x=21;icon-y=14;left=1;scr...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): melee attack chain(Sofiya Justus (/mob/living/carbon/human), Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), "icon-x=21;icon-y=14;left=1;scr...")
+ - Sofiya Justus (/mob/living/carbon/human): ClickOn(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), the floor (31,12,3) (/turf/open/floor/mainship), "icon-x=21;icon-y=14;left=1;scr...")
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): Click(the floor (31,12,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=21;icon-y=14;left=1;scr...")
+ - 
+[2020-10-30 20:18:22.172] runtime error: The advanced trauma kit tried to update_weight() with 106 amount and 10 max_amount.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack)
+ -   usr.loc: the floor (30,12,3) (/turf/open/floor/mainship)
+ -   src.loc: Sofiya Justus (/mob/living/carbon/human)
+ -   call stack:
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): stack trace("The advanced trauma kit tried ...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): update weight()
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): use(1)
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): attack(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), Sofiya Justus (/mob/living/carbon/human))
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): attackby(the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack), Sofiya Justus (/mob/living/carbon/human), "icon-x=23;icon-y=17;left=1;scr...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): melee attack chain(Sofiya Justus (/mob/living/carbon/human), Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), "icon-x=23;icon-y=17;left=1;scr...")
+ - Sofiya Justus (/mob/living/carbon/human): ClickOn(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), the floor (31,12,3) (/turf/open/floor/mainship), "icon-x=23;icon-y=17;left=1;scr...")
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): Click(the floor (31,12,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=23;icon-y=17;left=1;scr...")
+ - 
+[2020-10-30 20:18:59.473] runtime error: The advanced trauma kit tried to update_weight() with 105 amount and 10 max_amount.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ -   usr: Sofiya Justus (/mob/living/carbon/human)
+ -   src: the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack)
+ -   usr.loc: the floor (32,9,3) (/turf/open/floor/mainship)
+ -   src.loc: Sofiya Justus (/mob/living/carbon/human)
+ -   call stack:
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): stack trace("The advanced trauma kit tried ...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): update weight()
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): use(1)
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): attack(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), Sofiya Justus (/mob/living/carbon/human))
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): attackby(the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack), Sofiya Justus (/mob/living/carbon/human), "icon-x=17;icon-y=13;left=1;scr...")
+ - the advanced trauma kit (/obj/item/stack/medical/advanced/bruise_pack): melee attack chain(Sofiya Justus (/mob/living/carbon/human), Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), "icon-x=17;icon-y=13;left=1;scr...")
+ - Sofiya Justus (/mob/living/carbon/human): ClickOn(Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth), the floor (32,10,3) (/turf/open/floor/mainship), "icon-x=17;icon-y=13;left=1;scr...")
+ - Asota Modesta (as Unknown) (/mob/living/carbon/human/species/moth): Click(the floor (32,10,3) (/turf/open/floor/mainship), "mapwindow.map", "icon-x=17;icon-y=13;left=1;scr...")
+ - 
+[2020-10-30 20:21:15.174] ### ListVarEdit by Zack24: /obj/item/reagent_containers/glass/bottle/meralyne list_reagents: 60=1000
+[2020-10-30 20:21:34.049] ### VarEdit by Zack24/(Sofiya Justus): /obj/item/reagent_containers/glass/bottle/meralyne volume=60 => 600

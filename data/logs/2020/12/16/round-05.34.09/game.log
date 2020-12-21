@@ -1,0 +1,58 @@
+[2020-12-15 21:34:10.069] Starting up round ID .
+ - -------------------------
+[2020-12-15 21:34:11.274] GAME: Saved mode is 'Extended'
+[2020-12-15 21:34:23.433] GAME: LV robotics dome loaded at at 31,35,2
+[2020-12-15 21:34:23.752] GAME: LV cargo dome loaded at at 46,49,2
+[2020-12-15 21:34:23.892] GAME: LV cargo dome loaded at at 46,20,2
+[2020-12-15 21:34:24.256] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-12-15 21:34:25.058] GAME: Hydro road loaded at at 106,51,2
+[2020-12-15 21:34:26.050] GAME: LV internal affairs dome loaded at at 147,50,2
+[2020-12-15 21:34:37.329] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-15 21:34:37.330] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-15 21:34:39.322] GAME: Alamo loaded at at 8,8,4
+[2020-12-15 21:34:39.448] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-15 21:34:39.475] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-15 21:34:39.502] GAME: Supply loaded at at 27,8,4
+[2020-12-15 21:35:02.066] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-15 21:35:02.066] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (40, 52, 3)
+[2020-12-15 21:36:24.125] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/drone/ancient at Hangar (41, 23, 3)
+[2020-12-15 21:36:31.412] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_supply at Hangar (40, 26, 3)
+[2020-12-15 21:36:34.861] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_guns at Hangar (41, 26, 3)
+[2020-12-15 21:36:38.540] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_ammo at Hangar (42, 26, 3)
+[2020-12-15 21:36:39.721] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Drone (636).
+[2020-12-15 21:36:39.722] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (42, 24, 3)
+[2020-12-15 21:36:39.722] OOC: zack24/(Ancient Drone (636)) Ancient Drone (636) has logged in. Hangar (41, 23, 3)
+[2020-12-15 21:36:48.857] OOC: *no key*/(Ancient Drone (430)) *no key*/(Ancient Drone (430)) has left mob Ancient Drone (430)(/mob/living/carbon/xenomorph/drone/ancient). Hangar (41, 23, 3)
+[2020-12-15 21:36:48.857] OOC: zack24/(Ancient Drone (430)) Ancient Drone (430) has logged in. Hangar (41, 23, 3)
+[2020-12-15 21:36:48.871] ADMIN: zack24/(Ancient Drone (430)) admin ghosted at Hangar (41, 23, 3).
+[2020-12-15 21:36:50.986] OOC: *no key*/(Ancient Drone (430)) *no key*/(Ancient Drone (430)) has left mob Ancient Drone (430)(/mob/dead/observer). Hangar (39, 23, 3)
+[2020-12-15 21:36:50.986] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (39, 23, 3)
+[2020-12-15 21:36:51.007] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-15 21:36:55.361] ADMIN: zack24/(Jupiter Elder) has started the round early.
+[2020-12-15 21:37:14.932] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 14, 2)
+[2020-12-15 21:38:46.328] ADMIN: zack24/(Jupiter Elder) revived @zack24[DC]/(Ancient Drone (430)).
+[2020-12-15 21:38:58.933] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-15 21:39:39.831] ADMIN: zack24/(Jupiter Elder) revived @zack24[DC]/(Ancient Drone (430)).
+[2020-12-15 21:39:46.930] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-15 21:41:42.932] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 21, 2)
+[2020-12-15 21:41:54.930] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 21:42:55.685] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (42, 24, 3)
+[2020-12-15 21:43:06.885] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (40, 25, 3)
+[2020-12-15 21:43:06.886] OOC: zack24/(Ancient Drone (430)) Ancient Drone (430) has logged in. Hangar (40, 25, 3)
+[2020-12-15 21:43:06.902] ADMIN: zack24/(Ancient Drone (430)) admin ghosted at Hangar (40, 25, 3).
+[2020-12-15 21:49:38.965] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 21:53:26.965] SAY: *no key*/(mouse) "Squeak!" Canteen (131, 16, 2)
+[2020-12-15 21:57:16.965] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 21:57:50.264] ADMIN: Admin Approval: 'Event:Intel computer activation' was answered with approve due to lack of online admin.
+[2020-12-15 21:57:50.265] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 22:06:54.268] ADMIN: Admin Approval: 'Event:Intel computer activation' was answered with approve due to lack of online admin.
+[2020-12-15 22:06:54.269] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 22:07:48.970] SAY: *no key*/(mouse) "Squeak!" Canteen (133, 16, 2)
+[2020-12-15 22:09:56.969] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 22:11:04.969] SAY: *no key*/(mouse) "Squeak?" Southeast Jungle (133, 12, 2)
+[2020-12-15 22:12:41.089] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-15 22:12:59.089] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-15 22:14:18.362] ADMIN: Admin Approval: 'Event:Intel computer activation' was answered with approve due to lack of online admin.
+[2020-12-15 22:14:18.362] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-15 22:14:39.761] ACCESS: Logout: Zack24/(Ancient Drone (430))
+[2020-12-15 22:14:42.818] OOC: zack24[DC]/(Ancient Drone (430)) zack24[DC]/(Ancient Drone (430)) has left mob Ancient Drone (430)(/mob/dead/observer). Hangar (41, 25, 3)

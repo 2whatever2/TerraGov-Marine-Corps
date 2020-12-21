@@ -1,0 +1,24 @@
+[2020-11-09 05:41:21.544] Starting up round ID .
+ - -------------------------
+[2020-11-09 05:41:22.624] GAME: Saved mode is 'Extended'
+[2020-11-09 05:41:30.986] GAME: LV internal affairs dome loaded at at 31,35,2
+[2020-11-09 05:41:31.335] GAME: LV atmos dome loaded at at 46,49,2
+[2020-11-09 05:41:31.481] GAME: LV cargo dome loaded at at 46,20,2
+[2020-11-09 05:41:31.906] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-11-09 05:41:32.786] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-11-09 05:41:33.814] GAME: LV robotics dome loaded at at 147,50,2
+[2020-11-09 05:41:46.285] GAME: Alamo loaded at at 8,8,4
+[2020-11-09 05:41:46.406] GAME: Escape Pod loaded at at 19,8,4
+[2020-11-09 05:41:46.434] GAME: Escape Pod loaded at at 23,8,4
+[2020-11-09 05:41:46.460] GAME: Supply loaded at at 27,8,4
+[2020-11-09 05:43:11.744] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-09 05:43:11.745] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-11-09 05:43:34.373] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-11-09 05:43:34.373] OOC: Zack24/(Tabitha Lodhra) Tabitha Lodhra has logged in. Cryo Cells (36, 49, 3)
+[2020-11-09 05:43:39.471] OOC: *no key*/(Tabitha Lodhra) *no key*/(Tabitha Lodhra) has left mob Tabitha Lodhra(/mob/dead/observer). Weapon Control Room (21, 14, 3)
+[2020-11-09 05:43:39.471] OOC: Zack24/(Tabitha Lodhra) Tabitha Lodhra has logged in. Weapon Control Room (21, 14, 3)
+[2020-11-09 05:43:39.508] ADMIN: Zack24/(Tabitha Lodhra) became a spatial agent.
+[2020-11-09 05:43:47.581] ADMIN: Zack24/(Tabitha Lodhra) has started the round early.
+[2020-11-09 05:44:10.878] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (104, 20, 2)
+[2020-11-09 05:45:46.616] ACCESS: Logout: Zack24/(Tabitha Lodhra)
+[2020-11-09 05:45:46.618] OOC: Zack24[DC]/(Tabitha Lodhra) Zack24[DC]/(Tabitha Lodhra) has left mob Tabitha Lodhra(/mob/living/carbon/human). Weapon Control Room (20, 15, 3)

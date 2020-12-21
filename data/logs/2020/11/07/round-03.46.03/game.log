@@ -1,0 +1,45 @@
+[2020-11-06 19:46:03.028] Starting up round ID .
+ - -------------------------
+[2020-11-06 19:46:04.179] GAME: Saved mode is 'Extended'
+[2020-11-06 19:46:13.897] GAME: LV robotics dome loaded at at 31,35,2
+[2020-11-06 19:46:14.170] GAME: LV robotics dome loaded at at 46,49,2
+[2020-11-06 19:46:14.319] GAME: LV atmos dome loaded at at 46,20,2
+[2020-11-06 19:46:14.875] GAME: LV robotics dome loaded at at 67,8,2
+[2020-11-06 19:46:15.703] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-11-06 19:46:16.653] GAME: LV telecomms dome loaded at at 147,50,2
+[2020-11-06 19:46:28.295] GAME: Alamo loaded at at 8,8,4
+[2020-11-06 19:46:28.410] GAME: Escape Pod loaded at at 19,8,4
+[2020-11-06 19:46:28.436] GAME: Escape Pod loaded at at 23,8,4
+[2020-11-06 19:46:28.460] GAME: Supply loaded at at 27,8,4
+[2020-11-06 19:47:05.347] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-06 19:47:05.348] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-11-06 19:48:31.873] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-11-06 19:48:31.873] OOC: Zack24/(Rin Pakeryte) Rin Pakeryte has logged in. Cryo Cells (40, 49, 3)
+[2020-11-06 19:48:47.655] OOC: *no key*/(Rin Pakeryte) *no key*/(Rin Pakeryte) has left mob Rin Pakeryte(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-11-06 19:48:47.656] OOC: Zack24/(Rin Pakeryte) Rin Pakeryte has logged in. Hangar (40, 24, 3)
+[2020-11-06 19:48:47.685] ADMIN: Zack24/(Rin Pakeryte) became a spatial agent.
+[2020-11-06 19:48:55.118] ADMIN: Zack24/(Rin Pakeryte) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 24, 3)
+[2020-11-06 19:49:00.262] ADMIN: Zack24/(Rin Pakeryte) spawned 1 x /mob/living/carbon/xenomorph/ravager at Hangar (43, 24, 3)
+[2020-11-06 19:49:08.230] ADMIN: Zack24/(Rin Pakeryte) spawned 1 x /mob/living/carbon/xenomorph/ravager/ancient at Hangar (42, 23, 3)
+[2020-11-06 19:49:12.616] ADMIN: Zack24/(Rin Pakeryte) deleted Ancient Ravager (932)(/mob/living/carbon/xenomorph/ravager/ancient) at Hangar (42, 23, 3).
+[2020-11-06 19:49:15.658] ADMIN: Zack24/(Rin Pakeryte) deleted Young Ravager (164)(/mob/living/carbon/xenomorph/ravager) at Hangar (43, 24, 3).
+[2020-11-06 19:49:22.243] ADMIN: Zack24/(Rin Pakeryte) spawned 1 x /mob/living/carbon/xenomorph/drone/ancient at Hangar (42, 23, 3)
+[2020-11-06 19:49:29.089] ADMIN: Zack24/(Rin Pakeryte) has started the round early.
+[2020-11-06 19:49:46.710] OOC: *no key*/(Rin Pakeryte) *no key*/(Rin Pakeryte) has left mob Rin Pakeryte(/mob/living/carbon/human). Hangar (41, 22, 3)
+[2020-11-06 19:49:46.710] OOC: Zack24/(Rin Pakeryte) Rin Pakeryte has logged in. Hangar (41, 22, 3)
+[2020-11-06 19:49:46.716] ADMIN: *no key*/(Rin Pakeryte) gave *no key*/(Ancient Empress (151)) to *no key*/(Rin Pakeryte).
+[2020-11-06 19:49:47.857] ADMIN: Zack24/(Rin Pakeryte) stuffed Zack24 into Ancient Empress (151).
+[2020-11-06 19:49:47.858] OOC: *no key*/(Rin Pakeryte) *no key*/(Rin Pakeryte) has left mob Rin Pakeryte(/mob/dead/observer). Hangar (41, 22, 3)
+[2020-11-06 19:49:47.858] OOC: zack24/(Ancient Empress (151)) Ancient Empress (151) has logged in. Hangar (40, 24, 3)
+[2020-11-06 19:50:02.654] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-11-06 19:50:06.030] OOC: *no key*/(Ancient Empress (195)) *no key*/(Ancient Empress (195)) has left mob Ancient Empress (195)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (40, 24, 3)
+[2020-11-06 19:50:06.030] OOC: zack24/(Ancient Empress (195)) Ancient Empress (195) has logged in. Hangar (40, 24, 3)
+[2020-11-06 19:50:06.037] ADMIN: *no key*/(Ancient Empress (195)) gave *no key*/(Ancient Drone (812)) to *no key*/(Ancient Empress (195)).
+[2020-11-06 19:50:07.426] ADMIN: zack24/(Ancient Empress (195)) stuffed zack24 into Ancient Drone (812).
+[2020-11-06 19:50:07.427] OOC: *no key*/(Ancient Empress (195)) *no key*/(Ancient Empress (195)) has left mob Ancient Empress (195)(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-11-06 19:50:07.427] OOC: zack24/(Ancient Drone (812)) Ancient Drone (812) has logged in. Hangar (42, 23, 3)
+[2020-11-06 19:50:12.651] SAY: *no key*/(mouse) "Squeak?" Kitchen (126, 14, 2)
+[2020-11-06 19:52:24.652] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (104, 21, 2)
+[2020-11-06 19:53:18.653] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (124, 14, 2)
+[2020-11-06 19:54:20.364] ACCESS: Logout: Zack24/(Ancient Drone (813))
+[2020-11-06 19:54:20.366] OOC: zack24[DC]/(Ancient Drone (813)) zack24[DC]/(Ancient Drone (813)) has left mob Ancient Drone (813)(/mob/living/carbon/xenomorph/drone/ancient). Hangar (43, 23, 3)

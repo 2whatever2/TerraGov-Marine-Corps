@@ -1,0 +1,109 @@
+[2020-10-29 09:10:37.213] Starting up round ID .
+ - -------------------------
+[2020-10-29 09:13:41.643] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=doneLoading
+[2020-10-29 09:13:41.915] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.20","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.158","compid":"2571130799"}]}
+[2020-10-29 09:14:41.641] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[0x3000026];lobby_choice=ready
+[2020-10-29 09:14:42.334] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[mob_38];lobby_choice=observe
+[2020-10-29 09:15:23.347] HREF: Zack24 (usr:Aditya Floros[(39,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x200f3c6];varnameedit=burst_delay
+[2020-10-29 09:15:26.294] HREF: Zack24 (usr:Aditya Floros[(39,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x200f3c6];varnameedit=burst_size
+[2020-10-29 09:15:30.597] HREF: Zack24 (usr:Aditya Floros[(39,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;vars=[0x21000402]
+[2020-10-29 09:15:35.487] HREF: Zack24 (usr:Aditya Floros[(39,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x21000402];varnameedit=bonus_projectiles_amount
+[2020-10-29 09:15:47.704] HREF: Zack24 (usr:Aditya Floros[(39,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x200f3c6];varnameedit=fire_delay
+[2020-10-29 09:16:05.893] HREF: Zack24 (usr:Alpha Queen (431)[(40,20,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[mob_40];varnameedit=maxHealth
+[2020-10-29 09:16:12.868] HREF: Zack24 (usr:Alpha Queen (431)[(40,20,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumrefresh=[mob_40]
+[2020-10-29 09:16:21.079] HREF: Zack24 (usr:Alpha Queen (431)[(40,20,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;mobToDamage=[mob_40];adjustDamage=brute
+[2020-10-29 09:16:27.360] HREF: Zack24 (usr:Alpha Queen (431)[(40,20,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;mobToDamage=[mob_40];adjustDamage=brute
+[2020-10-29 09:16:31.196] HREF: Zack24 (usr:Alpha Queen (431)[(40,20,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;mobToDamage=[mob_40];adjustDamage=brute
+[2020-10-29 09:16:51.147] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21006a0d%5D&action=tgui%3Ainitialize
+[2020-10-29 09:16:51.405] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : 
+[2020-10-29 09:16:51.435] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : 
+[2020-10-29 09:16:51.606] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21000f96%5D&action=tgui%3Ainitialize
+[2020-10-29 09:16:51.864] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : 
+[2020-10-29 09:16:51.866] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : 
+[2020-10-29 09:16:52.328] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21006a0d%5D&action=power
+[2020-10-29 09:16:53.685] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21006a0d%5D&action=burst
+[2020-10-29 09:16:54.774] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21006a0d%5D&action=toggle_alert
+[2020-10-29 09:17:23.870] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=tgui%3Ainitialize
+[2020-10-29 09:17:24.073] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : 
+[2020-10-29 09:17:24.075] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : 
+[2020-10-29 09:17:25.171] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:28.422] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:30.945] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:33.638] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=power
+[2020-10-29 09:17:35.201] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=power
+[2020-10-29 09:17:35.600] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:49.310] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x200f3c6];varnameedit=max_burst
+[2020-10-29 09:17:51.095] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:52.563] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x200f3c6];varnameedit=burst_delay
+[2020-10-29 09:17:54.440] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:54.656] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:17:56.625] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:17:57.298] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x200f3c6];varnameedit=burst_delay
+[2020-10-29 09:17:59.616] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=power
+[2020-10-29 09:18:00.925] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=power
+[2020-10-29 09:18:24.040] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : /datum/tgui src=%5B0x21002475%5D&action=tgui%3Ainitialize
+[2020-10-29 09:18:24.312] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : 
+[2020-10-29 09:18:24.313] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : 
+[2020-10-29 09:18:25.067] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : /datum/tgui src=%5B0x21002475%5D&action=power
+[2020-10-29 09:18:25.994] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burst
+[2020-10-29 09:18:26.968] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:27.209] HREF: Zack24 (usr:Aditya Floros[(41,29,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:32.740] HREF: Zack24 (usr:Aditya Floros[(40,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=toggle_alert
+[2020-10-29 09:18:49.491] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : _src_=vars;admin_token=65786267917739020310527108856110012;datumedit=[0x20101f7];varnameedit=max_burst
+[2020-10-29 09:18:52.406] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:52.541] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:52.735] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:52.945] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:53.125] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:53.329] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:53.509] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:53.663] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:53.828] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:53.992] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:54.205] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:54.338] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:54.514] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:54.686] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:54.876] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:55.037] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:55.242] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:55.343] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:57.062] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:57.328] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:57.506] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:57.773] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:58.084] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:58.327] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:58.581] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:58.789] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:59.026] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:59.325] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:59.555] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:18:59.864] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:00.080] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:00.324] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:00.596] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:00.954] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:01.165] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:01.368] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:01.523] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:01.734] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:01.925] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:02.151] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:02.286] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:02.452] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:02.657] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:02.748] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:02.926] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:03.064] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:03.295] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:03.415] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:03.579] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:03.810] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:03.941] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:04.012] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:04.188] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:04.391] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:04.512] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:04.698] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup
+[2020-10-29 09:19:04.942] HREF: Zack24 (usr:Aditya Floros[(41,28,3)]) : /datum/tgui src=%5B0x21002475%5D&action=burstup

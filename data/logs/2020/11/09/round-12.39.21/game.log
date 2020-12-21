@@ -1,0 +1,365 @@
+[2020-11-09 04:39:21.370] Starting up round ID .
+ - -------------------------
+[2020-11-09 04:39:22.477] GAME: Saved mode is 'Extended'
+[2020-11-09 04:39:32.509] GAME: LV robotics dome loaded at at 31,35,2
+[2020-11-09 04:39:32.821] GAME: LV telecomms dome loaded at at 46,49,2
+[2020-11-09 04:39:32.981] GAME: LV cargo dome loaded at at 46,20,2
+[2020-11-09 04:39:33.612] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-11-09 04:39:34.548] GAME: Hydro road loaded at at 106,51,2
+[2020-11-09 04:39:35.586] GAME: LV robotics dome loaded at at 147,50,2
+[2020-11-09 04:39:48.671] GAME: Alamo loaded at at 8,8,4
+[2020-11-09 04:39:48.798] GAME: Escape Pod loaded at at 19,8,4
+[2020-11-09 04:39:48.824] GAME: Escape Pod loaded at at 23,8,4
+[2020-11-09 04:39:48.851] GAME: Supply loaded at at 27,8,4
+[2020-11-09 04:40:07.592] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-09 04:40:07.593] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-11-09 04:40:42.272] ACCESS: Logout: Zack24/(Zack24)
+[2020-11-09 04:40:42.273] OOC: Zack24[DC]/(Zack24) Zack24[DC]/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-11-09 04:40:42.333] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-09 04:40:42.333] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-11-09 04:42:43.162] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-11-09 04:42:43.162] OOC: Zack24/(Naldo Joyner) Naldo Joyner has logged in. Cryo Cells (39, 51, 3)
+[2020-11-09 04:42:47.535] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (39, 27, 3)
+[2020-11-09 04:42:47.536] OOC: Zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (39, 27, 3)
+[2020-11-09 04:42:47.617] ADMIN: Zack24/(Naldo Joyner) became a spatial agent.
+[2020-11-09 04:43:26.134] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (107, 18, 2)
+[2020-11-09 04:45:43.317] ADMIN: Zack24/(Naldo Joyner) spawned 1 x /obj/item/storage/box/nade_box/plasma_drain_gas at Hangar (41, 24, 3)
+[2020-11-09 04:47:08.431] ADMIN: Zack24/(Naldo Joyner) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 24, 3)
+[2020-11-09 04:47:08.839] SAY: *no key*/(mouse) "Squeak!" Canteen (129, 15, 2)
+[2020-11-09 04:47:17.900] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (43, 24, 3)
+[2020-11-09 04:47:17.901] OOC: Zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (43, 24, 3)
+[2020-11-09 04:47:17.906] ADMIN: Zack24/(Naldo Joyner) admin ghosted at Hangar (43, 24, 3).
+[2020-11-09 04:47:19.089] ADMIN: Zack24/(Naldo Joyner) stuffed Zack24 into Ancient Empress (218).
+[2020-11-09 04:47:19.089] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (43, 24, 3)
+[2020-11-09 04:47:19.089] OOC: zack24/(Ancient Empress (218)) Ancient Empress (218) has logged in. Hangar (41, 24, 3)
+[2020-11-09 04:47:29.970] ADMIN: zack24/(Ancient Empress (217)) spawned 1 x /mob/living/carbon/xenomorph/defender/ancient at Hangar (41, 24, 3)
+[2020-11-09 04:47:36.388] OOC: *no key*/(Ancient Empress (217)) *no key*/(Ancient Empress (217)) has left mob Ancient Empress (217)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (40, 24, 3)
+[2020-11-09 04:47:36.389] OOC: zack24/(Ancient Empress (217)) Ancient Empress (217) has logged in. Hangar (40, 24, 3)
+[2020-11-09 04:47:36.394] ADMIN: zack24/(Ancient Empress (217)) admin ghosted at Hangar (40, 24, 3).
+[2020-11-09 04:47:37.668] ADMIN: zack24/(Ancient Empress (217)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 04:47:37.668] OOC: *no key*/(Ancient Empress (217)) *no key*/(Ancient Empress (217)) has left mob Ancient Empress (217)(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-11-09 04:47:37.669] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (43, 24, 3)
+[2020-11-09 04:47:40.866] SAY: *no key*/(mouse) "SQUEAK!" Canteen (129, 15, 2)
+[2020-11-09 04:47:41.104] EXPLOSION: zack24/(Naldo Joyner) primed the �M40-T smoke grenade at Hangar (43, 24, 3).
+[2020-11-09 04:47:41.545] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (43, 24, 3)
+[2020-11-09 04:47:41.545] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (43, 24, 3)
+[2020-11-09 04:47:41.550] ADMIN: zack24/(Naldo Joyner) admin ghosted at Hangar (43, 24, 3).
+[2020-11-09 04:47:43.284] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Ancient Defender (671).
+[2020-11-09 04:47:43.284] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (43, 24, 3)
+[2020-11-09 04:47:43.284] OOC: zack24/(Ancient Defender (671)) Ancient Defender (671) has logged in. Hangar (41, 24, 3)
+[2020-11-09 04:47:59.189] OOC: *no key*/(Ancient Defender (711)) *no key*/(Ancient Defender (711)) has left mob Ancient Defender (711)(/mob/living/carbon/xenomorph/defender/ancient). Hangar (39, 28, 3)
+[2020-11-09 04:47:59.189] OOC: zack24/(Ancient Defender (711)) Ancient Defender (711) has logged in. Hangar (39, 28, 3)
+[2020-11-09 04:47:59.196] ADMIN: zack24/(Ancient Defender (711)) admin ghosted at Hangar (39, 28, 3).
+[2020-11-09 04:48:01.026] ADMIN: zack24/(Ancient Defender (711)) stuffed zack24 into Ancient Empress (217).
+[2020-11-09 04:48:01.027] OOC: *no key*/(Ancient Defender (711)) *no key*/(Ancient Defender (711)) has left mob Ancient Defender (711)(/mob/dead/observer). Hangar (39, 28, 3)
+[2020-11-09 04:48:01.027] OOC: zack24/(Ancient Empress (217)) Ancient Empress (217) has logged in. Hangar (40, 24, 3)
+[2020-11-09 04:49:24.068] OOC: *no key*/(Ancient Empress (451)) *no key*/(Ancient Empress (451)) has left mob Ancient Empress (451)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (41, 26, 3)
+[2020-11-09 04:49:24.069] OOC: zack24/(Ancient Empress (451)) Ancient Empress (451) has logged in. Hangar (41, 26, 3)
+[2020-11-09 04:49:24.074] ADMIN: zack24/(Ancient Empress (451)) admin ghosted at Hangar (41, 26, 3).
+[2020-11-09 04:49:25.384] ADMIN: zack24/(Ancient Empress (451)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 04:49:25.384] OOC: *no key*/(Ancient Empress (451)) *no key*/(Ancient Empress (451)) has left mob Ancient Empress (451)(/mob/dead/observer). Hangar (41, 26, 3)
+[2020-11-09 04:49:25.384] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (43, 24, 3)
+[2020-11-09 04:49:39.253] SAY: *no key*/(mouse) "Squeak?" Canteen (132, 20, 2)
+[2020-11-09 04:50:43.253] EXPLOSION: zack24/(Naldo Joyner) primed the �M40-T smoke grenade at Hangar (43, 26, 3).
+[2020-11-09 04:50:43.309] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (43, 26, 3)
+[2020-11-09 04:50:43.309] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (43, 26, 3)
+[2020-11-09 04:50:43.315] ADMIN: zack24/(Naldo Joyner) admin ghosted at Hangar (43, 26, 3).
+[2020-11-09 04:50:44.333] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Ancient Empress (451).
+[2020-11-09 04:50:44.333] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (42, 26, 3)
+[2020-11-09 04:50:44.334] OOC: zack24/(Ancient Empress (451)) Ancient Empress (451) has logged in. Hangar (41, 26, 3)
+[2020-11-09 04:51:29.877] OOC: *no key*/(Ancient Empress (443)) *no key*/(Ancient Empress (443)) has left mob Ancient Empress (443)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (41, 19, 3)
+[2020-11-09 04:51:29.877] OOC: zack24/(Ancient Empress (443)) Ancient Empress (443) has logged in. Hangar (41, 19, 3)
+[2020-11-09 04:51:29.883] ADMIN: zack24/(Ancient Empress (443)) admin ghosted at Hangar (41, 19, 3).
+[2020-11-09 04:51:32.582] ADMIN: zack24/(Ancient Empress (443)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 04:51:32.583] OOC: *no key*/(Ancient Empress (443)) *no key*/(Ancient Empress (443)) has left mob Ancient Empress (443)(/mob/dead/observer). Hangar (41, 26, 3)
+[2020-11-09 04:51:32.583] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (43, 26, 3)
+[2020-11-09 04:51:38.690] EXPLOSION: zack24/(Naldo Joyner) primed the �M40-T smoke grenade at Hangar (41, 26, 3).
+[2020-11-09 04:51:38.824] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (41, 26, 3)
+[2020-11-09 04:51:38.824] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (41, 26, 3)
+[2020-11-09 04:51:38.830] ADMIN: zack24/(Naldo Joyner) admin ghosted at Hangar (41, 26, 3).
+[2020-11-09 04:51:40.359] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Ancient Empress (443).
+[2020-11-09 04:51:40.360] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (41, 20, 3)
+[2020-11-09 04:51:40.361] OOC: zack24/(Ancient Empress (443)) Ancient Empress (443) has logged in. Hangar (41, 19, 3)
+[2020-11-09 04:52:12.947] OOC: *no key*/(Ancient Empress (976)) *no key*/(Ancient Empress (976)) has left mob Ancient Empress (976)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (41, 32, 3)
+[2020-11-09 04:52:12.948] OOC: zack24/(Ancient Empress (976)) Ancient Empress (976) has logged in. Hangar (41, 32, 3)
+[2020-11-09 04:52:12.955] ADMIN: zack24/(Ancient Empress (976)) admin ghosted at Hangar (41, 32, 3).
+[2020-11-09 04:52:15.763] ADMIN: zack24/(Ancient Empress (976)) stuffed zack24 into Ancient Empress (976).
+[2020-11-09 04:52:15.764] OOC: *no key*/(Ancient Empress (976)) *no key*/(Ancient Empress (976)) has left mob Ancient Empress (976)(/mob/dead/observer). Hangar (41, 30, 3)
+[2020-11-09 04:52:15.764] OOC: zack24/(Ancient Empress (976)) Ancient Empress (976) has logged in. Hangar (41, 32, 3)
+[2020-11-09 04:52:26.317] OOC: *no key*/(Ancient Empress (733)) *no key*/(Ancient Empress (733)) has left mob Ancient Empress (733)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (42, 25, 3)
+[2020-11-09 04:52:26.317] OOC: zack24/(Ancient Empress (733)) Ancient Empress (733) has logged in. Hangar (42, 25, 3)
+[2020-11-09 04:52:26.324] ADMIN: zack24/(Ancient Empress (733)) admin ghosted at Hangar (42, 25, 3).
+[2020-11-09 04:52:27.403] ADMIN: zack24/(Ancient Empress (733)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 04:52:27.403] OOC: *no key*/(Ancient Empress (733)) *no key*/(Ancient Empress (733)) has left mob Ancient Empress (733)(/mob/dead/observer). Hangar (42, 25, 3)
+[2020-11-09 04:52:27.404] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (41, 26, 3)
+[2020-11-09 04:52:34.253] EXPLOSION: zack24/(Naldo Joyner) primed the �M40-T smoke grenade at Hangar (41, 25, 3).
+[2020-11-09 04:52:34.622] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (41, 25, 3)
+[2020-11-09 04:52:34.622] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (41, 25, 3)
+[2020-11-09 04:52:34.628] ADMIN: zack24/(Naldo Joyner) admin ghosted at Hangar (41, 25, 3).
+[2020-11-09 04:52:35.749] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Ancient Empress (733).
+[2020-11-09 04:52:35.750] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (41, 25, 3)
+[2020-11-09 04:52:35.750] OOC: zack24/(Ancient Empress (733)) Ancient Empress (733) has logged in. Hangar (42, 25, 3)
+[2020-11-09 04:53:09.378] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-09 04:54:05.676] OOC: *no key*/(Ancient Empress (101)) *no key*/(Ancient Empress (101)) has left mob Ancient Empress (101)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (41, 27, 3)
+[2020-11-09 04:54:05.676] OOC: zack24/(Ancient Empress (101)) Ancient Empress (101) has logged in. Hangar (41, 27, 3)
+[2020-11-09 04:54:05.682] ADMIN: zack24/(Ancient Empress (101)) admin ghosted at Hangar (41, 27, 3).
+[2020-11-09 04:54:07.340] ADMIN: zack24/(Ancient Empress (101)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 04:54:07.341] OOC: *no key*/(Ancient Empress (101)) *no key*/(Ancient Empress (101)) has left mob Ancient Empress (101)(/mob/dead/observer). Hangar (41, 24, 3)
+[2020-11-09 04:54:07.341] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (42, 25, 3)
+[2020-11-09 04:54:11.044] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/ammo_magazine/shotgun/mbx900 at Hangar (42, 25, 3)
+[2020-11-09 04:54:13.813] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/weapon/gun/shotgun/pump/lever/mbx900 at Hangar (42, 26, 3)
+[2020-11-09 04:55:54.391] ADMIN: zack24/(Naldo Joyner) revived @zack24[DC]/(Ancient Empress (101)).
+[2020-11-09 04:56:09.108] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/storage/box/nade_box/phos at Hangar (41, 21, 3)
+[2020-11-09 04:56:14.236] EXPLOSION: zack24/(Naldo Joyner) primed the �M40 HPDP grenade at Hangar (40, 20, 3).
+[2020-11-09 04:56:14.853] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (40, 20, 3)
+[2020-11-09 04:56:14.853] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (40, 20, 3)
+[2020-11-09 04:56:14.859] ADMIN: zack24/(Naldo Joyner) admin ghosted at Hangar (40, 20, 3).
+[2020-11-09 04:56:16.066] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Ancient Empress (101).
+[2020-11-09 04:56:16.067] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (40, 23, 3)
+[2020-11-09 04:56:16.068] OOC: zack24/(Ancient Empress (101)) Ancient Empress (101) has logged in. Hangar (41, 27, 3)
+[2020-11-09 04:56:17.412] GAME: Explosion with size (0, 0, 1, 0) in (Hangar (43, 25, 3))
+[2020-11-09 04:56:17.418] GAME: Explosion with size (0, 0, 1, 0) in (Hangar (42, 25, 3))
+[2020-11-09 04:56:17.420] GAME: Explosion with size (0, 0, 1, 0) in (Hangar (42, 25, 3))
+[2020-11-09 04:56:41.496] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-11-09 04:56:49.495] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-09 04:57:28.881] OOC: *no key*/(Ancient Empress (392)) *no key*/(Ancient Empress (392)) has left mob Ancient Empress (392)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (41, 25, 3)
+[2020-11-09 04:57:28.881] OOC: zack24/(Ancient Empress (392)) Ancient Empress (392) has logged in. Hangar (41, 25, 3)
+[2020-11-09 04:57:28.889] ADMIN: zack24/(Ancient Empress (392)) admin ghosted at Hangar (41, 25, 3).
+[2020-11-09 04:57:34.121] ADMIN: zack24/(Ancient Empress (392)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 04:57:34.121] OOC: *no key*/(Ancient Empress (392)) *no key*/(Ancient Empress (392)) has left mob Ancient Empress (392)(/mob/dead/observer). Hangar (41, 20, 3)
+[2020-11-09 04:57:34.121] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (40, 20, 3)
+[2020-11-09 04:57:39.971] EXPLOSION: zack24/(Naldo Joyner) primed the �M40 HPDP grenade at Hangar (41, 19, 3).
+[2020-11-09 04:57:40.712] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (41, 19, 3)
+[2020-11-09 04:57:40.712] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (41, 19, 3)
+[2020-11-09 04:57:40.720] ADMIN: zack24/(Naldo Joyner) admin ghosted at Hangar (41, 19, 3).
+[2020-11-09 04:57:42.131] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Ancient Empress (392).
+[2020-11-09 04:57:42.131] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Hangar (41, 21, 3)
+[2020-11-09 04:57:42.132] OOC: zack24/(Ancient Empress (392)) Ancient Empress (392) has logged in. Hangar (41, 25, 3)
+[2020-11-09 04:59:53.736] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:04:25.736] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:04:43.736] SAY: *no key*/(mouse) "SQUEAK!" Canteen (130, 18, 2)
+[2020-11-09 05:05:05.736] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:05:07.736] SAY: *no key*/(mouse) "SQUEAK!" Canteen (130, 18, 2)
+[2020-11-09 05:05:38.866] OOC: *no key*/(Ancient Empress (681)) *no key*/(Ancient Empress (681)) has left mob Ancient Empress (681)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (39, 27, 3)
+[2020-11-09 05:05:38.866] OOC: zack24/(Ancient Empress (681)) Ancient Empress (681) has logged in. Hangar (39, 27, 3)
+[2020-11-09 05:05:38.873] ADMIN: zack24/(Ancient Empress (681)) admin ghosted at Hangar (39, 27, 3).
+[2020-11-09 05:05:43.282] ADMIN: zack24/(Ancient Empress (681)) opened the mode panel.
+[2020-11-09 05:05:45.386] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-11-09 05:05:48.912] ADMIN: zack24/(Ancient Empress (681)) has entered build mode.
+[2020-11-09 05:05:55.175] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the weeds at Hangar (42, 23, 3)
+[2020-11-09 05:05:55.939] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (42, 23, 3)
+[2020-11-09 05:05:56.306] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 23, 3)
+[2020-11-09 05:05:56.401] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 23, 3)
+[2020-11-09 05:05:57.522] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the weeds at Hangar (43, 23, 3)
+[2020-11-09 05:05:57.864] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (43, 23, 3)
+[2020-11-09 05:05:58.068] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 23, 3)
+[2020-11-09 05:05:58.146] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 23, 3)
+[2020-11-09 05:05:58.623] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the purple sac at Hangar (44, 23, 3)
+[2020-11-09 05:05:58.879] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (44, 23, 3)
+[2020-11-09 05:05:59.011] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 23, 3)
+[2020-11-09 05:05:59.090] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 23, 3)
+[2020-11-09 05:06:08.454] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the weeds at Hangar (42, 20, 3)
+[2020-11-09 05:06:08.805] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (42, 20, 3)
+[2020-11-09 05:06:08.874] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 20, 3)
+[2020-11-09 05:06:08.956] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 20, 3)
+[2020-11-09 05:06:09.093] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 20, 3)
+[2020-11-09 05:06:09.841] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 20, 3)
+[2020-11-09 05:06:10.242] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the weeds at Hangar (43, 20, 3)
+[2020-11-09 05:06:10.469] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:10.535] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:10.627] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:10.825] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:10.898] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:10.974] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:11.333] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the purple sac at Hangar (44, 20, 3)
+[2020-11-09 05:06:11.538] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:11.632] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:11.675] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:11.828] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:11.920] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:11.978] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:23.033] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the reinforced wall at Hangar (42, 20, 3)
+[2020-11-09 05:06:23.115] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (42, 20, 3)
+[2020-11-09 05:06:23.195] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (42, 20, 3)
+[2020-11-09 05:06:23.345] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (42, 20, 3)
+[2020-11-09 05:06:23.441] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (42, 20, 3)
+[2020-11-09 05:06:23.502] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (42, 20, 3)
+[2020-11-09 05:06:23.811] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the reinforced wall at Hangar (43, 20, 3)
+[2020-11-09 05:06:23.922] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (43, 20, 3)
+[2020-11-09 05:06:23.971] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (43, 20, 3)
+[2020-11-09 05:06:24.127] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (43, 20, 3)
+[2020-11-09 05:06:24.593] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the reinforced wall at Hangar (44, 20, 3)
+[2020-11-09 05:06:24.851] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (44, 20, 3)
+[2020-11-09 05:06:24.886] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) deleted the plating at Hangar (44, 20, 3)
+[2020-11-09 05:06:25.325] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (42, 21, 3)
+[2020-11-09 05:06:25.404] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 21, 3)
+[2020-11-09 05:06:25.451] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 21, 3)
+[2020-11-09 05:06:25.619] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (42, 21, 3)
+[2020-11-09 05:06:25.921] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (43, 21, 3)
+[2020-11-09 05:06:26.045] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 21, 3)
+[2020-11-09 05:06:26.094] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 21, 3)
+[2020-11-09 05:06:26.255] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (43, 21, 3)
+[2020-11-09 05:06:26.547] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the wall at Hangar (44, 21, 3)
+[2020-11-09 05:06:26.637] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 21, 3)
+[2020-11-09 05:06:26.662] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 21, 3)
+[2020-11-09 05:06:26.804] ADMIN: Build Mode: Zack24/(Ancient Empress (681)) built the reinforced wall at Hangar (44, 21, 3)
+[2020-11-09 05:06:30.824] OOC: *no key*/(Ancient Empress (681)) *no key*/(Ancient Empress (681)) has left mob Ancient Empress (681)(/mob/dead/observer). Hangar (40, 24, 3)
+[2020-11-09 05:06:30.828] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Hangar (40, 24, 3)
+[2020-11-09 05:06:30.875] ADMIN: zack24/(Naldo Joyner) became a spatial agent.
+[2020-11-09 05:06:38.126] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/machinery/marine_turret at Hangar (40, 25, 3)
+[2020-11-09 05:06:58.727] SAY: zack24/(Naldo Joyner) "test" Hangar (39, 24, 3)
+[2020-11-09 05:07:01.149] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/tool/wrench at Hangar (39, 24, 3)
+[2020-11-09 05:07:07.754] ADMIN: zack24/(Naldo Joyner) has left build mode.
+[2020-11-09 05:07:22.013] ADMIN: zack24/(Naldo Joyner) spawned 1 x /mob/living/carbon/xenomorph/defender/ancient at Hangar (43, 22, 3)
+[2020-11-09 05:07:24.437] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Hangar (45, 21, 3)
+[2020-11-09 05:07:24.438] OOC: zack24/(Ancient Empress (681)) Ancient Empress (681) has logged in. Hangar (45, 21, 3)
+[2020-11-09 05:07:24.446] ADMIN: zack24/(Ancient Empress (681)) admin ghosted at Hangar (45, 21, 3).
+[2020-11-09 05:07:25.670] ADMIN: zack24/(Ancient Empress (681)) stuffed zack24 into Ancient Defender (433).
+[2020-11-09 05:07:25.671] OOC: *no key*/(Ancient Empress (681)) *no key*/(Ancient Empress (681)) has left mob Ancient Empress (681)(/mob/dead/observer). Hangar (45, 21, 3)
+[2020-11-09 05:07:25.671] OOC: zack24/(Ancient Defender (433)) Ancient Defender (433) has logged in. Hangar (43, 22, 3)
+[2020-11-09 05:08:13.068] ADMIN: zack24/(Ancient Defender (35)) revived zack24/(Ancient Defender (35)).
+[2020-11-09 05:09:47.337] ADMIN: zack24/(Ancient Defender (35)) revived zack24/(Ancient Defender (35)).
+[2020-11-09 05:09:54.780] SAY: zack24/(Ancient Defender (35)) "yeah no" Hangar (40, 24, 3)
+[2020-11-09 05:13:48.209] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:15:34.210] SAY: *no key*/(mouse) "SQUEAK!" Canteen (135, 25, 2)
+[2020-11-09 05:18:11.859] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-11-09 05:18:14.208] SAY: *no key*/(mouse) "SQUEAK!" Canteen (134, 22, 2)
+[2020-11-09 05:21:26.975] ADMIN: zack24/(Ancient Defender (35)) revived zack24/(Ancient Defender (35)).
+[2020-11-09 05:22:08.443] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:22:24.444] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:22:32.849] ADMIN: Zack24/(Ancient Defender (35)) modified The �UA 571-C sentry gun's ammo from autocannon bullet to revolver bullet
+[2020-11-09 05:22:50.470] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:22:56.074] ADMIN: Zack24/(Ancient Defender (35)) modified The �UA 571-C sentry gun's ammo from revolver bullet to revolver bullet
+[2020-11-09 05:23:07.277] ADMIN: Zack24/(Ancient Defender (35)) modified The �UA 571-C sentry gun's ammo from revolver bullet to revolver bullet
+[2020-11-09 05:23:17.428] ADMIN: Zack24/(Ancient Defender (35)) modified The �UA 571-C sentry gun's ammo from revolver bullet to HEAT shell
+[2020-11-09 05:23:17.925] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 18, 3))
+[2020-11-09 05:23:18.030] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 18, 3))
+[2020-11-09 05:23:18.131] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 18, 3))
+[2020-11-09 05:23:18.235] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 18, 3))
+[2020-11-09 05:23:18.332] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (42, 17, 3))
+[2020-11-09 05:23:18.432] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 18, 3))
+[2020-11-09 05:23:21.923] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (38, 18, 3))
+[2020-11-09 05:23:21.974] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (38, 21, 3))
+[2020-11-09 05:23:22.041] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (36, 17, 3))
+[2020-11-09 05:23:22.128] OOC: *no key*/(Ancient Defender (35)) *no key*/(Ancient Defender (35)) has left mob Ancient Defender (35)(/mob/living/carbon/xenomorph/defender/ancient). Hangar (41, 21, 3)
+[2020-11-09 05:23:22.128] OOC: zack24/(Ancient Defender (35)) Ancient Defender (35) has logged in. Hangar (41, 21, 3)
+[2020-11-09 05:23:22.142] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (36, 17, 3))
+[2020-11-09 05:23:22.226] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (36, 17, 3))
+[2020-11-09 05:23:22.327] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (37, 18, 3))
+[2020-11-09 05:23:22.426] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (37, 18, 3))
+[2020-11-09 05:23:26.723] ADMIN: zack24/(Ancient Defender (35)) revived *no key*/(Ancient Defender (35)).
+[2020-11-09 05:23:27.634] ADMIN: zack24/(Ancient Defender (35)) stuffed zack24 into Ancient Defender (35).
+[2020-11-09 05:23:27.634] OOC: *no key*/(Ancient Defender (35)) *no key*/(Ancient Defender (35)) has left mob Ancient Defender (35)(/mob/dead/observer). Hangar (39, 21, 3)
+[2020-11-09 05:23:27.635] OOC: zack24/(Ancient Defender (35)) Ancient Defender (35) has logged in. Hangar (41, 21, 3)
+[2020-11-09 05:23:27.725] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 21, 3))
+[2020-11-09 05:23:27.825] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 21, 3))
+[2020-11-09 05:23:27.945] OOC: *no key*/(Ancient Defender (677)) *no key*/(Ancient Defender (677)) has left mob Ancient Defender (677)(/mob/living/carbon/xenomorph/defender/ancient). Hangar (41, 21, 3)
+[2020-11-09 05:23:27.946] OOC: zack24/(Ancient Defender (677)) Ancient Defender (677) has logged in. Hangar (41, 21, 3)
+[2020-11-09 05:23:27.966] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 21, 3))
+[2020-11-09 05:23:28.084] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 21, 3))
+[2020-11-09 05:23:31.231] ADMIN: zack24/(Ancient Defender (677)) stuffed zack24 into Ancient Empress (681).
+[2020-11-09 05:23:31.232] OOC: *no key*/(Ancient Defender (677)) *no key*/(Ancient Defender (677)) has left mob Ancient Defender (677)(/mob/dead/observer). Hangar (41, 28, 3)
+[2020-11-09 05:23:31.232] OOC: zack24/(Ancient Empress (681)) Ancient Empress (681) has logged in. Hangar (39, 27, 3)
+[2020-11-09 05:23:33.777] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (45, 25, 3))
+[2020-11-09 05:23:33.881] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (44, 26, 3))
+[2020-11-09 05:23:39.778] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (39, 20, 3))
+[2020-11-09 05:23:39.885] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (40, 20, 3))
+[2020-11-09 05:23:39.980] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (41, 20, 3))
+[2020-11-09 05:23:40.180] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (40, 19, 3))
+[2020-11-09 05:23:40.283] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (40, 19, 3))
+[2020-11-09 05:23:40.380] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (40, 19, 3))
+[2020-11-09 05:23:41.778] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (36, 21, 3))
+[2020-11-09 05:23:41.882] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (37, 21, 3))
+[2020-11-09 05:23:41.982] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (37, 21, 3))
+[2020-11-09 05:23:42.082] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (37, 21, 3))
+[2020-11-09 05:23:42.183] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (37, 21, 3))
+[2020-11-09 05:23:42.281] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (36, 21, 3))
+[2020-11-09 05:23:43.878] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (34, 20, 3))
+[2020-11-09 05:23:43.984] OOC: *no key*/(Ancient Empress (536)) *no key*/(Ancient Empress (536)) has left mob Ancient Empress (536)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (37, 20, 3)
+[2020-11-09 05:23:43.984] OOC: zack24/(Ancient Empress (536)) Ancient Empress (536) has logged in. Hangar (37, 20, 3)
+[2020-11-09 05:23:44.079] GAME: Explosion with size (0, 2, 3, 0) in (Dropship Alamo (33, 20, 3))
+[2020-11-09 05:23:44.182] GAME: Explosion with size (0, 2, 3, 0) in (Dropship Alamo (33, 20, 3))
+[2020-11-09 05:23:44.282] GAME: Explosion with size (0, 2, 3, 0) in (Dropship Alamo (33, 20, 3))
+[2020-11-09 05:23:44.383] GAME: Explosion with size (0, 2, 3, 0) in (Dropship Alamo (33, 20, 3))
+[2020-11-09 05:23:44.484] GAME: Explosion with size (0, 2, 3, 0) in (Hangar (34, 19, 3))
+[2020-11-09 05:25:14.639] SAY: *no key*/(mouse) "Squeak?" Canteen (133, 23, 2)
+[2020-11-09 05:26:29.491] OOC: *no key*/(Ancient Empress (536)) *no key*/(Ancient Empress (536)) has left mob Ancient Empress (536)(/mob/dead/observer). Combat Information Center (15, 26, 3)
+[2020-11-09 05:26:29.491] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Combat Information Center (15, 26, 3)
+[2020-11-09 05:26:29.516] ADMIN: zack24/(Naldo Joyner) became a spatial agent.
+[2020-11-09 05:26:35.293] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/binoculars/tactical/scout at Combat Information Center (15, 26, 3)
+[2020-11-09 05:26:36.632] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Combat Information Center (17, 28, 3)
+[2020-11-09 05:26:36.633] OOC: zack24/(Ancient Empress (536)) Ancient Empress (536) has logged in. Combat Information Center (17, 28, 3)
+[2020-11-09 05:26:36.638] ADMIN: zack24/(Ancient Empress (536)) admin ghosted at Combat Information Center (17, 28, 3).
+[2020-11-09 05:26:46.400] OOC: *no key*/(Ancient Empress (536)) *no key*/(Ancient Empress (536)) has left mob Ancient Empress (536)(/mob/dead/observer). Weapon Control Room (18, 14, 3)
+[2020-11-09 05:26:46.400] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Weapon Control Room (18, 14, 3)
+[2020-11-09 05:26:46.430] ADMIN: zack24/(Naldo Joyner) became a spatial agent.
+[2020-11-09 05:27:46.110] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Combat Information Center (16, 25, 3)
+[2020-11-09 05:27:46.110] OOC: zack24/(Ancient Empress (536)) Ancient Empress (536) has logged in. Combat Information Center (16, 25, 3)
+[2020-11-09 05:27:46.116] ADMIN: zack24/(Ancient Empress (536)) admin ghosted at Combat Information Center (16, 25, 3).
+[2020-11-09 05:28:02.056] OOC: *no key*/(Ancient Empress (536)) *no key*/(Ancient Empress (536)) has left mob Ancient Empress (536)(/mob/dead/observer). Main Hallway (133, 30, 2)
+[2020-11-09 05:28:02.056] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (133, 30, 2)
+[2020-11-09 05:28:02.086] ADMIN: zack24/(Naldo Joyner) became a spatial agent.
+[2020-11-09 05:28:06.583] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/binoculars/tactical/scout at Main Hallway (132, 31, 2)
+[2020-11-09 05:28:12.807] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (131, 31, 2)
+[2020-11-09 05:28:12.807] OOC: zack24/(Ancient Empress (536)) Ancient Empress (536) has logged in. Main Hallway (131, 31, 2)
+[2020-11-09 05:28:12.814] ADMIN: zack24/(Ancient Empress (536)) admin ghosted at Main Hallway (131, 31, 2).
+[2020-11-09 05:28:18.034] OOC: *no key*/(Ancient Empress (536)) *no key*/(Ancient Empress (536)) has left mob Ancient Empress (536)(/mob/dead/observer). Main Hallway (120, 31, 2)
+[2020-11-09 05:28:18.035] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (120, 31, 2)
+[2020-11-09 05:28:18.061] ADMIN: zack24/(Naldo Joyner) became a spatial agent.
+[2020-11-09 05:28:37.496] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (128, 29, 2)
+[2020-11-09 05:28:37.496] OOC: zack24/(Ancient Empress (536)) Ancient Empress (536) has logged in. Main Hallway (128, 29, 2)
+[2020-11-09 05:28:37.503] ADMIN: zack24/(Ancient Empress (536)) admin ghosted at Main Hallway (128, 29, 2).
+[2020-11-09 05:28:39.411] ADMIN: zack24/(Ancient Empress (536)) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:28:39.413] OOC: *no key*/(Ancient Empress (536)) *no key*/(Ancient Empress (536)) has left mob Ancient Empress (536)(/mob/dead/observer). Main Hallway (128, 30, 2)
+[2020-11-09 05:28:39.414] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (131, 31, 2)
+[2020-11-09 05:28:52.038] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (131, 31, 2)
+[2020-11-09 05:28:52.038] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (131, 31, 2)
+[2020-11-09 05:28:52.046] ADMIN: zack24/(Naldo Joyner) admin ghosted at Main Hallway (131, 31, 2).
+[2020-11-09 05:28:54.664] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:28:54.666] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Main Hallway (130, 31, 2)
+[2020-11-09 05:28:54.667] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (128, 29, 2)
+[2020-11-09 05:29:17.892] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (127, 29, 2)
+[2020-11-09 05:29:17.893] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (127, 29, 2)
+[2020-11-09 05:29:17.898] ADMIN: zack24/(Naldo Joyner) admin ghosted at Main Hallway (127, 29, 2).
+[2020-11-09 05:29:20.117] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:29:20.118] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Main Hallway (135, 29, 2)
+[2020-11-09 05:29:20.118] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (131, 31, 2)
+[2020-11-09 05:30:21.868] SAY: *no key*/(mouse) "Squeak?" Canteen (134, 20, 2)
+[2020-11-09 05:30:25.416] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-11-09 05:30:28.451] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (129, 31, 2)
+[2020-11-09 05:30:28.451] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (129, 31, 2)
+[2020-11-09 05:30:28.461] ADMIN: zack24/(Naldo Joyner) admin ghosted at Main Hallway (129, 31, 2).
+[2020-11-09 05:30:29.866] SAY: *no key*/(mouse) "SQUEAK!" Canteen (134, 20, 2)
+[2020-11-09 05:32:09.866] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:32:48.378] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:32:48.378] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Canteen (131, 28, 2)
+[2020-11-09 05:32:48.379] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (129, 31, 2)
+[2020-11-09 05:33:15.919] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:33:25.557] ADMIN: zack24/(Naldo Joyner) spawned 1 x /obj/item/binoculars/tactical at Main Hallway (129, 30, 2)
+[2020-11-09 05:33:39.124] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (129, 30, 2)
+[2020-11-09 05:33:39.124] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (129, 30, 2)
+[2020-11-09 05:33:39.130] ADMIN: zack24/(Naldo Joyner) admin ghosted at Main Hallway (129, 30, 2).
+[2020-11-09 05:33:52.136] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:33:52.137] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Combat Information Center (16, 25, 3)
+[2020-11-09 05:33:52.137] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Combat Information Center (16, 25, 3)
+[2020-11-09 05:34:21.936] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Combat Information Center (16, 26, 3)
+[2020-11-09 05:34:21.937] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Combat Information Center (16, 26, 3)
+[2020-11-09 05:34:21.943] ADMIN: zack24/(Naldo Joyner) admin ghosted at Combat Information Center (16, 26, 3).
+[2020-11-09 05:34:29.444] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:34:29.444] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Main Hallway (129, 29, 2)
+[2020-11-09 05:34:29.444] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (129, 30, 2)
+[2020-11-09 05:34:38.047] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (129, 30, 2)
+[2020-11-09 05:34:38.048] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (129, 30, 2)
+[2020-11-09 05:34:38.056] ADMIN: zack24/(Naldo Joyner) admin ghosted at Main Hallway (129, 30, 2).
+[2020-11-09 05:34:40.559] ADMIN: zack24/(Naldo Joyner) stuffed zack24 into Naldo Joyner.
+[2020-11-09 05:34:40.559] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Main Hallway (122, 30, 2)
+[2020-11-09 05:34:40.560] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (127, 29, 2)
+[2020-11-09 05:34:49.352] SAY: zack24/(Naldo Joyner) "hm yes" Main Hallway (118, 31, 2)
+[2020-11-09 05:34:52.063] SAY: zack24/(Naldo Joyner) "what could go wrong" Main Hallway (118, 31, 2)
+[2020-11-09 05:34:53.974] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-11-09 05:34:56.405] SAY: zack24/(Naldo Joyner) "hm yes" Main Hallway (118, 31, 2)
+[2020-11-09 05:35:06.817] OOC: *no key*/(Naldo Joyner) *no key*/(Naldo Joyner) has left mob Naldo Joyner(/mob/living/carbon/human). Main Hallway (118, 30, 2)
+[2020-11-09 05:35:06.817] OOC: zack24/(Naldo Joyner) Naldo Joyner has logged in. Main Hallway (118, 30, 2)
+[2020-11-09 05:37:00.815] SAY: *no key*/(mouse) "Squeak!" Canteen (133, 18, 2)
+[2020-11-09 05:37:50.300] ACCESS: Logout: Zack24/(Naldo Joyner)
+[2020-11-09 05:37:50.303] OOC: zack24[DC]/(Naldo Joyner) zack24[DC]/(Naldo Joyner) has left mob Naldo Joyner(/mob/dead/observer). Main Hallway (121, 27, 2)

@@ -1,0 +1,511 @@
+[2020-11-09 04:39:21.374] Starting up round ID .
+ - -------------------------
+[2020-11-09 04:39:21.411] Running /tg/ revision: 2020-10-29
+ - origin/master: 1a4ec41915b666b66df905c98c7e387522772572
+ - HEAD: f67571240fee0f291871221082aac6a5d475b554
+[2020-11-09 04:39:22.416] Initialized Database subsystem within 0 seconds!
+[2020-11-09 04:39:22.418] Initialized Server Tasks subsystem within 0 seconds!
+[2020-11-09 04:39:22.420] Initialized Input subsystem within 0 seconds!
+[2020-11-09 04:39:22.455] Initialized Codex subsystem within 0 seconds!
+[2020-11-09 04:39:22.459] Initialized Events subsystem within 0 seconds!
+[2020-11-09 04:39:22.470] Initialized Jobs subsystem within 0 seconds!
+[2020-11-09 04:39:22.477] Initialized Ticker subsystem within 0 seconds!
+[2020-11-09 04:39:22.481] Loading LV624...
+[2020-11-09 04:39:26.053] Loaded LV624 in 3.6s!
+[2020-11-09 04:39:26.068] Loading Debugdalus...
+[2020-11-09 04:39:26.366] Loaded Debugdalus in 0.3s!
+[2020-11-09 04:39:27.463] Initialized Mapping subsystem within 5 seconds!
+[2020-11-09 04:39:44.832] Initialized Atoms subsystem within 17.4 seconds!
+[2020-11-09 04:39:44.856] Initialized Machines subsystem within 0 seconds!
+[2020-11-09 04:39:44.859] Initialized Nodes subsystem within 0 seconds!
+[2020-11-09 04:39:44.861] Initialized Blackbox subsystem within 0 seconds!
+[2020-11-09 04:39:44.862] Initialized Direction subsystem within 0 seconds!
+[2020-11-09 04:39:44.869] Initialized Points subsystem within 0 seconds!
+[2020-11-09 04:39:44.872] Initialized Weather subsystem within 0 seconds!
+[2020-11-09 04:39:44.874] Initialized Weed subsystem within 0 seconds!
+[2020-11-09 04:39:44.877] Initialized Weed Decay subsystem within 0 seconds!
+[2020-11-09 04:39:44.934] Initialized Atmospherics subsystem within 0.1 seconds!
+[2020-11-09 04:39:45.315] Initialized Assets subsystem within 0.4 seconds!
+[2020-11-09 04:39:46.221] Initialized Overlay subsystem within 0.9 seconds!
+[2020-11-09 04:39:46.227] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-11-09 04:39:48.519] Initialized Lighting subsystem within 2.3 seconds!
+[2020-11-09 04:39:48.868] Initialized Shuttle subsystem within 0.3 seconds!
+[2020-11-09 04:39:48.873] Initialized Pathfinder subsystem within 0 seconds!
+[2020-11-09 04:39:48.877] Initialized Chat subsystem within 0 seconds!
+[2020-11-09 04:39:48.880] Initializations complete within 26.4 seconds!
+[2020-11-09 04:42:51.286] Game start took 0s
+[2020-11-09 05:22:32.846] ### VarEdit by Zack24/(Ancient Defender (35)): /obj/machinery/marine_turret ammo=autocannon bullet => revolver bullet
+[2020-11-09 05:22:37.967] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 335.556)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (35,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (35,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:38.100] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 335.556)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (35,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (35,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(4)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:38.200] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 335.556)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (35,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (35,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:38.295] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 335.556)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (35,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (35,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:38.400] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 335.556)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (35,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (35,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:38.499] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 344.745)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (37,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (37,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:56.072] ### VarEdit by Zack24/(Ancient Defender (35)): /obj/machinery/marine_turret ammo=revolver bullet => revolver bullet
+[2020-11-09 05:22:57.848] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 125.538)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the Alamo (33,20,3) (/turf/closed/shuttle/dropship1/transparent), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the Alamo (33,20,3) (/turf/closed/shuttle/dropship1/transparent), 8)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:57.949] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 125.538)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the Alamo (33,20,3) (/turf/closed/shuttle/dropship1/transparent), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the Alamo (33,20,3) (/turf/closed/shuttle/dropship1/transparent), 8)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:58.444] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 323.973)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (32,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (32,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:58.544] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 323.973)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (32,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (32,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:22:59.944] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 360)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (40,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (40,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:00.046] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 349.695)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (38,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (38,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:00.158] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 360)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (40,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (40,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:00.295] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 360)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (40,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (40,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(4)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:00.397] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 360)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (40,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (40,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:00.499] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 349.695)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (38,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (38,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:02.003] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 335.556)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (35,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (35,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:02.108] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 323.973)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the hull (32,14,3) (/turf/closed/wall/mainship), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the hull (32,14,3) (/turf/closed/wall/mainship), 2)
+ - the revolver bullet (/obj/projectile): projectile batch move(3)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:02.246] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: revolver bullet (/datum/ammo/bullet/revolver/ricochet/four)
+ -   call stack:
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): fire bonus projectiles(the revolver bullet (/obj/projectile), the UA 571-C sentry gun (/obj/machinery/marine_turret), null, 20, 3, 299.745)
+ - revolver bullet (/datum/ammo/bullet/revolver/ricochet/four): on hit turf(the Alamo (33,21,3) (/turf/closed/shuttle/dropship1/transparent), the revolver bullet (/obj/projectile))
+ - the revolver bullet (/obj/projectile): scan a turf(the Alamo (33,21,3) (/turf/closed/shuttle/dropship1/transparent), 8)
+ - the revolver bullet (/obj/projectile): projectile batch move(5)
+ - the revolver bullet (/obj/projectile): process(2)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-11-09 05:23:02.253] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:02.325] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:03.926] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:04.034] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:04.127] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:04.228] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:04.324] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:05.928] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:06.025] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:06.129] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:06.425] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:07.275] ### VarEdit by Zack24/(Ancient Defender (35)): /obj/machinery/marine_turret ammo=revolver bullet => revolver bullet
+[2020-11-09 05:23:07.925] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:08.028] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:08.127] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:08.226] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:08.325] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:08.429] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:09.928] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:10.027] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:10.128] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:10.225] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:10.326] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:10.426] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:11.939] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:12.030] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:12.127] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:12.225] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:12.326] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:12.428] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:13.927] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:14.030] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:14.326] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-11-09 05:23:17.423] ### VarEdit by Zack24/(Ancient Defender (35)): /obj/machinery/marine_turret ammo=revolver bullet => HEAT shell
+[2020-11-09 05:23:27.965] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ - 
+[2020-11-09 05:23:28.031] runtime error: fire_at called on a QDELETED target (Ancient Defender (677)) with no original_target_turf and a null angle.
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,39
+ - 
+[2020-11-09 05:23:28.035] runtime error: Cannot read null.loc
+ - proc name: Get Angle (/proc/Get_Angle)
+ -   source file: unsorted.dm,113
+ - 
+[2020-11-09 05:23:28.132] runtime error: Cannot read null.x
+ - proc name: fire shot (/obj/machinery/marine_turret/proc/fire_shot)
+ -   source file: sentries.dm,930
+ - 
+[2020-11-09 05:23:44.005] runtime error: Cannot modify null.layer.
+ - proc name: update wounds (/mob/living/carbon/xenomorph/proc/update_wounds)
+ -   source file: update_icons.dm,109
+ - 

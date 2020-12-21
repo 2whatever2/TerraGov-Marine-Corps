@@ -1,0 +1,73 @@
+[2020-10-29 08:15:28.991] Starting up round ID .
+ - -------------------------
+[2020-10-29 08:17:46.956] HREF: Zack24 (usr:Zack24[(8,8,1)]) : asset_cache_preload_data=%7B%22padlock.png%22%3A%22fd54303923e9086cd6b61a9c4c454f12%22%2C%22asset.2c1817def9a9ea3700c8a4c63b022070.css%22%3A%222c1817def9a9ea3700c8a4c63b022070%22%2C%22jquery.min.js%22%3A%228101d596b2b8fa35fe3a634ea342d7c3%22%2C%22browserOutput.css%22%3A%222b30087926991182605e81fcfb2eb593%22%2C%22browserOutput.js%22%3A%2201938fe53c6a56cebadc7df53b14bb33%22%2C%22browserOutput_white.css%22%3A%22ef5d96586e6717ff7d9dfbcf9086c3e4%22%2C%22fontawesome-webfont.eot%22%3A%2232400f4e08932a94d8bfd2422702c446%22%2C%22fontawesome-webfont.svg%22%3A%22a96314f5ef854388a64ca3befd9942e9%22%2C%22fontawesome-webfont.ttf%22%3A%22a3de2170e4e9df77161ea5d3f31b2668%22%2C%22fontawesome-webfont.woff%22%3A%22a35720c2fed2c7f043bc7e4ffb45e073%22%2C%22goonchatfont-awesome.css%22%3A%223a15fac854d5226a26306c5226a7c01d%22%2C%22json2.min.js%22%3A%2228a0350ec50b9fd89972b78ce1e7dbd4%22%2C%22asset.9b2c5fc6395f3214454b5d0cf0c5403f.css%22%3A%229b2c5fc6395f3214454b5d0cf0c5403f%22%2C%22asset.f2c9176c6a3ba7b8cdfe4457c848bd8c.png%22%3A%22f2c9176c6a3ba7b8cdfe4457c848bd8c%22%2C%22fa-regular-400.eot%22%3A%22fc9c63c8224fb341fc933641cbdd12ef%22%2C%22fa-regular-400.woff%22%3A%22e5770f9863963fb576942e25214a226d%22%2C%22fa-solid-900.eot%22%3A%22ef3df98419d143d9617fe163bf4edc0b%22%2C%22fa-solid-900.woff%22%3A%224bced7c4c0d61d4f988629bb8ae80b8b%22%2C%22font-awesome.css%22%3A%22b7b0fc427ae028cde1fe3356abfee869%22%2C%22v4shim.css%22%3A%22e140a7d32f343530f016095df3cc2ae4%22%7D
+[2020-10-29 08:17:49.898] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=doneLoading
+[2020-10-29 08:17:50.586] HREF: Zack24 (usr:Zack24[(8,8,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"zack24","ip":"127.0.0.1","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.20","compid":"2571130799"},{"ckey":"zack24","ip":"119.94.9.158","compid":"2571130799"}]}
+[2020-10-29 08:17:55.441] HREF: Zack24 (usr:Zack24[(8,8,1)]) : Zack24 src=[mob_37];lobby_choice=observe
+[2020-10-29 08:18:12.695] HREF: Zack24 (usr:Arleen Laverty[(41,28,3)]) : _src_=codex;show_examined_info=[0x200ff85];show_to=[mob_39]
+[2020-10-29 08:18:48.519] HREF: Zack24 (usr:Arleen Laverty[(40,28,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;vars=[0x21000401]
+[2020-10-29 08:18:52.910] HREF: Zack24 (usr:Arleen Laverty[(40,28,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20012ef];varnameedit=ammo
+[2020-10-29 08:19:00.536] HREF: Zack24 (usr:Arleen Laverty[(40,28,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20012ef];varnameedit=ammo
+[2020-10-29 08:19:05.117] HREF: Zack24 (usr:Arleen Laverty[(40,28,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20012ef];varnameedit=ammo
+[2020-10-29 08:19:19.289] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=tgui%3Ainitialize
+[2020-10-29 08:19:20.145] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : 
+[2020-10-29 08:19:20.147] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : 
+[2020-10-29 08:19:21.469] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstup
+[2020-10-29 08:19:21.639] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstup
+[2020-10-29 08:19:22.000] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstdown
+[2020-10-29 08:19:22.143] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstdown
+[2020-10-29 08:19:22.320] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstdown
+[2020-10-29 08:19:22.474] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstdown
+[2020-10-29 08:19:22.661] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burstdown
+[2020-10-29 08:19:22.968] HREF: Zack24 (usr:Arleen Laverty[(41,27,3)]) : /datum/tgui src=%5B0x21006959%5D&action=burst
+[2020-10-29 08:20:45.171] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=tgui%3Ainitialize
+[2020-10-29 08:20:45.353] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : 
+[2020-10-29 08:20:45.354] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : 
+[2020-10-29 08:20:46.200] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:20:46.468] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:20:46.706] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:20:46.959] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:20:47.708] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:20:47.946] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:20:48.072] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:20:48.297] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:20:48.488] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:20:48.664] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:20:50.008] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burst
+[2020-10-29 08:20:56.790] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20012ef];varnameedit=burst_size
+[2020-10-29 08:20:58.664] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20012ef];varnameedit=min_burst
+[2020-10-29 08:21:00.400] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:21:00.904] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:21:01.632] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:21:01.834] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstdown
+[2020-10-29 08:21:07.507] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x2100647c%5D&action=tgui%3Ainitialize
+[2020-10-29 08:21:07.701] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x2100660a%5D&action=tgui%3Ainitialize
+[2020-10-29 08:21:07.958] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : __keydown=83
+[2020-10-29 08:21:07.961] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : __keyup=83
+[2020-10-29 08:21:07.980] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : 
+[2020-10-29 08:21:07.980] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : 
+[2020-10-29 08:24:59.535] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=tgui%3Ainitialize
+[2020-10-29 08:24:59.718] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : 
+[2020-10-29 08:24:59.720] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : 
+[2020-10-29 08:25:00.512] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:25:00.726] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:25:01.144] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:25:01.297] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:25:01.476] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:25:01.672] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=burstup
+[2020-10-29 08:25:02.266] HREF: Zack24 (usr:Arleen Laverty[(40,27,3)]) : /datum/tgui src=%5B0x21001f90%5D&action=toggle_alert
+[2020-10-29 08:25:03.097] HREF: Zack24 (usr:Arleen Laverty[(40,25,3)]) : __keydown=83
+[2020-10-29 08:25:03.102] HREF: Zack24 (usr:Arleen Laverty[(40,25,3)]) : __keyup=83
+[2020-10-29 08:30:39.203] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;vars=[0x21000401]
+[2020-10-29 08:30:42.366] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20100a8];varnameedit=ammo
+[2020-10-29 08:30:49.373] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : /datum/tgui src=%5B0x210065b7%5D&action=tgui%3Ainitialize
+[2020-10-29 08:30:49.860] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : 
+[2020-10-29 08:30:49.923] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : 
+[2020-10-29 08:30:58.014] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : _src_=vars;admin_token=916710850509418433164373330218241;datumedit=[0x20100a8];varnameedit=burst_size
+[2020-10-29 08:31:00.681] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : /datum/tgui src=%5B0x210015b2%5D&action=tgui%3Ainitialize
+[2020-10-29 08:31:00.841] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : 
+[2020-10-29 08:31:00.842] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : 
+[2020-10-29 08:31:01.555] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : __keydown=18
+[2020-10-29 08:31:01.621] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : __keyup=18
+[2020-10-29 08:31:02.360] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : __keydown=18
+[2020-10-29 08:31:02.410] HREF: Zack24 (usr:Arleen Laverty[(41,29,3)]) : __keyup=18

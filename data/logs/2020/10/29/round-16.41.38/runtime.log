@@ -1,0 +1,413 @@
+[2020-10-29 08:41:38.056] Starting up round ID .
+ - -------------------------
+[2020-10-29 08:41:38.122] Running /tg/ revision: 2020-10-28
+ - origin/master: 1a4ec41915b666b66df905c98c7e387522772572
+[2020-10-29 08:41:39.129] Initialized Database subsystem within 0 seconds!
+[2020-10-29 08:41:39.132] Initialized Server Tasks subsystem within 0 seconds!
+[2020-10-29 08:41:39.137] Initialized Input subsystem within 0 seconds!
+[2020-10-29 08:41:39.177] Initialized Codex subsystem within 0 seconds!
+[2020-10-29 08:41:39.188] Initialized Events subsystem within 0 seconds!
+[2020-10-29 08:41:39.202] Initialized Jobs subsystem within 0.1 seconds!
+[2020-10-29 08:41:39.206] Initialized Ticker subsystem within 0 seconds!
+[2020-10-29 08:41:39.211] Loading LV624...
+[2020-10-29 08:41:43.255] Loaded LV624 in 4s!
+[2020-10-29 08:41:43.279] Loading Debugdalus...
+[2020-10-29 08:41:43.578] Loaded Debugdalus in 0.3s!
+[2020-10-29 08:41:43.919] Initialized Mapping subsystem within 4.7 seconds!
+[2020-10-29 08:42:06.176] Initialized Atoms subsystem within 22.2 seconds!
+[2020-10-29 08:42:06.209] Initialized Machines subsystem within 0.1 seconds!
+[2020-10-29 08:42:06.211] Initialized Nodes subsystem within 0 seconds!
+[2020-10-29 08:42:06.214] Initialized Blackbox subsystem within 0 seconds!
+[2020-10-29 08:42:06.218] Initialized Direction subsystem within 0 seconds!
+[2020-10-29 08:42:06.235] Initialized Points subsystem within 0 seconds!
+[2020-10-29 08:42:06.241] Initialized Weather subsystem within 0 seconds!
+[2020-10-29 08:42:06.243] Initialized Weed subsystem within 0 seconds!
+[2020-10-29 08:42:06.246] Initialized Weed Decay subsystem within 0 seconds!
+[2020-10-29 08:42:06.324] Initialized Atmospherics subsystem within 0.1 seconds!
+[2020-10-29 08:42:07.267] Initialized Assets subsystem within 0.9 seconds!
+[2020-10-29 08:42:08.571] Initialized Overlay subsystem within 1.3 seconds!
+[2020-10-29 08:42:08.574] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-10-29 08:42:11.328] Initialized Lighting subsystem within 2.8 seconds!
+[2020-10-29 08:42:11.805] Initialized Shuttle subsystem within 0.5 seconds!
+[2020-10-29 08:42:11.808] Initialized Pathfinder subsystem within 0 seconds!
+[2020-10-29 08:42:11.810] Initialized Chat subsystem within 0 seconds!
+[2020-10-29 08:42:11.813] Initializations complete within 32.7 seconds!
+[2020-10-29 08:43:24.995] Game start took 0s
+[2020-10-29 08:43:52.888] ### VarEdit by Zack24/(Geraldine Mubarak): /obj/machinery/marine_turret/mini ammo=small caliber autocannon bullet => energy ball
+[2020-10-29 08:43:58.592] ### VarEdit by Zack24/(Geraldine Mubarak): /obj/machinery/marine_turret/mini burst_size=3 => 1
+[2020-10-29 08:57:31.238] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=1 => 55
+[2020-10-29 08:57:37.863] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=5 => 5
+[2020-10-29 08:57:50.424] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=55 => 1
+[2020-10-29 08:57:54.101] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=5 => 0
+[2020-10-29 08:57:57.996] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=1 => 5
+[2020-10-29 08:58:06.767] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=0 => 1
+[2020-10-29 08:58:12.432] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=1 => 0.1
+[2020-10-29 08:58:21.219] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=5 => 15
+[2020-10-29 08:58:58.352] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini rounds=134 => 1.11111e+008
+[2020-10-29 08:59:02.617] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini range=7 => 11
+[2020-10-29 08:59:38.499] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini fire_delay=3 => 1
+[2020-10-29 08:59:56.195] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=15 => 2
+[2020-10-29 09:00:03.363] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=0.1 => 1
+[2020-10-29 09:00:06.431] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=2 => 7
+[2020-10-29 09:00:16.995] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=7 => 30
+[2020-10-29 09:00:44.016] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini ammo=energy ball => additional buckshot
+[2020-10-29 09:00:45.840] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 158)
+ - the additional buckshot (/obj/projectile): fire at(Ancient Runner (412) (/mob/living/carbon/xenomorph/runner/ancient), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-10-29 09:00:45.922] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 158)
+ - the additional buckshot (/obj/projectile): fire at(Ancient Runner (412) (/mob/living/carbon/xenomorph/runner/ancient), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.024] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 170)
+ - the additional buckshot (/obj/projectile): fire at(the plating (41,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.115] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 180)
+ - the additional buckshot (/obj/projectile): fire at(the plating (40,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.231] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 170)
+ - the additional buckshot (/obj/projectile): fire at(the plating (41,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.324] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 170)
+ - the additional buckshot (/obj/projectile): fire at(the plating (41,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.415] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 170)
+ - the additional buckshot (/obj/projectile): fire at(the plating (41,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.526] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 170)
+ - the additional buckshot (/obj/projectile): fire at(the plating (41,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.609] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 170)
+ - the additional buckshot (/obj/projectile): fire at(the plating (41,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.711] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 158)
+ - the additional buckshot (/obj/projectile): fire at(the plating (42,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.825] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 158)
+ - the additional buckshot (/obj/projectile): fire at(the plating (42,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:46.905] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 149)
+ - the additional buckshot (/obj/projectile): fire at(the plating (43,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.023] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 149)
+ - the additional buckshot (/obj/projectile): fire at(the plating (43,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.116] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 149)
+ - the additional buckshot (/obj/projectile): fire at(the plating (43,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.213] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 149)
+ - the additional buckshot (/obj/projectile): fire at(the plating (43,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.325] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 149)
+ - the additional buckshot (/obj/projectile): fire at(the plating (43,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.416] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 149)
+ - the additional buckshot (/obj/projectile): fire at(the plating (43,20,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.524] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 161)
+ - the additional buckshot (/obj/projectile): fire at(the plating (42,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.610] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ -   usr: null
+ -   src: additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread)
+ -   call stack:
+ - additional buckshot (/datum/ammo/bullet/shotgun/mbx900_buckshot/spread): fire bonus projectiles(the additional buckshot (/obj/projectile), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, 161)
+ - the additional buckshot (/obj/projectile): fire at(the plating (42,19,3) (/turf/open/floor/plating), the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini), null, 10, 2, null, null)
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): fire shot()
+ - the UA-580 Point Defense Sentr... (/obj/machinery/marine_turret/mini): process shot()
+ - 
+[2020-10-29 09:00:47.703] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:47.808] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:47.855] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:47.905] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:47.945] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.002] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.049] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.104] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.153] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.202] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.247] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.304] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.353] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.396] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.447] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.499] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.551] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.598] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.648] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.704] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:48.748] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:57.806] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:57.904] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:57.997] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.103] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.196] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.309] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.403] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.498] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.602] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.702] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:58.807] runtime error: Cannot read null.damage_mult
+ - proc name: fire bonus projectiles (/datum/ammo/proc/fire_bonus_projectiles)
+ -   source file: ammo_datums.dm,162
+ - 
+[2020-10-29 09:00:59.201] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini ammo=additional buckshot => additional buckshot
+[2020-10-29 09:01:13.197] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini ammo=additional buckshot => irradiated smartgun bullet
+[2020-10-29 09:01:29.742] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=30 => 71
+[2020-10-29 09:01:47.874] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=1 => 1
+[2020-10-29 09:01:58.433] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini fire_delay=1 => 0.1
+[2020-10-29 09:02:11.265] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini fire_delay=0.1 => 10
+[2020-10-29 09:02:18.441] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini fire_delay=10 => 1
+[2020-10-29 09:02:26.860] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=1 => 0
+[2020-10-29 09:02:33.615] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=71 => 1111
+[2020-10-29 09:02:53.136] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini rounds_max=500 => 1.11111e+011
+[2020-10-29 09:03:09.936] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini fire_delay=1 => 0.1
+[2020-10-29 09:03:15.171] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini fire_delay=0.1 => 0
+[2020-10-29 09:03:20.450] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_delay=0 => 0
+[2020-10-29 09:03:23.320] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini burst_size=1111 => 5000
+[2020-10-29 09:03:56.472] ### VarEdit by Zack24/(Ancient Runner (412)): /obj/machinery/marine_turret/mini max_burst=5 => 10000
+[2020-10-29 09:04:50.190] ### VarEdit by Zack24/(Geraldine Mubarak): /obj/machinery/marine_turret/mini max_burst=10000 => 111
+[2020-10-29 09:05:14.033] ### VarEdit by Zack24/(Geraldine Mubarak): /datum/ammo/bullet/smartgun/dirty/lethal bonus_projectiles_amount=0 => 3

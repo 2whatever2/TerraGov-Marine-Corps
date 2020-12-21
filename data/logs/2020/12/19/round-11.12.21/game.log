@@ -1,0 +1,42 @@
+[2020-12-19 03:12:21.291] Starting up round ID .
+ - -------------------------
+[2020-12-19 03:12:22.457] GAME: Saved mode is 'Extended'
+[2020-12-19 03:12:36.134] GAME: LV atmos dome loaded at at 31,35,2
+[2020-12-19 03:12:36.302] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-19 03:12:36.303] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-19 03:12:36.974] GAME: LV internal affairs dome loaded at at 46,49,2
+[2020-12-19 03:12:37.086] GAME: LV robotics dome loaded at at 46,20,2
+[2020-12-19 03:12:37.690] GAME: LV robotics dome loaded at at 67,8,2
+[2020-12-19 03:12:38.596] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-19 03:12:39.490] GAME: LV robotics dome loaded at at 147,50,2
+[2020-12-19 03:12:53.738] GAME: Alamo loaded at at 8,8,4
+[2020-12-19 03:12:53.878] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-19 03:12:53.905] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-19 03:12:53.930] GAME: Supply loaded at at 27,8,4
+[2020-12-19 03:12:55.468] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-19 03:12:55.469] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (35, 51, 3)
+[2020-12-19 03:13:06.696] ADMIN: Zack24/(Jupiter Elder) has started the round early.
+[2020-12-19 03:13:16.000] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 18, 2)
+[2020-12-19 03:13:18.226] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/fulton_extraction_pack at Main Hallway (119, 32, 2)
+[2020-12-19 03:13:28.809] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Main Hallway (120, 31, 2)
+[2020-12-19 03:13:28.809] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Main Hallway (120, 31, 2)
+[2020-12-19 03:13:28.895] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-19 03:13:38.380] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Main Hallway (119, 34, 2)
+[2020-12-19 03:13:42.725] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/weapon/gun/rifle/m412/elite at Main Hallway (117, 34, 2)
+[2020-12-19 03:13:54.249] SAY: *no key*/(mouse) "Squeak!" Kitchen (123, 14, 2)
+[2020-12-19 03:15:17.028] ADMIN: Zack24/(Jupiter Elder) modified The �M412 AP magazine (10x24mm)'s current_rounds from 0 to 111111
+[2020-12-19 03:15:27.801] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Central Jungle (118, 54, 2)
+[2020-12-19 03:15:39.287] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Central Jungle (117, 54, 2)
+[2020-12-19 03:15:40.046] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Central Jungle (116, 54, 2)
+[2020-12-19 03:15:40.500] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Central Jungle (115, 54, 2)
+[2020-12-19 03:15:40.927] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Central Jungle (114, 54, 2)
+[2020-12-19 03:15:57.264] ADMIN: Zack24/(Jupiter Elder) modified armor-piercing rifle bullet's bonus_projectiles_scatter from 8 to 2
+[2020-12-19 03:15:58.870] ADMIN: Zack24/(Jupiter Elder) modified armor-piercing rifle bullet's bonus_projectiles_amount from 0 to 11
+[2020-12-19 03:17:48.380] SAY: *no key*/(mouse) "Squeak!" Main Hallway (120, 15, 2)
+[2020-12-19 03:18:04.022] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/crusher/ancient at Central Jungle (116, 64, 2)
+[2020-12-19 03:18:39.354] ADMIN: Zack24/(Jupiter Elder) modified Spatial Agent's construction from 4 to 11
+[2020-12-19 03:18:52.989] ADMIN: Zack24/(Jupiter Elder) modified Spatial Agent's engineer from 4 to 11
+[2020-12-19 03:20:57.075] ADMIN: Zack24/(Jupiter Elder) modified The �Nanotrasen phoron Mining Well's stored_mineral from 0 to 111
+[2020-12-19 03:23:46.491] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-19 03:24:10.275] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-19 03:24:10.277] OOC: Zack24[DC]/(Jupiter Elder) Zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). South Central Barrens (91, 102, 2)

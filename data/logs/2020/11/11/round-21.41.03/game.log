@@ -1,0 +1,58 @@
+[2020-11-11 13:41:03.889] Starting up round ID .
+ - -------------------------
+[2020-11-11 13:41:05.058] GAME: Saved mode is 'Extended'
+[2020-11-11 13:41:14.965] GAME: LV robotics dome loaded at at 31,35,2
+[2020-11-11 13:41:20.905] GAME: LV cargo dome loaded at at 46,49,2
+[2020-11-11 13:41:21.001] GAME: LV telecomms dome loaded at at 46,20,2
+[2020-11-11 13:41:21.792] GAME: LV internal affairs dome loaded at at 67,8,2
+[2020-11-11 13:41:22.698] GAME: Hydro road loaded at at 106,51,2
+[2020-11-11 13:41:23.707] GAME: LV internal affairs dome loaded at at 147,50,2
+[2020-11-11 13:41:36.888] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-11 13:41:36.889] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-11-11 13:41:37.332] GAME: Alamo loaded at at 8,8,4
+[2020-11-11 13:41:37.459] GAME: Escape Pod loaded at at 19,8,4
+[2020-11-11 13:41:37.487] GAME: Escape Pod loaded at at 23,8,4
+[2020-11-11 13:41:37.513] GAME: Supply loaded at at 27,8,4
+[2020-11-11 13:42:38.452] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-11-11 13:42:38.452] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (36, 51, 3)
+[2020-11-11 13:43:04.661] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (44, 25, 3)
+[2020-11-11 13:43:07.559] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Empress (699).
+[2020-11-11 13:43:07.560] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (39, 25, 3)
+[2020-11-11 13:43:07.562] OOC: zack24/(Ancient Empress (699)) Ancient Empress (699) has logged in. Hangar (44, 25, 3)
+[2020-11-11 13:43:15.495] ADMIN: zack24/(Ancient Empress (146)) spawned 1 x /mob/living/carbon/xenomorph/ravager/ancient at Hangar (42, 25, 3)
+[2020-11-11 13:43:23.300] ADMIN: zack24/(Ancient Empress (146)) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (41, 25, 3)
+[2020-11-11 13:43:37.578] ADMIN: zack24/(Ancient Empress (146)) updated the equipment to Squad Smartgunner (Equipped) of *no key*/(Socioplana Radiata).
+[2020-11-11 13:43:52.337] OOC: *no key*/(Ancient Empress (146)) *no key*/(Ancient Empress (146)) has left mob Ancient Empress (146)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (44, 24, 3)
+[2020-11-11 13:43:52.337] OOC: zack24/(Ancient Empress (146)) Ancient Empress (146) has logged in. Hangar (44, 24, 3)
+[2020-11-11 13:43:52.343] ADMIN: zack24/(Ancient Empress (146)) admin ghosted at Hangar (44, 24, 3).
+[2020-11-11 13:43:53.816] ADMIN: zack24/(Ancient Empress (146)) stuffed zack24 into Ancient Ravager (836).
+[2020-11-11 13:43:53.817] OOC: *no key*/(Ancient Empress (146)) *no key*/(Ancient Empress (146)) has left mob Ancient Empress (146)(/mob/dead/observer). Hangar (44, 26, 3)
+[2020-11-11 13:43:53.817] OOC: zack24/(Ancient Ravager (836)) Ancient Ravager (836) has logged in. Hangar (42, 25, 3)
+[2020-11-11 13:43:58.482] ADMIN: zack24/(Ancient Ravager (495)) has started the round early.
+[2020-11-11 13:45:53.518] ADMIN: zack24/(Ancient Ravager (495)) revived *no key*/(Socioplana Radiata).
+[2020-11-11 13:45:56.944] ADMIN: zack24/(Ancient Ravager (495)) revived zack24/(Ancient Ravager (495)).
+[2020-11-11 13:46:14.366] ADMIN: zack24/(Ancient Ravager (495)) revived *no key*/(Socioplana Radiata).
+[2020-11-11 13:46:17.879] ADMIN: zack24/(Ancient Ravager (495)) revived zack24/(Ancient Ravager (495)).
+[2020-11-11 13:46:39.711] ADMIN: zack24/(Ancient Ravager (495)) revived zack24/(Ancient Ravager (495)).
+[2020-11-11 13:46:42.668] ADMIN: zack24/(Ancient Ravager (495)) revived *no key*/(Socioplana Radiata).
+[2020-11-11 13:47:19.209] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (105, 18, 2)
+[2020-11-11 13:48:24.870] ADMIN: zack24/(Ancient Ravager (495)) revived *no key*/(Socioplana Radiata).
+[2020-11-11 13:48:48.252] ADMIN: zack24/(Ancient Ravager (495)) revived *no key*/(Socioplana Radiata).
+[2020-11-11 13:53:15.255] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-11-11 13:53:41.253] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-11-11 13:54:31.255] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-11-11 13:59:03.254] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-11 14:00:03.254] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (119, 15, 2)
+[2020-11-11 14:01:03.254] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-11-11 14:10:17.254] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-11-11 14:14:31.255] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-11 14:15:11.255] SAY: *no key*/(mouse) "Squeak!" Main Hallway (119, 15, 2)
+[2020-11-11 14:15:49.254] SAY: *no key*/(mouse) "Squeak!" Main Hallway (119, 15, 2)
+[2020-11-11 14:15:50.604] ADMIN: Admin Approval: 'Event:Intel computer activation' was answered with approve due to lack of online admin.
+[2020-11-11 14:15:50.605] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-11-11 14:16:45.255] SAY: *no key*/(Lisa) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-11 14:18:19.253] SAY: *no key*/(mouse) "Squeak!" Main Hallway (119, 15, 2)
+[2020-11-11 14:19:03.253] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (119, 15, 2)
+[2020-11-11 14:21:13.254] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-11 14:23:46.984] ACCESS: Logout: Zack24/(Ancient Ravager (495))
+[2020-11-11 14:23:46.987] OOC: zack24[DC]/(Ancient Ravager (495)) zack24[DC]/(Ancient Ravager (495)) has left mob Ancient Ravager (495)(/mob/living/carbon/xenomorph/ravager/ancient). Hangar (42, 24, 3)

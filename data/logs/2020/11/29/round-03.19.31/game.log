@@ -1,0 +1,65 @@
+[2020-11-28 19:19:31.823] Starting up round ID .
+ - -------------------------
+[2020-11-28 19:19:32.978] GAME: Saved mode is 'Extended'
+[2020-11-28 19:19:41.941] GAME: LV atmos dome loaded at at 31,35,2
+[2020-11-28 19:19:42.223] GAME: LV telecomms dome loaded at at 46,49,2
+[2020-11-28 19:19:42.520] GAME: LV internal affairs dome loaded at at 46,20,2
+[2020-11-28 19:19:43.047] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-11-28 19:19:43.890] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-11-28 19:19:44.888] GAME: LV internal affairs dome loaded at at 147,50,2
+[2020-11-28 19:19:57.109] GAME: Alamo loaded at at 8,8,4
+[2020-11-28 19:19:57.234] GAME: Escape Pod loaded at at 19,8,4
+[2020-11-28 19:19:57.262] GAME: Escape Pod loaded at at 23,8,4
+[2020-11-28 19:19:57.287] GAME: Supply loaded at at 27,8,4
+[2020-11-28 19:21:33.060] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-28 19:21:33.060] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-11-28 19:21:54.324] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-11-28 19:21:54.324] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (38, 51, 3)
+[2020-11-28 19:22:02.785] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/praetorian/ancient at Hangar (41, 26, 3)
+[2020-11-28 19:22:06.512] ADMIN: Zack24/(Jupiter Elder) has started the round early.
+[2020-11-28 19:22:11.405] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (42, 27, 3)
+[2020-11-28 19:22:12.477] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Empress (251).
+[2020-11-28 19:22:12.477] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (42, 29, 3)
+[2020-11-28 19:22:12.477] OOC: zack24/(Ancient Empress (251)) Ancient Empress (251) has logged in. Hangar (42, 27, 3)
+[2020-11-28 19:22:22.000] OOC: *no key*/(Ancient Empress (883)) *no key*/(Ancient Empress (883)) has left mob Ancient Empress (883)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (43, 26, 3)
+[2020-11-28 19:22:22.001] OOC: zack24/(Ancient Empress (883)) Ancient Empress (883) has logged in. Hangar (43, 26, 3)
+[2020-11-28 19:22:22.016] ADMIN: zack24/(Ancient Empress (883)) admin ghosted at Hangar (43, 26, 3).
+[2020-11-28 19:22:24.173] ADMIN: zack24/(Ancient Empress (883)) stuffed zack24 into Ancient Praetorian (573).
+[2020-11-28 19:22:24.174] OOC: *no key*/(Ancient Empress (883)) *no key*/(Ancient Empress (883)) has left mob Ancient Empress (883)(/mob/dead/observer). Hangar (43, 29, 3)
+[2020-11-28 19:22:24.174] OOC: zack24/(Ancient Praetorian (573)) Ancient Praetorian (573) has logged in. Hangar (41, 26, 3)
+[2020-11-28 19:23:56.681] SAY: *no key*/(mouse) "Squeak?" Kitchen (125, 14, 2)
+[2020-11-28 19:27:38.682] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-11-28 19:30:28.892] ADMIN: zack24/(Ancient Praetorian (573)) spawned 1 x /mob/living/carbon/xenomorph/praetorian at Hangar (41, 26, 3)
+[2020-11-28 19:30:32.461] OOC: *no key*/(Ancient Praetorian (573)) *no key*/(Ancient Praetorian (573)) has left mob Ancient Praetorian (573)(/mob/living/carbon/xenomorph/praetorian/ancient). Hangar (39, 26, 3)
+[2020-11-28 19:30:32.461] OOC: zack24/(Ancient Praetorian (573)) Ancient Praetorian (573) has logged in. Hangar (39, 26, 3)
+[2020-11-28 19:30:32.473] ADMIN: zack24/(Ancient Praetorian (573)) admin ghosted at Hangar (39, 26, 3).
+[2020-11-28 19:30:33.518] ADMIN: zack24/(Ancient Praetorian (573)) stuffed zack24 into Young Praetorian (189).
+[2020-11-28 19:30:33.519] OOC: *no key*/(Ancient Praetorian (573)) *no key*/(Ancient Praetorian (573)) has left mob Ancient Praetorian (573)(/mob/dead/observer). Hangar (39, 26, 3)
+[2020-11-28 19:30:33.520] OOC: zack24/(Young Praetorian (189)) Young Praetorian (189) has logged in. Hangar (41, 26, 3)
+[2020-11-28 19:30:50.429] OOC: *no key*/(Young Praetorian (855)) *no key*/(Young Praetorian (855)) has left mob Young Praetorian (855)(/mob/living/carbon/xenomorph/praetorian). Hangar (41, 26, 3)
+[2020-11-28 19:30:50.430] OOC: zack24/(Young Praetorian (855)) Young Praetorian (855) has logged in. Hangar (41, 26, 3)
+[2020-11-28 19:30:50.441] ADMIN: zack24/(Young Praetorian (855)) admin ghosted at Hangar (41, 26, 3).
+[2020-11-28 19:30:51.727] ADMIN: zack24/(Young Praetorian (855)) stuffed zack24 into Ancient Praetorian (573).
+[2020-11-28 19:30:51.728] OOC: *no key*/(Young Praetorian (855)) *no key*/(Young Praetorian (855)) has left mob Young Praetorian (855)(/mob/dead/observer). Hangar (41, 26, 3)
+[2020-11-28 19:30:51.728] OOC: zack24/(Ancient Praetorian (573)) Ancient Praetorian (573) has logged in. Hangar (39, 26, 3)
+[2020-11-28 19:31:33.046] ADMIN: zack24/(Ancient Praetorian (367)) spawned 1 x /mob/living/carbon/xenomorph/crusher/ancient at Hangar (41, 24, 3)
+[2020-11-28 19:32:26.120] ADMIN: zack24/(Ancient Praetorian (367)) spawned 1 x /mob/living/carbon/human/species/vox at Hangar (43, 24, 3)
+[2020-11-28 19:32:30.761] ACCESS: Logout: Zack24/(Ancient Praetorian (367))
+[2020-11-28 19:32:30.764] OOC: zack24[DC]/(Ancient Praetorian (367)) zack24[DC]/(Ancient Praetorian (367)) has left mob Ancient Praetorian (367)(/mob/living/carbon/xenomorph/praetorian/ancient). Hangar (43, 26, 3)
+[2020-11-28 19:32:32.494] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-11-28 19:32:32.494] OOC: Zack24/(Ancient Praetorian (367)) Ancient Praetorian (367) has logged in. Hangar (43, 26, 3)
+[2020-11-28 19:32:41.026] OOC: *no key*/(Ancient Praetorian (809)) *no key*/(Ancient Praetorian (809)) has left mob Ancient Praetorian (809)(/mob/living/carbon/xenomorph/praetorian/ancient). Hangar (43, 26, 3)
+[2020-11-28 19:32:41.026] OOC: Zack24/(Ancient Praetorian (809)) Ancient Praetorian (809) has logged in. Hangar (43, 26, 3)
+[2020-11-28 19:32:41.036] ADMIN: Zack24/(Ancient Praetorian (809)) admin ghosted at Hangar (43, 26, 3).
+[2020-11-28 19:32:45.255] ADMIN: Zack24/(Ancient Praetorian (809)) stuffed Zack24 into Em Ashmore.
+[2020-11-28 19:32:45.256] OOC: *no key*/(Ancient Praetorian (809)) *no key*/(Ancient Praetorian (809)) has left mob Ancient Praetorian (809)(/mob/dead/observer). Hangar (41, 25, 3)
+[2020-11-28 19:32:45.256] OOC: zack24/(Em Ashmore) Em Ashmore has logged in. Hangar (43, 24, 3)
+[2020-11-28 19:32:51.859] OOC: *no key*/(Em Ashmore) *no key*/(Em Ashmore) has left mob Em Ashmore(/mob/living/carbon/human/species/vox). Hangar (41, 23, 3)
+[2020-11-28 19:32:51.859] OOC: zack24/(Em Ashmore) Em Ashmore has logged in. Hangar (41, 23, 3)
+[2020-11-28 19:32:51.873] ADMIN: zack24/(Em Ashmore) admin ghosted at Hangar (41, 23, 3).
+[2020-11-28 19:32:53.544] ADMIN: zack24/(Em Ashmore) stuffed zack24 into Ancient Crusher (693).
+[2020-11-28 19:32:53.545] OOC: *no key*/(Em Ashmore) *no key*/(Em Ashmore) has left mob Em Ashmore(/mob/dead/observer). Hangar (41, 25, 3)
+[2020-11-28 19:32:53.546] OOC: zack24/(Ancient Crusher (693)) Ancient Crusher (693) has logged in. Hangar (41, 24, 3)
+[2020-11-28 19:34:28.422] ADMIN: Zack24/(Ancient Crusher (469)) modified Ancient Crusher (469)'s halloss from 0 to 111
+[2020-11-28 19:34:33.113] ACCESS: Logout: Zack24/(Ancient Crusher (469))
+[2020-11-28 19:34:33.115] OOC: zack24[DC]/(Ancient Crusher (469)) zack24[DC]/(Ancient Crusher (469)) has left mob Ancient Crusher (469)(/mob/living/carbon/xenomorph/crusher/ancient). Hangar (42, 24, 3)

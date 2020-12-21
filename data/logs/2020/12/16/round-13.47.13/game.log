@@ -1,0 +1,40 @@
+[2020-12-16 05:47:14.032] Starting up round ID .
+ - -------------------------
+[2020-12-16 05:47:15.200] GAME: Saved mode is 'Extended'
+[2020-12-16 05:47:24.787] GAME: LV internal affairs dome loaded at at 31,35,2
+[2020-12-16 05:47:25.109] GAME: LV robotics dome loaded at at 46,49,2
+[2020-12-16 05:47:25.281] GAME: LV internal affairs dome loaded at at 46,20,2
+[2020-12-16 05:47:26.172] GAME: LV internal affairs dome loaded at at 67,8,2
+[2020-12-16 05:47:27.188] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-16 05:47:28.059] GAME: LV cargo dome loaded at at 147,50,2
+[2020-12-16 05:47:40.650] GAME: Alamo loaded at at 8,8,4
+[2020-12-16 05:47:40.771] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-16 05:47:40.798] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-16 05:47:40.822] GAME: Supply loaded at at 27,8,4
+[2020-12-16 05:52:19.616] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-16 05:52:19.617] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-16 05:53:09.404] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-16 05:53:09.405] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (35, 52, 3)
+[2020-12-16 05:53:37.978] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/crusher/ancient at Northern NT Compound (88, 62, 2)
+[2020-12-16 05:54:10.284] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /turf/closed/wall/r_wall/prison at Northern NT Compound (88, 61, 2)
+[2020-12-16 05:54:11.336] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Crusher (118).
+[2020-12-16 05:54:11.337] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Northern NT Compound (89, 62, 2)
+[2020-12-16 05:54:11.337] OOC: zack24/(Ancient Crusher (118)) Ancient Crusher (118) has logged in. Northern NT Compound (88, 62, 2)
+[2020-12-16 05:54:30.097] ADMIN: Zack24/(Ancient Crusher (696)) modified /datum/xeno_caste/crusher/ancient's plasma_max from 400 to 1.11111e+030
+[2020-12-16 05:54:39.054] ADMIN: Zack24/(Ancient Crusher (696)) modified Ancient Crusher (696)'s plasma_stored from 400 to 1.11111e+027
+[2020-12-16 05:54:45.555] ADMIN: zack24/(Ancient Crusher (696)) has started the round early.
+[2020-12-16 05:55:03.902] SAY: *no key*/(mouse) "Squeak!" Kitchen (126, 14, 2)
+[2020-12-16 05:55:19.955] ADMIN: zack24/(Ancient Crusher (696)) deleted the wall(/turf/closed/wall) at Northern Jungle (88, 84, 2).
+[2020-12-16 05:55:34.718] ADMIN: zack24/(Ancient Crusher (696)) deleted the bush(/obj/structure/flora/ausbushes/fullgrass) at Northern Jungle (88, 84, 2).
+[2020-12-16 05:57:25.194] ADMIN: zack24/(Ancient Crusher (696)) spawned 1 x /turf/closed/wall/r_wall/prison_unmeltable at Northern NT Compound (88, 61, 2)
+[2020-12-16 05:57:28.454] ADMIN: zack24/(Ancient Crusher (696)) deleted the heavy reinforced wall(/turf/closed/wall/r_wall/prison_unmeltable) at Northern NT Compound (88, 61, 2).
+[2020-12-16 05:57:37.925] ADMIN: zack24/(Ancient Crusher (696)) spawned 1 x /turf/closed/wall/r_wall/prison at Northern NT Compound (89, 61, 2)
+[2020-12-16 05:58:41.189] ADMIN: zack24/(Ancient Crusher (696)) spawned 1 x /turf/closed/wall/r_wall/prison at Northern NT Compound (89, 61, 2)
+[2020-12-16 06:08:30.137] SAY: *no key*/(mouse) "Squeak!" Canteen (132, 18, 2)
+[2020-12-16 06:11:08.216] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-16 06:11:09.776] ACCESS: Logout: Zack24/(Ancient Crusher (696))
+[2020-12-16 06:11:09.796] OOC: zack24[DC]/(Ancient Crusher (696)) zack24[DC]/(Ancient Crusher (696)) has left mob Ancient Crusher (696)(/mob/living/carbon/xenomorph/crusher/ancient). Central Jungle (90, 44, 2)
+[2020-12-16 06:11:15.908] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-16 06:11:15.908] OOC: Zack24/(Ancient Crusher (696)) Ancient Crusher (696) has logged in. Central Jungle (90, 44, 2)
+[2020-12-16 06:11:23.645] ACCESS: Logout: Zack24/(Ancient Crusher (402))
+[2020-12-16 06:11:23.647] OOC: Zack24[DC]/(Ancient Crusher (402)) Zack24[DC]/(Ancient Crusher (402)) has left mob Ancient Crusher (402)(/mob/living/carbon/xenomorph/crusher/ancient). Central Jungle (90, 44, 2)

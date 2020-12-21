@@ -1,0 +1,137 @@
+[2020-10-30 19:55:36.996] Starting up round ID .
+ - -------------------------
+[2020-10-30 19:55:38.200] GAME: Saved mode is 'Extended'
+[2020-10-30 19:55:47.643] GAME: LV robotics dome loaded at at 31,35,2
+[2020-10-30 19:55:47.952] GAME: LV atmos dome loaded at at 46,49,2
+[2020-10-30 19:55:48.086] GAME: LV cargo dome loaded at at 46,20,2
+[2020-10-30 19:55:48.635] GAME: LV internal affairs dome loaded at at 67,8,2
+[2020-10-30 19:55:49.432] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-10-30 19:55:50.162] GAME: LV robotics dome loaded at at 147,50,2
+[2020-10-30 19:56:02.211] GAME: Alamo loaded at at 8,8,4
+[2020-10-30 19:56:02.328] GAME: Escape Pod loaded at at 19,8,4
+[2020-10-30 19:56:02.356] GAME: Escape Pod loaded at at 23,8,4
+[2020-10-30 19:56:02.382] GAME: Supply loaded at at 27,8,4
+[2020-10-30 19:58:00.664] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-10-30 19:58:00.664] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-10-30 19:58:33.156] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-10-30 19:58:33.156] OOC: Zack24/(Sofiya Justus) Sofiya Justus has logged in. Cryo Cells (38, 53, 3)
+[2020-10-30 19:58:41.973] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Hangar (39, 29, 3)
+[2020-10-30 19:58:41.973] OOC: Zack24/(Sofiya Justus) Sofiya Justus has logged in. Hangar (39, 29, 3)
+[2020-10-30 19:58:41.995] ADMIN: Zack24/(Sofiya Justus) became a spatial agent.
+[2020-10-30 19:58:53.030] ADMIN: Zack24/(Sofiya Justus) has started the round early.
+[2020-10-30 19:59:09.176] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/item/weapon/gun/rifle/standard_carbine at Hangar (39, 29, 3)
+[2020-10-30 19:59:32.546] ADMIN: Zack24/(Sofiya Justus) modified rifle bullet's shrapnel_chance from 10 to 100
+[2020-10-30 20:00:19.961] ADMIN: Zack24/(Sofiya Justus) modified The �T-18 carbine's ammo_per_shot from 1 to 0
+[2020-10-30 20:00:28.134] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/item/attachable/burstfire_assembly at Hangar (40, 29, 3)
+[2020-10-30 20:00:34.724] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/machinery/vending/attachments at Hangar (39, 30, 3)
+[2020-10-30 20:01:02.074] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/item/clothing/suit/storage/marine/veteran/wolves at Hangar (41, 29, 3)
+[2020-10-30 20:01:04.408] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (105, 21, 2)
+[2020-10-30 20:01:09.182] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/item/clothing/suit/storage/det_suit/black at Hangar (40, 28, 3)
+[2020-10-30 20:01:19.705] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (41, 27, 3)
+[2020-10-30 20:01:25.695] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/item/stack/medical/splint at Hangar (41, 29, 3)
+[2020-10-30 20:01:40.274] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /mob/living/carbon/human/species/skrell at Hangar (41, 26, 3)
+[2020-10-30 20:02:04.162] ACCESS: Logout: Zack24/(Sofiya Justus)
+[2020-10-30 20:02:04.164] OOC: Zack24[DC]/(Sofiya Justus) Zack24[DC]/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Hangar (38, 17, 3)
+[2020-10-30 20:02:05.523] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-10-30 20:02:05.523] OOC: Zack24/(Sofiya Justus) Sofiya Justus has logged in. Hangar (38, 17, 3)
+[2020-10-30 20:02:20.671] ADMIN: Zack24/(Sofiya Justus) deleted Sherie Konadu(/mob/living/carbon/human/species/skrell) at Hangar (41, 26, 3).
+[2020-10-30 20:02:22.707] ADMIN: Zack24/(Sofiya Justus) deleted Philomusaea Siamensis(/mob/living/carbon/human/species/moth) at Hangar (41, 26, 3).
+[2020-10-30 20:02:27.222] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (41, 28, 3)
+[2020-10-30 20:02:38.450] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/item/stack/medical/advanced at Hangar (40, 29, 3)
+[2020-10-30 20:02:44.199] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/structure/largecrate/supply/medicine/medkits at Hangar (40, 29, 3)
+[2020-10-30 20:03:11.353] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (104, 20, 2)
+[2020-10-30 20:03:19.481] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/machinery/bodyscanner at Hangar (40, 26, 3)
+[2020-10-30 20:03:23.629] ADMIN: Zack24/(Sofiya Justus) spawned 1 x /obj/machinery/body_scanconsole at Hangar (41, 26, 3)
+[2020-10-30 20:03:43.653] SAY: Zack24/(Sofiya Justus) "FORWARD!" Hangar (34, 31, 3)
+[2020-10-30 20:03:52.913] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Combat Information Center (21, 26, 3)
+[2020-10-30 20:03:52.913] OOC: Zack24/(Sofiya Justus) Sofiya Justus has logged in. Combat Information Center (21, 26, 3)
+[2020-10-30 20:03:52.921] ADMIN: Zack24/(Sofiya Justus) admin ghosted at Combat Information Center (21, 26, 3).
+[2020-10-30 20:03:59.836] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Medical Lower (24, 13, 3)
+[2020-10-30 20:03:59.837] OOC: Zack24/(Sofiya Justus) Sofiya Justus has logged in. Combat Information Center (21, 26, 3)
+[2020-10-30 20:04:59.411] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (123, 13, 2)
+[2020-10-30 20:06:45.536] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Medical Lower (30, 12, 3)
+[2020-10-30 20:06:45.536] OOC: Zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (30, 12, 3)
+[2020-10-30 20:06:45.544] ADMIN: Zack24/(Sofiya Justus) admin ghosted at Medical Lower (30, 12, 3).
+[2020-10-30 20:06:47.114] ADMIN: Zack24/(Sofiya Justus) stuffed Zack24 into Asota Modesta.
+[2020-10-30 20:06:47.114] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Medical Lower (30, 12, 3)
+[2020-10-30 20:06:47.114] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (31, 11, 3)
+[2020-10-30 20:07:06.135] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta(/mob/living/carbon/human/species/moth). Medical Lower (30, 10, 3)
+[2020-10-30 20:07:06.135] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (30, 10, 3)
+[2020-10-30 20:07:06.148] ADMIN: *no key*/(Asota Modesta) gave @Zack24[DC]/(Sofiya Justus) to *no key*/(Asota Modesta).
+[2020-10-30 20:07:07.203] ADMIN: zack24/(Asota Modesta) stuffed zack24 into Sofiya Justus.
+[2020-10-30 20:07:07.203] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta(/mob/dead/observer). Medical Lower (30, 10, 3)
+[2020-10-30 20:07:07.206] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (30, 12, 3)
+[2020-10-30 20:08:19.557] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 21, 2)
+[2020-10-30 20:08:35.225] ADMIN: Zack24/(Sofiya Justus) modified Spatial Agent's surgery from 4 to 111
+[2020-10-30 20:09:17.799] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 20, 2)
+[2020-10-30 20:09:50.855] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Medical Lower (30, 11, 3)
+[2020-10-30 20:09:50.855] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (30, 11, 3)
+[2020-10-30 20:09:50.863] ADMIN: zack24/(Sofiya Justus) admin ghosted at Medical Lower (30, 11, 3).
+[2020-10-30 20:09:52.216] ADMIN: zack24/(Sofiya Justus) stuffed zack24 into Asota Modesta.
+[2020-10-30 20:09:52.217] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Medical Lower (30, 11, 3)
+[2020-10-30 20:09:52.218] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (31, 11, 3)
+[2020-10-30 20:10:07.653] ADMIN: zack24/(Asota Modesta) updated the skills from Default/Custom to PMC Leader of zack24/(Asota Modesta).
+[2020-10-30 20:10:14.825] ADMIN: zack24/(Asota Modesta) updated the equipment to PMC Leader of zack24/(Asota Modesta).
+[2020-10-30 20:10:31.785] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta (as Unknown)(/mob/living/carbon/human/species/moth). Medical Lower (30, 9, 3)
+[2020-10-30 20:10:31.785] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (30, 9, 3)
+[2020-10-30 20:10:31.794] ADMIN: zack24/(Asota Modesta) admin ghosted at Medical Lower (30, 9, 3).
+[2020-10-30 20:10:33.148] ADMIN: zack24/(Asota Modesta) stuffed zack24 into Sofiya Justus.
+[2020-10-30 20:10:33.149] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta(/mob/dead/observer). Medical Lower (30, 9, 3)
+[2020-10-30 20:10:33.149] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (30, 11, 3)
+[2020-10-30 20:11:35.408] ADMIN: zack24/(Sofiya Justus) spawned 1 x /obj/item/ammo_magazine/rifle/standard_carbine at Medical Lower (30, 13, 3)
+[2020-10-30 20:11:51.380] ADMIN: Zack24/(Sofiya Justus) modified The �T-18 magazine (10x24mm)'s current_rounds from 32 to 1.11111e+013
+[2020-10-30 20:13:35.354] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Medical Lower (32, 10, 3)
+[2020-10-30 20:13:35.354] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (32, 10, 3)
+[2020-10-30 20:13:35.362] ADMIN: zack24/(Sofiya Justus) admin ghosted at Medical Lower (32, 10, 3).
+[2020-10-30 20:13:36.474] ADMIN: zack24/(Sofiya Justus) stuffed zack24 into Asota Modesta (as Unknown).
+[2020-10-30 20:13:36.474] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Medical Lower (32, 10, 3)
+[2020-10-30 20:13:36.474] OOC: zack24/(Asota Modesta) Asota Modesta (as Unknown) has logged in. Medical Lower (31, 11, 3)
+[2020-10-30 20:13:51.021] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta (as Unknown)(/mob/living/carbon/human/species/moth). Medical Lower (31, 10, 3)
+[2020-10-30 20:13:51.022] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (31, 10, 3)
+[2020-10-30 20:13:51.032] ADMIN: *no key*/(Asota Modesta) gave @zack24[DC]/(Sofiya Justus) to *no key*/(Asota Modesta).
+[2020-10-30 20:13:51.909] ADMIN: zack24/(Asota Modesta) stuffed zack24 into Sofiya Justus.
+[2020-10-30 20:13:51.910] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta(/mob/dead/observer). Medical Lower (31, 10, 3)
+[2020-10-30 20:13:51.910] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (32, 10, 3)
+[2020-10-30 20:14:31.851] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-10-30 20:14:35.877] ADMIN: zack24/(Sofiya Justus) spawned 1 x /obj/effect/appearance_clone at Medical Lower (35, 8, 3)
+[2020-10-30 20:14:37.905] ADMIN: zack24/(Sofiya Justus) spawned 1 x /obj/item/reagent_containers/glass/beaker/cryoxadone at Medical Lower (37, 9, 3)
+[2020-10-30 20:14:41.908] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 21, 2)
+[2020-10-30 20:15:03.006] ADMIN: Zack24/(Sofiya Justus) modified The advanced trauma kit's amount from 6 to 111
+[2020-10-30 20:15:09.784] ADMIN: Zack24/(Sofiya Justus) modified The advanced trauma kit's heal_brute from 12 to 1.11111e+008
+[2020-10-30 20:16:17.907] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-10-30 20:17:15.517] ADMIN: zack24/(Sofiya Justus) revived *no key*/(Asota Modesta).
+[2020-10-30 20:17:43.935] SAY: *no key*/(Mr. Wiggles) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-10-30 20:18:41.935] SAY: *no key*/(mouse) "Squeak!" Kitchen (127, 18, 2)
+[2020-10-30 20:18:46.433] ADMIN: zack24/(Sofiya Justus) dealt -100 amount of brute damage to *no key*/(Asota Modesta)
+[2020-10-30 20:19:24.040] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Medical Lower (33, 9, 3)
+[2020-10-30 20:19:24.040] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (33, 9, 3)
+[2020-10-30 20:19:24.051] ADMIN: zack24/(Sofiya Justus) admin ghosted at Medical Lower (33, 9, 3).
+[2020-10-30 20:19:25.228] ADMIN: zack24/(Sofiya Justus) stuffed zack24 into Asota Modesta (as Unknown).
+[2020-10-30 20:19:25.229] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Medical Lower (33, 9, 3)
+[2020-10-30 20:19:25.229] OOC: zack24/(Asota Modesta) Asota Modesta (as Unknown) has logged in. Medical Lower (34, 8, 3)
+[2020-10-30 20:19:36.847] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta (as Unknown)(/mob/living/carbon/human/species/moth). Medical Lower (32, 10, 3)
+[2020-10-30 20:19:36.847] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (32, 10, 3)
+[2020-10-30 20:19:36.856] ADMIN: zack24/(Asota Modesta) admin ghosted at Medical Lower (32, 10, 3).
+[2020-10-30 20:19:38.170] ADMIN: zack24/(Asota Modesta) stuffed zack24 into Sofiya Justus.
+[2020-10-30 20:19:38.170] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta(/mob/dead/observer). Medical Lower (32, 10, 3)
+[2020-10-30 20:19:38.170] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (33, 9, 3)
+[2020-10-30 20:20:18.725] ADMIN: zack24/(Sofiya Justus) spawned 1 x /obj/item/storage/syringe_case/meralyne at Medical Lower (33, 8, 3)
+[2020-10-30 20:21:04.083] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (126, 20, 2)
+[2020-10-30 20:21:15.181] ADMIN: Zack24/(Sofiya Justus) modified The �Meralyne bottle's list_reagents: 60=1000
+[2020-10-30 20:21:34.058] ADMIN: Zack24/(Sofiya Justus) modified The �Meralyne bottle's volume from 60 to 600
+[2020-10-30 20:22:14.082] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-10-30 20:22:15.462] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Medical Lower (32, 9, 3)
+[2020-10-30 20:22:15.462] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (32, 9, 3)
+[2020-10-30 20:22:15.472] ADMIN: zack24/(Sofiya Justus) admin ghosted at Medical Lower (32, 9, 3).
+[2020-10-30 20:22:17.036] ADMIN: zack24/(Sofiya Justus) stuffed zack24 into Asota Modesta (as Unknown).
+[2020-10-30 20:22:17.037] OOC: *no key*/(Sofiya Justus) *no key*/(Sofiya Justus) has left mob Sofiya Justus(/mob/dead/observer). Medical Lower (32, 9, 3)
+[2020-10-30 20:22:17.037] OOC: zack24/(Asota Modesta) Asota Modesta (as Unknown) has logged in. Medical Lower (34, 8, 3)
+[2020-10-30 20:23:11.419] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta (as Unknown)(/mob/living/carbon/human/species/moth). Medical Lower (31, 9, 3)
+[2020-10-30 20:23:11.419] OOC: zack24/(Asota Modesta) Asota Modesta has logged in. Medical Lower (31, 9, 3)
+[2020-10-30 20:23:11.432] ADMIN: zack24/(Asota Modesta) admin ghosted at Medical Lower (31, 9, 3).
+[2020-10-30 20:23:14.317] ADMIN: zack24/(Asota Modesta) stuffed zack24 into Sofiya Justus.
+[2020-10-30 20:23:14.317] OOC: *no key*/(Asota Modesta) *no key*/(Asota Modesta) has left mob Asota Modesta(/mob/dead/observer). Medical Lower (31, 9, 3)
+[2020-10-30 20:23:14.317] OOC: zack24/(Sofiya Justus) Sofiya Justus has logged in. Medical Lower (32, 8, 3)
+[2020-10-30 20:27:11.631] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-10-30 20:29:19.186] ACCESS: Logout: Zack24/(Sofiya Justus)
+[2020-10-30 20:29:19.188] OOC: zack24[DC]/(Sofiya Justus) zack24[DC]/(Sofiya Justus) has left mob Sofiya Justus(/mob/living/carbon/human). Medical Lower (29, 10, 3)

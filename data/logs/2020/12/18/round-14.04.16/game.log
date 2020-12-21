@@ -1,0 +1,24 @@
+[2020-12-18 06:04:16.939] Starting up round ID .
+ - -------------------------
+[2020-12-18 06:04:18.039] GAME: Saved mode is 'Extended'
+[2020-12-18 06:04:25.799] GAME: LV telecomms dome loaded at at 31,35,2
+[2020-12-18 06:04:26.062] GAME: LV telecomms dome loaded at at 46,49,2
+[2020-12-18 06:04:26.171] GAME: LV telecomms dome loaded at at 46,20,2
+[2020-12-18 06:04:26.719] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-12-18 06:04:27.484] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-18 06:04:28.304] GAME: LV atmos dome loaded at at 147,50,2
+[2020-12-18 06:04:31.970] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-18 06:04:31.971] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-18 06:04:42.966] GAME: Alamo loaded at at 8,8,4
+[2020-12-18 06:04:43.094] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-18 06:04:43.123] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-18 06:04:43.147] GAME: Supply loaded at at 27,8,4
+[2020-12-18 06:04:45.315] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-18 06:04:45.315] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (38, 53, 3)
+[2020-12-18 06:04:53.181] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/runner/ancient at Hangar (40, 27, 3)
+[2020-12-18 06:04:54.299] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Runner (750).
+[2020-12-18 06:04:54.300] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (38, 27, 3)
+[2020-12-18 06:04:54.300] OOC: zack24/(Ancient Runner (750)) Ancient Runner (750) has logged in. Hangar (40, 27, 3)
+[2020-12-18 06:04:57.793] ADMIN: zack24/(Ancient Runner (630)) has started the round early.
+[2020-12-18 06:05:15.508] ACCESS: Logout: Zack24/(Ancient Runner (630))
+[2020-12-18 06:05:15.509] OOC: zack24[DC]/(Ancient Runner (630)) zack24[DC]/(Ancient Runner (630)) has left mob Ancient Runner (630)(/mob/living/carbon/xenomorph/runner/ancient). Hangar (38, 21, 3)

@@ -1,0 +1,72 @@
+[2020-12-12 22:45:36.926] Starting up round ID .
+ - -------------------------
+[2020-12-12 22:45:38.040] GAME: Saved mode is 'Extended'
+[2020-12-12 22:45:49.570] GAME: LV cargo dome loaded at at 31,35,2
+[2020-12-12 22:45:49.903] GAME: LV robotics dome loaded at at 46,49,2
+[2020-12-12 22:45:50.066] GAME: LV atmos dome loaded at at 46,20,2
+[2020-12-12 22:45:50.827] GAME: LV internal affairs dome loaded at at 67,8,2
+[2020-12-12 22:45:51.848] GAME: Hydro road loaded at at 106,51,2
+[2020-12-12 22:45:52.960] GAME: LV cargo dome loaded at at 147,50,2
+[2020-12-12 22:46:05.420] GAME: Alamo loaded at at 8,8,4
+[2020-12-12 22:46:05.544] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-12 22:46:05.578] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-12 22:46:05.604] GAME: Supply loaded at at 27,8,4
+[2020-12-12 22:46:50.643] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-12 22:46:50.644] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-12 22:47:08.906] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-12 22:47:08.906] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (38, 53, 3)
+[2020-12-12 22:47:43.593] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/weapon/gun/rifle/sniper at Hangar (41, 25, 3)
+[2020-12-12 22:48:34.453] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_guns at Hangar (39, 24, 3)
+[2020-12-12 22:48:38.105] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/marine/cargo_ammo at Hangar (40, 24, 3)
+[2020-12-12 22:48:45.941] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (42, 24, 3)
+[2020-12-12 22:48:45.942] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (42, 24, 3)
+[2020-12-12 22:48:45.968] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-12 22:48:50.142] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/reagent_containers/food/snacks/human/burger at Hangar (42, 24, 3)
+[2020-12-12 22:48:57.608] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (42, 24, 3)
+[2020-12-12 22:49:08.700] ADMIN: Zack24/(Jupiter Elder) updated the equipment to Squad Marine (Equipped) of *no key*/(Plodia Curvata).
+[2020-12-12 22:49:26.855] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/machinery/vending/uniform_supply at Hangar (41, 24, 3)
+[2020-12-12 22:50:20.078] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (42, 25, 3)
+[2020-12-12 22:50:20.078] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (42, 25, 3)
+[2020-12-12 22:50:20.089] ADMIN: Zack24/(Jupiter Elder) admin ghosted at Hangar (42, 25, 3).
+[2020-12-12 22:50:22.123] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Jupiter Elder.
+[2020-12-12 22:50:22.124] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (42, 26, 3)
+[2020-12-12 22:50:22.124] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (42, 25, 3)
+[2020-12-12 22:50:24.759] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (42, 26, 3)
+[2020-12-12 22:50:24.760] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (42, 26, 3)
+[2020-12-12 22:50:24.770] ADMIN: zack24/(Jupiter Elder) admin ghosted at Hangar (42, 26, 3).
+[2020-12-12 22:50:26.975] ADMIN: zack24/(Jupiter Elder) stuffed zack24 into Plodia Curvata (as Unknown).
+[2020-12-12 22:50:26.975] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (42, 26, 3)
+[2020-12-12 22:50:26.975] OOC: zack24/(Plodia Curvata) Plodia Curvata (as Unknown) has logged in. Hangar (42, 24, 3)
+[2020-12-12 22:50:35.450] ACCESS: Logout: Zack24/(Plodia Curvata)
+[2020-12-12 22:50:35.452] OOC: zack24[DC]/(Plodia Curvata) zack24[DC]/(Plodia Curvata) has left mob Plodia Curvata (as Unknown)(/mob/living/carbon/human/species/moth). Hangar (43, 24, 3)
+[2020-12-12 22:50:36.595] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-12 22:50:36.595] OOC: Zack24/(Plodia Curvata) Plodia Curvata (as Unknown) has logged in. Hangar (43, 24, 3)
+[2020-12-12 22:50:43.020] OOC: *no key*/(Plodia Curvata) *no key*/(Plodia Curvata) has left mob Plodia Curvata (as Unknown)(/mob/living/carbon/human/species/moth). Hangar (43, 24, 3)
+[2020-12-12 22:50:43.021] OOC: Zack24/(Plodia Curvata) Plodia Curvata has logged in. Hangar (43, 24, 3)
+[2020-12-12 22:50:43.032] ADMIN: Zack24/(Plodia Curvata) admin ghosted at Hangar (43, 24, 3).
+[2020-12-12 22:50:45.445] ADMIN: Zack24/(Plodia Curvata) stuffed Zack24 into Jupiter Elder.
+[2020-12-12 22:50:45.446] OOC: *no key*/(Plodia Curvata) *no key*/(Plodia Curvata) has left mob Plodia Curvata(/mob/dead/observer). Hangar (43, 25, 3)
+[2020-12-12 22:50:45.446] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (42, 26, 3)
+[2020-12-12 22:50:58.669] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/clothing/glasses/hud/health at Hangar (40, 25, 3)
+[2020-12-12 22:51:43.535] ADMIN: zack24/(Jupiter Elder) revived @Zack24[DC]/(Plodia Curvata).
+[2020-12-12 22:51:51.050] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Hangar (43, 25, 3)
+[2020-12-12 22:52:05.621] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-12 22:52:08.182] ADMIN: zack24/(Jupiter Elder) updated the equipment to Freelancer Leader of *no key*/(Mythimna Lineatipes).
+[2020-12-12 22:52:09.641] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (107, 18, 2)
+[2020-12-12 22:52:19.536] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/clothing/suit/storage/faction/freelancer at Hangar (44, 27, 3)
+[2020-12-12 22:54:19.723] SAY: *no key*/(mouse) "SQUEAK!" Kitchen (124, 14, 2)
+[2020-12-12 22:55:09.379] ADMIN: Zack24/(Jupiter Elder) modified The �TL-127 bolt action rifle's ammo from high caliber rifle bullet to high explosive rocket
+[2020-12-12 22:55:17.171] GAME: Explosion with size (0, 4, 6, 0) in (Hangar (35, 28, 3))
+[2020-12-12 22:55:27.147] ADMIN: zack24/(Jupiter Elder) revived zack24/(Jupiter Elder).
+[2020-12-12 22:55:31.413] ADMIN: zack24/(Jupiter Elder) revived *no key*/(Mythimna Lineatipes).
+[2020-12-12 22:55:35.635] ADMIN: zack24/(Jupiter Elder) revived @Zack24[DC]/(Plodia Curvata).
+[2020-12-12 22:57:19.518] ADMIN: Zack24/(Jupiter Elder) modified The �TL-127 bolt action rifle (Wielded)'s ammo_per_shot from 1 to 0
+[2020-12-12 22:57:30.432] ADMIN: Zack24/(Jupiter Elder) modified The �TL-127 bolt action rifle (Wielded)'s ammo from high caliber rifle bullet to high explosive rocket
+[2020-12-12 22:57:35.352] GAME: Explosion with size (0, 4, 6, 0) in (Hangar (41, 37, 3))
+[2020-12-12 22:57:37.951] GAME: Explosion with size (0, 4, 6, 0) in (Engineering Workshop (47, 31, 3))
+[2020-12-12 22:57:55.313] ADMIN: Zack24/(Jupiter Elder) modified TL-127 bolt action rifle magazine's current_rounds from 1 to 1111
+[2020-12-12 22:58:04.870] GAME: Explosion with size (0, 4, 6, 0) in (Hangar (43, 25, 3))
+[2020-12-12 22:58:06.869] GAME: Explosion with size (0, 4, 6, 0) in (Hangar (43, 19, 3))
+[2020-12-12 22:58:08.806] GAME: Explosion with size (0, 4, 6, 0) in (Hangar (46, 19, 3))
+[2020-12-12 22:59:33.324] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-12 22:59:33.326] OOC: zack24[DC]/(Jupiter Elder) zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (35, 30, 3)

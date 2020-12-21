@@ -1,0 +1,23 @@
+[2020-12-18 06:16:48.712] Starting up round ID .
+ - -------------------------
+[2020-12-18 06:16:49.843] GAME: Saved mode is 'Extended'
+[2020-12-18 06:16:58.993] GAME: LV robotics dome loaded at at 31,35,2
+[2020-12-18 06:16:59.293] GAME: LV telecomms dome loaded at at 46,49,2
+[2020-12-18 06:16:59.446] GAME: LV cargo dome loaded at at 46,20,2
+[2020-12-18 06:17:03.836] GAME: LV cargo dome loaded at at 67,8,2
+[2020-12-18 06:17:04.944] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-18 06:17:05.929] GAME: LV robotics dome loaded at at 147,50,2
+[2020-12-18 06:17:06.985] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-18 06:17:06.985] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-18 06:17:24.680] GAME: Alamo loaded at at 8,8,4
+[2020-12-18 06:17:24.980] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-18 06:17:25.008] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-18 06:17:25.050] GAME: Supply loaded at at 27,8,4
+[2020-12-18 06:18:04.555] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-18 06:18:04.555] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (35, 49, 3)
+[2020-12-18 06:18:13.013] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/runner/ancient at Hangar (36, 24, 3)
+[2020-12-18 06:18:14.400] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Runner (703).
+[2020-12-18 06:18:14.400] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (36, 26, 3)
+[2020-12-18 06:18:14.401] OOC: zack24/(Ancient Runner (703)) Ancient Runner (703) has logged in. Hangar (36, 24, 3)
+[2020-12-18 06:18:25.963] ACCESS: Logout: Zack24/(Ancient Runner (376))
+[2020-12-18 06:18:25.964] OOC: zack24[DC]/(Ancient Runner (376)) zack24[DC]/(Ancient Runner (376)) has left mob Ancient Runner (376)(/mob/living/carbon/xenomorph/runner/ancient). Hangar (33, 26, 3)

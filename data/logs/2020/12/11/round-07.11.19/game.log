@@ -1,0 +1,56 @@
+[2020-12-10 23:11:19.537] Starting up round ID .
+ - -------------------------
+[2020-12-10 23:11:20.669] GAME: Saved mode is 'Extended'
+[2020-12-10 23:11:29.531] GAME: LV cargo dome loaded at at 31,35,2
+[2020-12-10 23:11:29.873] GAME: LV cargo dome loaded at at 46,49,2
+[2020-12-10 23:11:30.017] GAME: LV cargo dome loaded at at 46,20,2
+[2020-12-10 23:11:30.635] GAME: LV internal affairs dome loaded at at 67,8,2
+[2020-12-10 23:11:31.500] GAME: Hydro maintenance path loaded at at 106,51,2
+[2020-12-10 23:11:32.362] GAME: LV telecomms dome loaded at at 147,50,2
+[2020-12-10 23:11:39.938] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-10 23:11:39.939] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-10 23:11:47.533] GAME: Alamo loaded at at 8,8,4
+[2020-12-10 23:11:47.661] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-10 23:11:47.696] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-10 23:11:47.733] GAME: Supply loaded at at 27,8,4
+[2020-12-10 23:12:03.987] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-10 23:12:03.987] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (39, 49, 3)
+[2020-12-10 23:13:23.636] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 25, 3)
+[2020-12-10 23:13:30.499] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (43, 25, 3)
+[2020-12-10 23:13:30.500] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (43, 25, 3)
+[2020-12-10 23:13:30.531] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-10 23:13:32.671] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (43, 25, 3)
+[2020-12-10 23:13:32.672] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (43, 25, 3)
+[2020-12-10 23:13:32.681] ADMIN: Zack24/(Jupiter Elder) admin ghosted at Hangar (43, 25, 3).
+[2020-12-10 23:13:33.918] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Empress (375).
+[2020-12-10 23:13:33.918] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (43, 26, 3)
+[2020-12-10 23:13:33.918] OOC: zack24/(Ancient Empress (375)) Ancient Empress (375) has logged in. Hangar (41, 25, 3)
+[2020-12-10 23:13:57.709] ADMIN: zack24/(Ancient Empress (928)) spawned 1 x /obj/item/explosive/grenade/smokebomb at Hangar (42, 25, 3)
+[2020-12-10 23:14:01.544] OOC: *no key*/(Ancient Empress (928)) *no key*/(Ancient Empress (928)) has left mob Ancient Empress (928)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (40, 25, 3)
+[2020-12-10 23:14:01.545] OOC: zack24/(Ancient Empress (928)) Ancient Empress (928) has logged in. Hangar (40, 25, 3)
+[2020-12-10 23:14:01.559] ADMIN: zack24/(Ancient Empress (928)) admin ghosted at Hangar (40, 25, 3).
+[2020-12-10 23:14:02.672] ADMIN: zack24/(Ancient Empress (928)) stuffed zack24 into Jupiter Elder.
+[2020-12-10 23:14:02.673] OOC: *no key*/(Ancient Empress (928)) *no key*/(Ancient Empress (928)) has left mob Ancient Empress (928)(/mob/dead/observer). Hangar (40, 25, 3)
+[2020-12-10 23:14:02.674] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (43, 25, 3)
+[2020-12-10 23:14:04.342] EXPLOSION: zack24/(Jupiter Elder) primed the �M40 HSDP smoke grenade at Hangar (43, 25, 3).
+[2020-12-10 23:14:05.666] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (43, 25, 3)
+[2020-12-10 23:14:05.666] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (43, 25, 3)
+[2020-12-10 23:14:05.678] ADMIN: zack24/(Jupiter Elder) admin ghosted at Hangar (43, 25, 3).
+[2020-12-10 23:14:08.509] ADMIN: zack24/(Jupiter Elder) stuffed zack24 into Ancient Empress (928).
+[2020-12-10 23:14:08.510] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Hangar (43, 25, 3)
+[2020-12-10 23:14:08.510] OOC: zack24/(Ancient Empress (928)) Ancient Empress (928) has logged in. Hangar (40, 25, 3)
+[2020-12-10 23:17:40.238] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (121, 13, 2)
+[2020-12-10 23:19:42.236] SAY: *no key*/(mouse) "Squeak?" Main Hallway (120, 14, 2)
+[2020-12-10 23:21:52.237] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-10 23:22:52.235] SAY: *no key*/(mouse) "Squeak!" Main Hallway (121, 15, 2)
+[2020-12-10 23:24:34.235] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (121, 15, 2)
+[2020-12-10 23:24:42.234] SAY: *no key*/(mouse) "Squeak?" Main Hallway (121, 15, 2)
+[2020-12-10 23:27:20.235] SAY: *no key*/(mouse) "SQUEAK!" Main Hallway (121, 15, 2)
+[2020-12-10 23:28:34.235] SAY: *no key*/(mouse) "Squeak!" Main Hallway (121, 15, 2)
+[2020-12-10 23:31:38.235] SAY: *no key*/(Lisa) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-10 23:32:12.236] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-10 23:32:52.235] SAY: *no key*/(Lisa) "Woof!" Commandant's Quarters (106, 19, 2)
+[2020-12-10 23:38:53.687] ADMIN: Admin Approval: 'Event:Intel computer activation' was answered with approve due to lack of online admin.
+[2020-12-10 23:38:53.690] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-10 23:42:07.206] ACCESS: Logout: Zack24/(Ancient Empress (660))
+[2020-12-10 23:42:07.217] OOC: zack24[DC]/(Ancient Empress (660)) zack24[DC]/(Ancient Empress (660)) has left mob Ancient Empress (660)(/mob/living/carbon/xenomorph/queen/ancient). Hangar (40, 25, 3)

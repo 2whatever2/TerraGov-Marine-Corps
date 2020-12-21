@@ -1,0 +1,124 @@
+[2020-12-18 05:02:37.244] Starting up round ID .
+ - -------------------------
+[2020-12-18 05:02:38.433] GAME: Saved mode is 'Extended'
+[2020-12-18 05:02:54.979] ACCESS: Login: Zack24 from 127.0.0.1-2571130799 || BYOND v513.1536
+[2020-12-18 05:02:54.980] OOC: Zack24/(Zack24) Zack24 has logged in. start area (8, 8, 1)
+[2020-12-18 05:02:55.052] GAME: LV telecomms dome loaded at at 31,35,2
+[2020-12-18 05:02:55.376] GAME: LV robotics dome loaded at at 46,49,2
+[2020-12-18 05:02:55.475] GAME: LV telecomms dome loaded at at 46,20,2
+[2020-12-18 05:02:56.218] GAME: LV telecomms dome loaded at at 67,8,2
+[2020-12-18 05:02:57.178] GAME: Hydro road loaded at at 106,51,2
+[2020-12-18 05:02:58.403] GAME: LV internal affairs dome loaded at at 147,50,2
+[2020-12-18 05:03:14.059] GAME: Alamo loaded at at 8,8,4
+[2020-12-18 05:03:14.442] GAME: Escape Pod loaded at at 19,8,4
+[2020-12-18 05:03:14.472] GAME: Escape Pod loaded at at 23,8,4
+[2020-12-18 05:03:14.499] GAME: Supply loaded at at 27,8,4
+[2020-12-18 05:03:28.800] OOC: *no key*/(Zack24) *no key*/(Zack24) has left mob Zack24(/mob/new_player). start area (8, 8, 1)
+[2020-12-18 05:03:28.801] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Cryo Cells (38, 51, 3)
+[2020-12-18 05:04:10.444] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Medical Lower (31, 8, 3)
+[2020-12-18 05:04:10.922] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Medical Lower (30, 8, 3)
+[2020-12-18 05:04:10.922] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Medical Lower (30, 8, 3)
+[2020-12-18 05:04:10.980] ADMIN: Zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-18 05:04:24.702] ADMIN: Zack24/(Jupiter Elder) has started the round early.
+[2020-12-18 05:04:31.977] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/weapon/gun/pistol/m4a3/custom at Medical Lower (32, 9, 3)
+[2020-12-18 05:04:54.220] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/roller at Medical Lower (30, 9, 3)
+[2020-12-18 05:09:28.534] SAY: *no key*/(mouse) "Squeak!" Kitchen (125, 14, 2)
+[2020-12-18 05:11:13.060] ADMIN: Zack24/(Jupiter Elder) deleted Acantharctia Intolerabilis(/mob/living/carbon/human/species/moth) at Medical Lower (30, 9, 3).
+[2020-12-18 05:11:21.923] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Medical Lower (32, 9, 3)
+[2020-12-18 05:11:36.406] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /obj/item/weapon/gun/pistol/highpower at Medical Lower (33, 9, 3)
+[2020-12-18 05:15:06.773] ADMIN: Zack24/(Jupiter Elder) deleted Eclipsea Accurata(/mob/living/carbon/human/species/moth) at Medical Lower (30, 9, 3).
+[2020-12-18 05:15:11.959] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/human/species/moth at Medical Lower (30, 9, 3)
+[2020-12-18 05:18:23.181] SAY: *no key*/(mouse) "Squeak?" Canteen (131, 17, 2)
+[2020-12-18 05:19:09.185] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-18 05:21:41.886] ADMIN: Zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/runner/ancient at Medical Lower (31, 8, 3)
+[2020-12-18 05:21:43.277] SAY: *no key*/(mouse) "SQUEAK!" Canteen (131, 17, 2)
+[2020-12-18 05:21:43.839] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Medical Lower (29, 7, 3)
+[2020-12-18 05:21:43.840] OOC: Zack24/(Jupiter Elder) Jupiter Elder has logged in. Medical Lower (29, 7, 3)
+[2020-12-18 05:21:43.875] ADMIN: Zack24/(Jupiter Elder) admin ghosted at Medical Lower (29, 7, 3).
+[2020-12-18 05:21:45.549] ADMIN: Zack24/(Jupiter Elder) stuffed Zack24 into Ancient Runner (790).
+[2020-12-18 05:21:45.550] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Medical Lower (29, 13, 3)
+[2020-12-18 05:21:45.550] OOC: zack24/(Ancient Runner (790)) Ancient Runner (790) has logged in. Medical Lower (31, 8, 3)
+[2020-12-18 05:22:23.288] SAY: *no key*/(mouse) "SQUEAK!" Canteen (129, 16, 2)
+[2020-12-18 05:22:27.288] SAY: *no key*/(mouse) "SQUEAK!" Canteen (129, 16, 2)
+[2020-12-18 05:22:36.384] OOC: *no key*/(Ancient Runner (228)) *no key*/(Ancient Runner (228)) has left mob Ancient Runner (228)(/mob/living/carbon/xenomorph/runner/ancient). Medical Lower (32, 9, 3)
+[2020-12-18 05:22:36.384] OOC: zack24/(Ancient Runner (228)) Ancient Runner (228) has logged in. Medical Lower (32, 9, 3)
+[2020-12-18 05:22:36.400] ADMIN: zack24/(Ancient Runner (228)) admin ghosted at Medical Lower (32, 9, 3).
+[2020-12-18 05:22:37.926] ADMIN: zack24/(Ancient Runner (228)) stuffed zack24 into Jupiter Elder.
+[2020-12-18 05:22:37.926] OOC: *no key*/(Ancient Runner (228)) *no key*/(Ancient Runner (228)) has left mob Ancient Runner (228)(/mob/dead/observer). Medical Lower (26, 9, 3)
+[2020-12-18 05:22:37.926] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Medical Lower (27, 12, 3)
+[2020-12-18 05:22:49.060] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Medical Lower (30, 9, 3)
+[2020-12-18 05:22:49.061] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Medical Lower (30, 9, 3)
+[2020-12-18 05:22:49.076] ADMIN: zack24/(Jupiter Elder) admin ghosted at Medical Lower (30, 9, 3).
+[2020-12-18 05:22:50.910] ADMIN: zack24/(Jupiter Elder) stuffed zack24 into Ancient Runner (228).
+[2020-12-18 05:22:50.910] OOC: *no key*/(Jupiter Elder) *no key*/(Jupiter Elder) has left mob Jupiter Elder(/mob/dead/observer). Medical Lower (30, 9, 3)
+[2020-12-18 05:22:50.911] OOC: zack24/(Ancient Runner (228)) Ancient Runner (228) has logged in. Medical Lower (32, 9, 3)
+[2020-12-18 05:23:11.288] SAY: *no key*/(mouse) "Squeak?" Canteen (131, 18, 2)
+[2020-12-18 05:25:52.395] ADMIN: zack24/(Ancient Runner (70)) spawned 1 x /mob/living/carbon/xenomorph/praetorian/ancient at Medical Lower (29, 9, 3)
+[2020-12-18 05:25:53.552] OOC: *no key*/(Ancient Runner (70)) *no key*/(Ancient Runner (70)) has left mob Ancient Runner (70)(/mob/living/carbon/xenomorph/runner/ancient). Medical Lower (30, 12, 3)
+[2020-12-18 05:25:53.552] OOC: zack24/(Ancient Runner (70)) Ancient Runner (70) has logged in. Medical Lower (30, 12, 3)
+[2020-12-18 05:25:53.562] ADMIN: zack24/(Ancient Runner (70)) admin ghosted at Medical Lower (30, 12, 3).
+[2020-12-18 05:25:54.844] ADMIN: zack24/(Ancient Runner (70)) stuffed zack24 into Ancient Praetorian (697).
+[2020-12-18 05:25:54.844] OOC: *no key*/(Ancient Runner (70)) *no key*/(Ancient Runner (70)) has left mob Ancient Runner (70)(/mob/dead/observer). Medical Lower (30, 10, 3)
+[2020-12-18 05:25:54.845] OOC: zack24/(Ancient Praetorian (697)) Ancient Praetorian (697) has logged in. Medical Lower (29, 9, 3)
+[2020-12-18 05:26:33.138] OOC: *no key*/(Ancient Praetorian (381)) *no key*/(Ancient Praetorian (381)) has left mob Ancient Praetorian (381)(/mob/living/carbon/xenomorph/praetorian/ancient). Hangar (43, 15, 3)
+[2020-12-18 05:26:33.139] OOC: zack24/(Ancient Praetorian (381)) Ancient Praetorian (381) has logged in. Hangar (43, 15, 3)
+[2020-12-18 05:26:33.149] ADMIN: zack24/(Ancient Praetorian (381)) admin ghosted at Hangar (43, 15, 3).
+[2020-12-18 05:26:45.995] ADMIN: zack24/(Ancient Praetorian (381)) spawned 1 x /obj/item/weapon/gun/shotgun/double/sawn at Hangar (40, 26, 3)
+[2020-12-18 05:26:53.931] OOC: *no key*/(Ancient Praetorian (381)) *no key*/(Ancient Praetorian (381)) has left mob Ancient Praetorian (381)(/mob/dead/observer). Hangar (41, 26, 3)
+[2020-12-18 05:26:53.931] OOC: zack24/(Jupiter Elder) Jupiter Elder has logged in. Hangar (41, 26, 3)
+[2020-12-18 05:26:53.948] ADMIN: zack24/(Jupiter Elder) became a spatial agent.
+[2020-12-18 05:27:07.522] ADMIN: Zack24/(Jupiter Elder) modified shotgun buckshot shell's point_blank_range from 2 to 8
+[2020-12-18 05:27:10.926] ADMIN: Zack24/(Jupiter Elder) modified shotgun buckshot shell's damage_falloff from 4 to 0
+[2020-12-18 05:27:32.959] ADMIN: Zack24/(Jupiter Elder) modified The sawn-off shotgun's ammo_per_shot from 1 to 0
+[2020-12-18 05:27:55.913] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/ammo_magazine/handful/buckshot at Hangar (41, 26, 3)
+[2020-12-18 05:28:09.604] SAY: *no key*/(mouse) "SQUEAK!" Canteen (131, 23, 2)
+[2020-12-18 05:28:10.943] ADMIN: Zack24/(Jupiter Elder) modified The sawn-off shotgun's ammo_per_shot from 0 to -1
+[2020-12-18 05:29:01.617] SAY: *no key*/(mouse) "SQUEAK!" Canteen (131, 23, 2)
+[2020-12-18 05:29:16.684] ADMIN: Zack24/(Jupiter Elder) modified shotgun buckshot shell's bonus_projectiles_amount from 5 to 15
+[2020-12-18 05:29:51.617] SAY: *no key*/(Mr. Wiggles) "AUUUUUU" Commandant's Quarters (106, 19, 2)
+[2020-12-18 05:30:11.617] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-18 05:30:20.149] ADMIN: Zack24/(Jupiter Elder) modified The handful of shotgun buckshot shells (12g)'s current_rounds from 0 to 555
+[2020-12-18 05:30:41.148] ADMIN: Zack24/(Jupiter Elder) modified The handful of shotgun buckshot shells (12g)'s current_rounds from 1 to 11
+[2020-12-18 05:31:37.627] SAY: *no key*/(mouse) "SQUEAK!" Canteen (134, 25, 2)
+[2020-12-18 05:31:50.427] ADMIN: Zack24/(Jupiter Elder) modified The handful of shotgun buckshot shells (12g)'s current_rounds from 0 to 1.11111e+021
+[2020-12-18 05:31:59.227] GAME: Random Event triggering: Intel computer activation (/datum/round_event/intel_computer)
+[2020-12-18 05:32:07.139] ADMIN: Zack24/(Jupiter Elder) modified The handful of shotgun buckshot shells (12g)'s current_rounds from 1.11111e+021 to 5
+[2020-12-18 05:32:23.415] ADMIN: Zack24/(Jupiter Elder) modified The handful of shotgun buckshot shells (12g)'s current_rounds from 1 to 11111
+[2020-12-18 05:34:45.628] SAY: *no key*/(mouse) "Squeak!" Canteen (133, 25, 2)
+[2020-12-18 05:35:30.448] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/weapon/gun/rifle/m412/elite at Hangar (40, 23, 3)
+[2020-12-18 05:36:21.676] SAY: *no key*/(Lisa) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-18 05:36:41.613] ADMIN: Zack24/(Jupiter Elder) modified The �M412 AP magazine (10x24mm)'s current_rounds from 39 to 1.11111e+011
+[2020-12-18 05:36:51.197] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 19, 3)
+[2020-12-18 05:37:05.294] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/ammo_magazine/rifle/ap at Hangar (42, 19, 3)
+[2020-12-18 05:37:07.103] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/ammo_magazine/rifle/ap at Hangar (42, 20, 3)
+[2020-12-18 05:37:08.509] ADMIN: zack24/(Jupiter Elder) spawned 1 x /obj/item/ammo_magazine/rifle/ap at Hangar (42, 21, 3)
+[2020-12-18 05:37:41.997] SAY: *no key*/(mouse) "Squeak?" Kitchen (128, 25, 2)
+[2020-12-18 05:39:29.998] SAY: *no key*/(Mr. Wiggles) "Bark!" Commandant's Quarters (106, 19, 2)
+[2020-12-18 05:40:48.001] SAY: *no key*/(Mr. Wiggles) "YAP" Commandant's Quarters (106, 19, 2)
+[2020-12-18 05:41:16.807] ADMIN: Zack24/(Jupiter Elder) modified armor-piercing rifle bullet's bonus_projectiles_scatter from 8 to 3
+[2020-12-18 05:41:18.932] ADMIN: Zack24/(Jupiter Elder) modified armor-piercing rifle bullet's bonus_projectiles_amount from 0 to 1111
+[2020-12-18 05:41:28.054] ADMIN: Zack24/(Jupiter Elder) modified armor-piercing rifle bullet's bonus_projectiles_amount from 1111 to 3
+[2020-12-18 05:41:34.650] ADMIN: Zack24/(Jupiter Elder) modified armor-piercing rifle bullet's bonus_projectiles_amount from 3 to 10
+[2020-12-18 05:41:52.117] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 22, 3)
+[2020-12-18 05:41:56.405] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 22, 3)
+[2020-12-18 05:41:57.207] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 21, 3)
+[2020-12-18 05:41:57.763] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 21, 3)
+[2020-12-18 05:41:58.215] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (42, 21, 3)
+[2020-12-18 05:41:58.603] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (42, 22, 3)
+[2020-12-18 05:41:59.067] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (43, 22, 3)
+[2020-12-18 05:41:59.644] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (43, 21, 3)
+[2020-12-18 05:42:00.204] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (44, 21, 3)
+[2020-12-18 05:42:00.679] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (44, 22, 3)
+[2020-12-18 05:42:01.095] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (45, 22, 3)
+[2020-12-18 05:42:01.591] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (45, 21, 3)
+[2020-12-18 05:42:02.037] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (45, 20, 3)
+[2020-12-18 05:42:02.736] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (44, 20, 3)
+[2020-12-18 05:42:03.277] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (43, 20, 3)
+[2020-12-18 05:42:03.914] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (42, 20, 3)
+[2020-12-18 05:42:04.422] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (41, 20, 3)
+[2020-12-18 05:42:04.865] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/queen/ancient at Hangar (40, 20, 3)
+[2020-12-18 05:43:24.112] EXPLOSION: *null* triggered a fueltank explosion at Requisitions (56, 15, 3).
+[2020-12-18 05:43:24.132] GAME: Explosion with size (, , 4, 4) in (Requisitions (56, 15, 3))
+[2020-12-18 05:43:35.506] ADMIN: zack24/(Jupiter Elder) spawned 1 x /mob/living/carbon/xenomorph/runner/ancient at Hangar (37, 19, 3)
+[2020-12-18 05:43:51.989] ACCESS: Logout: Zack24/(Jupiter Elder)
+[2020-12-18 05:43:51.994] OOC: zack24[DC]/(Jupiter Elder) zack24[DC]/(Jupiter Elder) has left mob Jupiter Elder(/mob/living/carbon/human). Hangar (37, 22, 3)
